@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<gameList>
+	<folder>
+		<path>./controles</path>
+		<name>Instalar controles (Drivers)</name>
+		<desc>Escolha o controle e instale-o.</desc>
+		<image>./media/images/acontroles-image.png</image>
+		<marquee>./media/marquees/controles-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>0</playcount>
+	</folder>
+	<game>
+		<path>./Instalar Controle Playstation2 (Feir)(usb Microntek).sh</path>
+		<name>Controle Playstation2 (Feir)(usb Microntek)</name>
+		<desc>Selecione este controle para usa-lo no sistema RETROBOX.
+Apos o sistema reiniciar e voltar, o controle estara configurado e pronto para uso. 
+#######Controle da marca Feir#######
+#######Driver 'Microntek           .cfg'#######
+
+#######Hotkeys-------&gt;
+SELEÇÃO DE SISTEMAS= SELECT + START 
+RESETAR JOGO= SELECT + X
+SALVAR JOGO= SELECT + QUADRADO
+CARREGAR JOGO SALVO= SELECT + TRIANGULO
+SELECIONAR SLOT(-)= SELECT + R
+SELECIONAR SLOT(+)= SELECT + L
+</desc>
+		<image>./media/images/background-image.png</image>
+		<marquee>./media/marquees/Controle Playstation2 (Feir)(usb Microntek.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200608T121735</lastplayed>
+		<gametime>14</gametime>
+	</game>
+	<game>
+		<path>./kof/fracos-em-cima-[fbn].sh</path>
+		<name>The King of Fighter's "fracos em cima"</name>
+		<desc>The King of Fighter's "fracos em cima" FBAlpha</desc>
+		<image>./media/images/fracos-em-cima-[fba][controller]-image.png</image>
+		<marquee>./media/marquees/fracos-em-cima-[fba][controller]-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20181116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./kof/socos-em-cima-[fbn].sh</path>
+		<name>The King of Fighter's "socos em cima"</name>
+		<desc>The King of Fighter's "socos em cima" FBAlpha</desc>
+		<image>./media/images/socos-em-cima-[fba][controller]-image.png</image>
+		<marquee>./media/marquees/socos-em-cima-[fba][controller]-marquees.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20181116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./kof/fortes-em-cima-[fbn].sh</path>
+		<name>The King of Fighter's "fortes em cima"</name>
+		<desc>The King of Fighter's "fortes em cima" FBAlpha</desc>
+		<image>./media/images/fortes-em-cima-[fba][controller]-image.png</image>
+		<marquee>./media/marquees/fortes-em-cima-[fba][controller]-marquees.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20181116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./kof/Q-R[fbn].sh</path>
+		<name>The King of Fighter's "Type B"</name>
+		<desc>The King of Fighter's "fortes em cima" FBAlpha</desc>
+		<image>./media/images/Q-R[fba]-image.png</image>
+		<marquee>./media/marquees/Q-R[fba]-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20181116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./kof/X-L[fbn].sh</path>
+		<name>The King of Fighter's "Type C"</name>
+		<desc>The King of Fighter's "fortes em cima" FBAlpha</desc>
+		<image>./media/images/X-L[fba]-image.png</image>
+		<marquee>./media/marquees/X-L[fba]-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20181116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<players>1</players>
+	</game>
+	<folder>
+		<path>./kof</path>
+		<name>The King of Fighter's Controles (Layouts)</name>
+		<desc>The King of Fighter's Controles (Layouts)</desc>
+		<image>./media/images/king-of-fighters-[Layouts]-image.png</image>
+		<marquee>./media/marquees/king-of-fighters-[Layouts]-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20181116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<players>1</players>
+	</folder>
+	<game>
+		<path>./Retrobox_Nostalgic-MOD.sh</path>
+		<name>Tema Retrobox-Nostalgic [MOD]</name>
+		<desc>Instalar o tema Retrobox-Nostalgic [MOD]</desc>
+		<image>./media/images/Retrobox_Nostalgic-MOD-image.png</image>
+		<marquee>./media/marquees/Retrobox_Nostalgic-MOD-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Retrobox_ARTFLIX-MOD.sh</path>
+		<name>Tema Retrobox-ARTFLIX [MOD]</name>
+		<desc>Instalar o tema Retrobox-ARTFLIX [MOD].</desc>
+		<image>./media/images/Retrobox_ARTFLIX-MOD-image.png</image>
+		<marquee>./media/marquees/Retrobox_ARTFLIX-MOD-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200804T080019</lastplayed>
+		<gametime>10</gametime>
+	</game>
+	<folder>
+		<path>./android</path>
+		<name>Entrar no Modo Android</name>
+		<desc>Software:
+O.S.:Android TV Box
+Decoder Formats:4K,H.265,MPEG1/2/4,H.264, HD
+AVC/VC-1,RM/RMVB,Xvid/DivX3/4/5/6 ,RealVideo8/9/10
+Video Formats:4K@30fps, H.265, AVI, H.264, VC-1, MPEG-2, MPEG-4, DIVD/DIVX, Real8/9/10, RM,RMVB, PMP, FLV, MP4, M4V, VOB, WMV, 3GP, MKV
+Music Format:MP1, MP2, MP3, WMA, OGG, AAC, M4A, FLAC, APE, AMR, RA, WAV
+Photo Format:JPEG/BMP/GIF/PNG/TIFF
+DLNA:DLNA files sharing
+LANGUAGES:English/French/German/Spanish/Italian etc. 24 languages
+Network Functions:Skype chatting,Picasa,Youtube,Flicker,Facebook,Online movies,etc.</desc>
+		<image>./media/images/Entrar no Modo Android-image.png</image>
+		<marquee>./media/marquees/Entrar no Modo Android-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200804T080019</lastplayed>
+		<gametime>10</gametime>
+	</folder>
+	<folder>
+		<path>./nao_mexa</path>
+		<name>Não mexa</name>
+		<desc>Não entre aqui sem antes falar com o suporte.</desc>
+		<image>./media/images/Update remoto (32GB)-image.png</image>
+		<marquee>./media/marquees/Update remoto (32GB)-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>0</playcount>
+	</folder>
+	<folder>
+		<path>./nao_mexa/assistencia</path>
+		<name>Autorizado pela assistência</name>
+		<desc>Não entre aqui sem antes falar com o suporte.</desc>
+		<image>./media/images/Update remoto (32GB)-image.png</image>
+		<marquee>./media/marquees/Update remoto (32GB)-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>0</playcount>
+	</folder>
+	<game>
+		<path>./android/Modo_Android.sh</path>
+		<name>Entrar no Modo Android</name>
+		<desc>Software:
+O.S.:Android TV Box
+Decoder Formats:4K,H.265,MPEG1/2/4,H.264, HD
+AVC/VC-1,RM/RMVB,Xvid/DivX3/4/5/6 ,RealVideo8/9/10
+Video Formats:4K@30fps, H.265, AVI, H.264, VC-1, MPEG-2, MPEG-4, DIVD/DIVX, Real8/9/10, RM,RMVB, PMP, FLV, MP4, M4V, VOB, WMV, 3GP, MKV
+Music Format:MP1, MP2, MP3, WMA, OGG, AAC, M4A, FLAC, APE, AMR, RA, WAV
+Photo Format:JPEG/BMP/GIF/PNG/TIFF
+DLNA:DLNA files sharing
+LANGUAGES:English/French/German/Spanish/Italian etc. 24 languages
+Network Functions:Skype chatting,Picasa,Youtube,Flicker,Facebook,Online movies,etc.</desc>
+		<image>./media/images/Entrar no Modo Android-image.png</image>
+		<marquee>./media/marquees/Entrar no Modo Android-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>2</playcount>
+		<lastplayed>20200917T214235</lastplayed>
+		<gametime>10</gametime>
+	</game>
+	<game>
+		<path>./nao_mexa/assistencia/Update remoto (32GB).sh</path>
+		<name>Update remoto</name>
+		<desc>Não execute sem antes falar com o suporte.</desc>
+		<image>./media/images/Update remoto (32GB)-image.png</image>
+		<marquee>./media/marquees/Update remoto (32GB)-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200917T214114</lastplayed>
+	</game>
+	<game>
+		<path>./nao_mexa/assistencia/Emulationstation Restart.sh</path>
+		<name>Emulationstation Restart</name>
+		<desc>Reiniciar Emulationstation.</desc>
+		<image>./media/images/Emulationstation Restart-image.png</image>
+		<marquee>./media/marquees/Emulationstation Restart-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>4</playcount>
+		<lastplayed>20220323T080438</lastplayed>
+		<gametime>39</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jogar 4x3.sh</path>
+		<name>Jogar 4/3 C/ overlay</name>
+		<desc>Jogar 4x3 C/ overlay modo original.</desc>
+		<image>./media/images/4-3-image.png</image>
+		<marquee>./media/marquees/jogar 4x3-marquees.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>2</playcount>
+		<lastplayed>20200917T214839</lastplayed>
+		<gametime>24</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Atualizar controles.sh</path>
+		<name>Atualizar Controles</name>
+		<desc>Atualizar controles incluidos no kit.</desc>
+		<image>./media/images/acontroles-image.png</image>
+		<marquee>./media/marquees/Atualizar Controles.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>Varios</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./nao_mexa/assistencia/Update remoto (64GB).sh</path>
+		<name>Update remoto</name>
+		<desc>Não execute sem antes falar com o suporte.</desc>
+		<image>./media/images/Update remoto (32GB)-image.png</image>
+		<marquee>./media/marquees/Update remoto (32GB)-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>5</playcount>
+		<lastplayed>20220323T090417</lastplayed>
+		<gametime>68</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jogar 16x9.sh</path>
+		<name>Jogar 16/9 Fullscreen</name>
+		<desc>Jogar 16/9 em modo Fullscreen.</desc>
+		<image>./media/images/16-9-image.png</image>
+		<marquee>./media/marquees/jogar 16x9-marquees.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20201116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>2</playcount>
+		<lastplayed>20200917T214643</lastplayed>
+		<gametime>24</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./resolucao_720p.sh</path>
+		<name>TVs HD (720p) 1280x720</name>
+		<desc>TVs HD (720p) 1280x720.</desc>
+		<image>./media/images/resolucao_720p-image.png</image>
+		<marquee>./media/marquees/resolucao_720p-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20211116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>3</playcount>
+		<lastplayed>20200908T160653</lastplayed>
+		<gametime>39</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./resolucao_1080p.sh</path>
+		<name>TVs FullHD (1080p) 1920x1080</name>
+		<desc>TVs FullHD (1080p) 1920x1080.</desc>
+		<image>./media/images/resolucao_1080p-image.png</image>
+		<marquee>./media/marquees/resolucao_1080p-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20211116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>3</playcount>
+		<lastplayed>20200908T160653</lastplayed>
+		<gametime>39</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./controles/Instalar Controle Super Nintendo (Feir)(USB gamepad)(R5G).sh</path>
+		<name>Controle SUPER NINTENDO (R5)(usb gra)</name>
+		<desc>Selecione este controle para usa-lo no sistema Super Nintendo e Nintendo (Nintendinho).
+Apos o sistema reiniciar e voltar, o controle estara configurado e pronto para uso. 
+#######Controle da marca Feir#######
+#######Driver 'usb gamepad           .cfg'#######
+
+#######Hotkeys-------&gt;
+SELEÇÃO DE SISTEMAS= SELECT + START 
+RESETAR JOGO= SELECT + A
+SALVAR JOGO= SELECT + Y
+CARREGAR JOGO SALVO= SELECT + X
+SELECIONAR SLOT(-)= SELECT + R
+SELECIONAR SLOT(+)= SELECT + L</desc>
+		<image>./media/images/background-image.png</image>
+		<marquee>./media/marquees/Controle SUPER NINTENDO (R5)(usb peq).png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./controles/Instalar Controle Super Nintendo (Feir)(USB gamepad)(R6G).sh</path>
+		<name>Controle SUPER NINTENDO (R6)(USB gra)</name>
+		<desc>Selecione este controle para usa-lo no sistema Super Nintendo e Nintendo (Nintendinho).
+Apos o sistema reiniciar e voltar, o controle estara configurado e pronto para uso. 
+#######Controle da marca Feir#######
+#######Driver 'usb gamepad           .cfg'#######
+
+#######Hotkeys-------&gt;
+SELEÇÃO DE SISTEMAS= SELECT + START 
+RESETAR JOGO= SELECT + A
+SALVAR JOGO= SELECT + Y
+CARREGAR JOGO SALVO= SELECT + X
+SELECIONAR SLOT(-)= SELECT + R
+SELECIONAR SLOT(+)= SELECT + L</desc>
+		<image>./media/images/background-image.png</image>
+		<marquee>./media/marquees/Controle SUPER NINTENDO (R6)(USB gra).png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./controles/Instalar Controle Super Nintendo (Feir)(usb gamepad)(R6P).sh</path>
+		<name>Controle SUPER NINTENDO (R6)(usb peq)</name>
+		<desc>Selecione este controle para usa-lo no sistema Super Nintendo e Nintendo (Nintendinho).
+Apos o sistema reiniciar e voltar, o controle estara configurado e pronto para uso. 
+#######Controle da marca Feir#######
+#######Driver 'usb gamepad           .cfg'#######
+
+#######Hotkeys-------&gt;
+SELEÇÃO DE SISTEMAS= SELECT + START 
+RESETAR JOGO= SELECT + A
+SALVAR JOGO= SELECT + Y
+CARREGAR JOGO SALVO= SELECT + X
+SELECIONAR SLOT(-)= SELECT + R
+SELECIONAR SLOT(+)= SELECT + L</desc>
+		<image>./media/images/background-image.png</image>
+		<marquee>./media/marquees/Controle SUPER NINTENDO (R6)(usb peq).png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200608T121735</lastplayed>
+		<gametime>14</gametime>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./controles/Instalar Controle Super Nintendo (Feir)(usb gamepad)(R5P).sh</path>
+		<name>Controle SUPER NINTENDO (R5)(usb peq)</name>
+		<desc>Selecione este controle para usa-lo no sistema Super Nintendo e Nintendo (Nintendinho).
+Apos o sistema reiniciar e voltar, o controle estara configurado e pronto para uso. 
+#######Controle da marca Feir#######
+#######Driver 'usb gamepad           .cfg'#######
+
+#######Hotkeys-------&gt;
+SELEÇÃO DE SISTEMAS= SELECT + START 
+RESETAR JOGO= SELECT + A
+SALVAR JOGO= SELECT + Y
+CARREGAR JOGO SALVO= SELECT + X
+SELECIONAR SLOT(-)= SELECT + R
+SELECIONAR SLOT(+)= SELECT + L</desc>
+		<image>./media/images/background-image.png</image>
+		<marquee>./media/marquees/Controle SUPER NINTENDO (R5)(usb peq).png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./controles/Instalar Controle Nintendo 64 (PG)(usb gamepad).sh</path>
+		<name>Controle NINTENDO 64 (PG)</name>
+		<desc>Selecione este controle para usa-lo APENAS no sistema Nintendo 64.
+Apos o sistema reiniciar e voltar, o controle estara configurado e pronto para uso. 
+#######Controle da marca PG#######
+#######Driver 'usb gamepad           .cfg'#######
+
+#######Hotkeys-------&gt;</desc>
+		<image>./media/images/Controle NINTENDO 64 (PG).png</image>
+		<marquee>./media/marquees/Controle NINTENDO 64 (PG).png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<lang>en</lang>
+	</game>
+</gameList>
