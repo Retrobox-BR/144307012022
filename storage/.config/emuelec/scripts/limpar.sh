@@ -11,9 +11,11 @@ rm -f /storage/.config/emulationstation/collections/custom-rcps2.cfg
 rm -f /storage/.config/emulationstation/collections/custom-rcps3.cfg
 rm -f /storage/.config/emulationstation/collections/custom-rcrashbandicoot.cfg
 rm -f /storage/.config/emulationstation/collections/custom-rdonkeykong.cfg
+rm -f /storage/roms/gameandwatch/DKong2.mgw
+rm -f /storage/roms/gameandwatch/DKong.mgw
 sleep 05
-rm -f /storage/.config/emulationstation/themes/ARTFLIX-RETROBOX_2
-rm -f /storage/.config/emulationstation/themes/ARTFLIX-RETROBOX_2.0
+rmdir -f /storage/.config/emulationstation/themes/ARTFLIX-RETROBOX_2
+rmdir -f /storage/.config/emulationstation/themes/ARTFLIX-RETROBOX_2.0
 echo "Espere seu Retrobox reiniciar..."
 sleep 05
 echo "Task Completed"
