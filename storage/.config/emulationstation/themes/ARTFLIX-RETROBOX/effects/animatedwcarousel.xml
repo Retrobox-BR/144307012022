@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  	<view name="system">
+		<image name="logo">
+		<linearSmooth>true</linearSmooth>
+			<storyboard event="activate" repeatAt="1">
+				<animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+				<animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
+				<animation property="scale" from="1.05" to="1" begin="1000" duration="1000" mode="easeOut"/>
+			</storyboard>
+
+			<storyboard event="scroll">
+				<animation property="x" to="0.5" begin="1500" duration="300" mode="EaseIn"/>
+				<animation property="opacity" from="0" to="1" duration="150" mode="Linear"/>
+				<animation property="opacity" from="1" to="0" begin="1150" duration="285" mode="Linear"/>
+			</storyboard>
+		
+			<storyboard event="deactivate">
+				<animation property="opacity" from="0" to="1" duration="150" mode="Linear"/>
+				<animation property="opacity" from="1" to="0" begin="1150" duration="285" mode="Linear"/>
+			</storyboard>			
+		</image>
+		
+	<video name="md_video" extra="true" ifSubset="sysvidyes:yes">
+		<path>./../assets/videos/$system.mp4</path> 
+         <pos>0.67 0.645</pos>
+         <size>0.26 0.29</size>
+		<origin>0 0</origin>
+		<delay>2.2</delay>
+		<showSnapshotNoVideo>false</showSnapshotNoVideo>
+		<showSnapshotDelay>false</showSnapshotDelay>
+		<zIndex>50</zIndex>
+      </video>
+
+    <image name="border" extra="true" ifSubset="sysvidyes:yes">
+      <pos>0 0</pos>
+      <size>1 1</size>
+      <path>./../assets/videoborder.png</path>
+      <zIndex>80</zIndex>
+	  <storyboard>
+	  <animation property="opacity" from="0" to="0" duration="1" mode="linear"/>
+	  <animation property="opacity" from="0" to="1" begin="2950" duration="320" mode="easeOut"/>
+      </storyboard> 
+    </image>
+		
+	</view>
+</theme>

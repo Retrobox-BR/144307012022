@@ -1,0 +1,39 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+	
+	<image name="hue" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/overlaygrey.png</path>
+         <zIndex>40</zIndex>
+      </image>
+   </view>
+
+  <view name="menu">
+      <menuText name="menutitle">
+         <color>f9ee85</color>
+      </menuText>
+      <menuText name="menufooter">
+         <color>868686</color>
+      </menuText>
+    <menuText name="menutext">
+      <color>868686</color>
+      <separatorColor>191919</separatorColor>
+      <selectorColor>555555</selectorColor>
+      <selectorColorEnd>0b0102</selectorColorEnd>
+      <selectedColor>FFFFFF</selectedColor>
+      <selectorGradientType>horizontal</selectorGradientType>
+    </menuText>
+    <menuTextSmall name="menutextsmall">
+      <color>b3b2b2</color>
+    </menuTextSmall>
+    <menuBackground name="menubg">
+      <color>0a0b0c</color>
+    </menuBackground>
+  </view> 
+
+</theme>

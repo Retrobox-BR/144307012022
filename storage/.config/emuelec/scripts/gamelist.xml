@@ -444,6 +444,19 @@ SELECIONAR SLOT(+)= SELECT + L</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./limpar.sh</path>
+		<name>FIX</name>
+		<desc>limpar Conteudo.</desc>
+		<image>./media/images/clear-image.png</image>
+		<marquee>./media/marquees/clear-marquee.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20191116T000000</releasedate>
+		<developer>RetroBox Brasil</developer>
+		<publisher>RetroBox Brasil</publisher>
+		<genre>TOOLS/SYSTEM</genre>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./controles/Instalar Controle Nintendo 64 (PG)(usb gamepad).sh</path>
 		<name>Controle NINTENDO 64 (PG)</name>
 		<desc>Selecione este controle para usa-lo APENAS no sistema Nintendo 64.
