@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="59382" source="ScreenScraper.fr">
+		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>Aldynes, é um jogo de tiro com rolagem horizontal desenvolvido pela Produce e lançado em 22 de julho de 1991 para o SuperGrafx apenas para o Japão. O jogo tem um combate único baseado em opções e níveis de recursos com grandes efeitos de escala ou efeitos de rolagem de paralaxe.nnnnPerto do ano 2020, as sociedades da humanidade caem na depressão global assim como uma invasão alienígena de repente cai na Terra; vindo de um grande planetóide mecânico, os alienígenas atacam a Terra sem razão ou comunicação. Com todas as defesas aniquiladas, as Nações Unidas recorrem à NASA para criar um poderoso caça espacial conhecido como The Ortega, sob o nome de Aldynes. Durante esse tempo, um piloto de caça espacial específico - conhecido apenas pelo seu sinal de chamada Fox-A - foi morto em ação; sua namorada em luto Hiroko logo descobriu o Projeto Aldynes e seu lutador quase completo. Enquanto os invasores atacam o projeto da Força Aérea, Aldynes, ela seqüestra um dos navios e se lança na batalha na esperança de se vingar.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up / Horizontal-Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./media/images/Aldynes - The Misson Code for Rage Crisis (Japan).png</image>
+		<marquee>./media/marquees/Aldynes - The Misson Code for Rage Crisis (Japan).png</marquee>
+		<video>./media/videos/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
+	</game>
+	<game id="59383" source="ScreenScraper.fr">
+		<path>./Battle Ace (Japan).zip</path>
+		<name>Battle Ace</name>
+		<desc>Battle Ace é um jogo de voo orientado para a ação em uma perspectiva em primeira pessoa. O jogador pilota uma nave espacial, incluindo um radar que mostra inimigos, e o objetivo é chegar ao final de cada nível onde um chefe final espera. Como de costume, a ocupação principal é explodir muitos alienígenas que se aproximam do jogador.</desc>
+		<rating>0.65</rating>
+		<releasedate>19891130T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<image>./media/images/Battle Ace (Japan).png</image>
+		<marquee>./media/marquees/Battle Ace (Japan).png</marquee>
+		<video>./media/videos/Battle Ace (Japan).mp4</video>
+	</game>
+	<game id="129653" source="ScreenScraper.fr">
+		<path>./Daimakai Mura (Japan).zip</path>
+		<name>Dai-Makaimura</name>
+		<desc>O cavaleiro Arthur (que não tem ligação alguma com o Rei Arthur da mitologia bretã) precisa enfrentar um vasto exército de monstros, fantasmas e demônios para salvar a princesa Prin-Prin(chamada de princesa Tamara nos manuais das versões de 8 bits), aprisionada no castelo de Lucifer (chamado de Loki em algumas versões) e as almas roubadas por ele.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900727T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC</publisher>
+		<genre>Plataforma-Ação</genre>
+		<players>1</players>
+		<image>./media/images/Daimakai Mura (Japan).png</image>
+		<marquee>./media/marquees/Daimakai Mura (Japan).png</marquee>
+		<video>./media/videos/Daimakai Mura (Japan).mp4</video>
+	</game>
+	<game id="59385" source="ScreenScraper.fr">
+		<path>./Madou King Granzort (Japan).zip</path>
+		<name>Madou King Granzort</name>
+		<desc>¨Madou King Granzort¨ é baseado em um anime de mesmo nome. A história se passa em um contexto de ficção científica em que agumas crianças recebem poderes especiais para salvar o mundo do clã malvado Jadou. Para ser mais exato, eles podem invocar três criaturas de grande poder: os reis Madou da terra, água e vento. O jogador assume o papel desses reis, para derrotar o clã Jadou.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900406T000000</releasedate>
+		<developer>Sunrise Software</developer>
+		<publisher>Hudson</publisher>
+		<genre>Ação-Plataforma</genre>
+		<players>1</players>
+		<image>./media/images/Madou King Granzort (Japan).png</image>
+		<marquee>./media/marquees/Madou King Granzort (Japan).png</marquee>
+		<video>./media/videos/Madou King Granzort (Japan).mp4</video>
+	</game>
+	<game id="59380" source="ScreenScraper.fr">
+		<path>./1941 - Counter Attack (Japan).zip</path>
+		<name>1941 : Counter Attack</name>
+		<desc>Terceiro episódio da famosa série 19XX da Capcom, o Supergrafx teve o privilégio de receber a adaptação de 1941. Ao longo dos seis níveis deste jogo, vamos lutar contra aviões, tanques, navios, a variedade de inimigos nunca foi o Forte do 19XX mas faz parte do seu charme. Nós cruzamos cenários muito variados como o campo (Normandia?), o mar e até mesmo uma cidade.</desc>
+		<image>./media/images/1941 - Counter Attack (Japan).png</image>
+		<video>./media/videos/1941 - Counter Attack (Japan).mp4</video>
+		<marquee>./media/marquees/1941 - Counter Attack (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+</gameList>

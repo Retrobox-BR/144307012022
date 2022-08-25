@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="44264" source="ScreenScraper.fr">
+		<path>./Nekkyuu Koushien (Japan).zip</path>
+		<name>Nekkyuu Koushien</name>
+		<desc>Nekkyuu Koushien é um jogo de Baseball para o Sega Master System. Foi lançado somente no Japão.</desc>
+		<rating>0</rating>
+		<releasedate>19880909T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Esporte</genre>
+		<players>2</players>
+		<image>./media/images/Nekkyuu Koushien (Japan).png</image>
+		<marquee>./media/marquees/Nekkyuu Koushien (Japan).png</marquee>
+		<video>./media/videos/Nekkyuu Koushien (Japan).mp4</video>
+	</game>
+	<game id="44278" source="ScreenScraper.fr">
+		<path>./Satellite 7 (Japan).zip</path>
+		<name>Satellite 7</name>
+		<desc>Jogo de nave com ação vertical, lançado só no Japão. Um tanto genérico e simplório, Satellite 7 não serve nem como quebra-galho, até porque o console está servido de melhores opções. Além dos tiros normais, há um disparo de bombas de curto alcance. Os power-ups são inexpressivos; as fases, pouco inspiradas e o design dos inimigos é fraco. Embora o jogo não tenha oficialmente deixado o Japão em formato de cartão, o jogo já apareceu em várias compilações no Brasil, incluindo o Tectoy DVD Karaoke Game DVT-G100.</desc>
+		<rating>0.6</rating>
+		<releasedate>19851220T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<image>./media/images/Satellite 7 (Japan).png</image>
+		<marquee>./media/marquees/Satellite 7 (Japan).png</marquee>
+		<video>./media/videos/Satellite 7 (Japan).mp4</video>
+	</game>
+	<game id="884" source="ScreenScraper.fr">
+		<path>./Solomon no Kagi - Oujo Rihita no Namida (Japan).zip</path>
+		<name>Solomon no Kagi : Oujo Rihita no Namida</name>
+		<desc>Para salvar o mundo dos demônios, Dana embarca na busca da Chave de Salomão capaz de selar o passo criado pelos monstros. Solomon no Kagi: Oujo Rihita no Namida (Solomon's Key) é um quebra-cabeça com alto grau de dificuldade. Em cada fase, o jogador deve encontrar a chave e sair pela porta. Claro, há vários inimigos espalhados pela tela, mas o herói tem o poder de criar/destruir blocos e usá-los como ponte ou escada. São mais de 60 fases (algumas secretas), e os gráficos simples escondem um jogo de alta qualidade com mecânica irresistível. Lançado apenas no Japão.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Salio</developer>
+		<publisher>Salio</publisher>
+		<genre>Estratégia-Quebra-cabeças</genre>
+		<players>1</players>
+		<image>./media/images/Solomon no Kagi - Oujo Rihita no Namida (Japan).png</image>
+		<marquee>./media/marquees/Solomon no Kagi - Oujo Rihita no Namida (Japan).png</marquee>
+		<video>./media/videos/Solomon no Kagi - Oujo Rihita no Namida (Japan).mp4</video>
+	</game>
+	<game id="44285" source="ScreenScraper.fr">
+		<path>./Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).zip</path>
+		<name>Sukeban Deka II : Shoujo Tekkamen Densetsu</name>
+		<desc>Sukeban Deka II: Shoujo Tekkamen Densetsu é um jogo baseado na licença de Sukeban Deka, especificamente no remake do programa de TV dos anos 80, chamado Sukeban Deka II. porque este jogo não tem antecessor apesar de ser um "II"). A série segue uma colegial japonesa que optou por combater o crime depois de exibir a lei muitas vezes. Sua única característica notável, no que diz respeito a este jogo, é o uso de um ioiô de metal armado para espancar seus inimigos.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Ação</genre>
+		<image>./media/images/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).png</image>
+		<marquee>./media/marquees/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).png</marquee>
+		<video>./media/videos/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).mp4</video>
+	</game>
+	<game id="44268" source="ScreenScraper.fr">
+		<path>./Tensai Bakabon (Japan).zip</path>
+		<name>Tensai Bakabon</name>
+		<desc>Lançado apenas no Japão, esse jogo é baseado no mangá homônimo. É um adventure, e o jogador vai ter de interagir com outros personagens, o que torna essencial o conhecimento do idioma japonês. Mesmo quem não entende essa língua deve dar risadas vendo os gráficos de algumas situações engraçadas envolvendo o pitoresco personagem principal.</desc>
+		<rating>0</rating>
+		<releasedate>19880602T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Ação</genre>
+		<players>1</players>
+		<image>./media/images/Tensai Bakabon (Japan).png</image>
+		<marquee>./media/marquees/Tensai Bakabon (Japan).png</marquee>
+	</game>
+	<game id="172291" source="ScreenScraper.fr">
+		<path>./Pro Yakyuu Pennant Race, The (Japan).zip</path>
+		<name>The Pro Yakyuu Pennant Race</name>
+		<desc>The Pro Yakyuu: Pennant Race é um jogo de basebol para o Sega Master System. Lançado apenas no Japão, foi um upgrade do Great Baseball (1987), um título que não foi lançado no Japão. Além da localização de jogadores e equipes para o mercado japonês, o jogo foi significativamente alterado, incluindo, entre outras coisas, uma visão panorâmica do jogo em oposição à visão isométrica do Great Baseball.</desc>
+		<rating>0</rating>
+		<releasedate>19870817T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<image>./media/images/Pro Yakyuu Pennant Race, The (Japan).png</image>
+		<marquee>./media/marquees/Pro Yakyuu Pennant Race, The (Japan).png</marquee>
+	</game>
+	<game id="18542" source="ScreenScraper.fr">
+		<path>./Woody Pop - Shinjinrui no Block Kuzushi (Japan).zip</path>
+		<name>Woody Pop : Shinjinrui no Block Kuzushi</name>
+		<desc>Quem conhece o clássico Arkanoid vai gostar de Woody Pop: no controle de uma plataforma que se move para os lados, é preciso rebater a bolinha até que ela quebre todos os blocos na parte superior. Alguns blocos escondem power-ups que aumentam o tamanho do rebatedor, fazem a bola pegar fogo, etc. Cada tela é uma sala de um labirinto, e o jogador escolhe que rumo tomar. Só saiu no Japão.</desc>
+		<rating>0</rating>
+		<releasedate>19870315T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Quebra-cabeças-Ação</genre>
+		<players>1</players>
+		<image>./media/images/Woody Pop - Shinjinrui no Block Kuzushi (Japan).png</image>
+		<marquee>./media/marquees/Woody Pop - Shinjinrui no Block Kuzushi (Japan).png</marquee>
+		<video>./media/videos/Woody Pop - Shinjinrui no Block Kuzushi (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Alex Kidd BMX Trial (Japan).zip</path>
+		<name>Alex Kidd BMX Trial</name>
+		<desc>Como jovem Alex, seu trabalho é passar por uma pista de obstáculos e chegar à saída principal sem outros concorrentes que tentam derrubá-lo de sua bicicleta. Você começa em Blackwood Forest, mas dependendo de onde estiver, pode viajar para Cactus Desert, South Seas, Pyramid River, ou para a cidade natal de Alex, Radaxian.</desc>
+		<image>./media/images/Alex Kidd BMX Trial (Japan).png</image>
+		<marquee>./media/marquees/Alex Kidd BMX Trial (Japan).png</marquee>
+		<rating>0.25</rating>
+		<releasedate>19871115T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Corrida, Pilotagem</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200714T155857</lastplayed>
+		<gametime>32</gametime>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="763" source="ScreenScraper.fr">
+		<path>./Anmitsu Hime (Japan).zip</path>
+		<name>Anmitsu Hime</name>
+		<desc>Alex e seus amigos precisam encontrar oito peças de um mapa inteligente escondido dentro do castelo para encontrar o novo Arcade.    Obter todas as peças é apenas o começo, ele deve então lutar com ninjas assassinos em uma floresta, entrar na cidade para fazer as tarefas necessárias, obter um passe de viagem, em seguida, passar por uma segunda floresta cheia de outros perigos. A pergunta é: será que Alex vai fazer o seu caminho para o Arcade antes das 17:00?    Alex Kidd: High-Tech World permite que você retome um jogo salvo. Tudo que você tem a fazer é digitar uma senha, e o jogo continua de onde você parou. O jogo é baseado no tempo, e os eventos só podem acontecer em determinados momentos. Por exemplo, certos personagens aparecerão a cada trinta minutos.    Durante o jogo, você pode acessar uma tela de status, que ajuda a acompanhar o tempo e muito mais. Há seis andares dentro do castelo, incluindo o sótão. Em alguns andares, existem telefones que você pode usar para pedir ajuda de outro personagem, ou pedir uma pizza. Existem também soluções alternativas para alguns quebra-cabeças no jogo. A demonstração no início do jogo pode dar uma das peças do mapa.</desc>
+		<image>./media/images/Anmitsu Hime (Japan).png</image>
+		<marquee>./media/marquees/Anmitsu Hime (Japan).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Plataforma</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="841" source="ScreenScraper.fr">
+		<path>./Argos no Juujiken (Japan).zip</path>
+		<name>Argos no Juujiken</name>
+		<desc>Um vilão conhecido como Ligar está prestes a conquistar a terra de Argool. Tal é o seu poder que nenhum ser vivo se atreve a confrontá-lo. Mas o lendário guerreiro Rygar se ergue do túmulo para restaurar a paz e a justiça. Armado com sua famosa arma Diskarmor, Rygar começa a percorrer as vastas terras que levam ao covil do demônio, enquanto seus capangas tentam impedi-lo.nnA adaptação para Master System do famoso arcade Rygar saiu apenas no Japão. É bom observar que a elogiada versão de NES é totalmente diferente. A ação de Argos no Juujiken é lateral, simples e direta: bater nos inimigos com a exótica arma do herói (um escudo preso a uma corrente), saltar buracos e coletar power-ups que melhoram o ataque. A fórmula é básica, mas funciona bem.</desc>
+		<image>./media/images/Argos no Juujiken (Japan).png</image>
+		<marquee>./media/marquees/Argos no Juujiken (Japan).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19880325T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Salio, Inc.</publisher>
+		<genre>Ação-Plataforma</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="18486" source="ScreenScraper.fr">
+		<path>./Galactic Protector (Japan).zip</path>
+		<name>Galactic Protector</name>
+		<desc>Opa-Opa, de Fantasy Zone, volta à ação em um jogo que só saiu no Japão e que pouco tem a ver com os outros jogos da série. Um ou dois jogadores devem controlar Opa-Opa(s) ao redor de planetas, protegendo-os de destroços. Exige o Paddle Control, não sendo possível comandar o personagem com o controle convencional. Os planetas têm expressões faciais simpáticas, e o desafio é alto.</desc>
+		<image>./media/images/Galactic Protector (Japan).png</image>
+		<marquee>./media/marquees/Galactic Protector (Japan).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880221T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Ação-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="18498" source="ScreenScraper.fr">
+		<path>./Hoshi wo Sagasite... (Japan).zip</path>
+		<name>Hoshi wo Sagasite...</name>
+		<desc>Adventure japonês. O herói da história dá um ovo de presente para sua namorada, e dele nasce um estranho gato chamado Mio. O jogador precisa viajar e coletar pistas usando um menu de ações para descobrir informações sobre o animal. Em certos pontos, a aventura esbarra com o universo de Phantasy Star (os dois jogos compartilham alguns desenvolvedores). Exige japonês afiado.</desc>
+		<image>./media/images/Hoshi wo Sagasite... (Japan).png</image>
+		<marquee>./media/marquees/Hoshi wo Sagasite... (Japan).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19880204T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Aventura</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="44273" source="ScreenScraper.fr">
+		<path>./Mahjong Sengoku Jidai (Japan).zip</path>
+		<name>Mahjong Sengoku Jidai</name>
+		<desc>Mahjong Sengoku Jidai ("Mahjong do Período Sengoku") é um bastante direto jogo de Mahjong da Sanritsu, uma desenvolvedora de jogos de computador que tinha experiência anterior com o gênero e que mais tarde trabalharia com a Sega em muitos outros projetos. Mahjong é um jogo de origem chinesa, no qual se deve formar combinações usando as várias pedras espalhadas sobre a mesa. Não é um jogo tão complicado de se aprender, mas, sem conhecer as regras de antemão, o jogador vai ficar um pouco perdido. Só saiu no Japão.</desc>
+		<image>./media/images/Mahjong Sengoku Jidai (Japan).png</image>
+		<marquee>./media/marquees/Mahjong Sengoku Jidai (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19871018T000000</releasedate>
+		<developer>Sanritsu Denki Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Jogo de tabuleiro Asiático-Mahjong-Quebra-cabeças</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="44275" source="ScreenScraper.fr">
+		<path>./Megumi Rescue (Japan).zip</path>
+		<name>Megumi Rescue</name>
+		<desc>Cada fase se passa em frente a um prédio em chamas. O jogador controla dois bombeiros que manejam uma lona sobre a qual outro bombeiro quica: ele "voa" e é preciso apertar o botão quando estiver diante da janela em que está uma vítima desesperada do incêndio. Às vezes alguém se joga pela janela e é necessário ser rápido com a lona! Só saiu no Japão e exige o uso do Controle Paddle.</desc>
+		<image>./media/images/Megumi Rescue (Japan).png</image>
+		<marquee>./media/marquees/Megumi Rescue (Japan).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880730T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Ação</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+</gameList>

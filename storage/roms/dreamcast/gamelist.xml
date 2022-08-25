@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="13587" source="ScreenScraper.fr">
+		<path>./F1 Racing Championship (Europe) (En,Fr,De,Es,It).chd</path>
+		<name>F1 Racing Championship</name>
+		<desc>F1 Racing Championship is the third Ubi Soft F1 racing simulation game, published with the FIA license by Video System. It features official tracks, drivers and cars of the 1999 F1 season. The game is based on a new engine bringing a real technological step compared to the two first titles (F1 Racing Simulation and Monaco Grand Prix Racing Simulation 2). Available game modes are Single Race, Grand Prix, Championship, Private Trials and Time Attack. The tracks were modelled in 3D from GPS data sampled on the real roads. There are realistic physics, a telemetry system to analyse behaviour of your car and to tune its settings, complex driving AI, recordable replays, strategy management with animated pit sequences, weather simulation, and LAN support for multiplayer games.</desc>
+		<image>./media/images/F1 Racing Championship (Europe) (En,Fr,De,Es,It).png</image>
+		<rating>0.85</rating>
+		<releasedate>20010119T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Video System</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220308T133542</lastplayed>
+		<lang>it,es,de,en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="13609" source="ScreenScraper.fr">
+		<path>./Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It).chd</path>
+		<name>Fighting Vipers 2</name>
+		<desc>This game is a sequel to Fighting Vipers, a 3D fighting game that allows you to face adolescents and adults that comes from different "urban tribes", but also, in that second version you can choose or beat another time the most charismatic characters of FV1 and some unedited characters never seen again (either in FV2 arcade, version appeared in 1998 on Model 3 arcade board). FV2, as in FV, has the incentive to destroy the fight arena walls with the last combat impact, also, you can destroy again the armor of your opponent, that as a newness in 1998's FV2, includes the "Super KO System", in which, if you break the armor of your opponent and immediately, you make a Super Combo that leaves him "confused", you will win without dispute a second round.</desc>
+		<image>./media/images/Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It).png</image>
+		<rating>0.7</rating>
+		<releasedate>20010316T000000</releasedate>
+		<developer>CRI</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<lang>it,es,fr,de,en,jp</lang>
+		<region>eu</region>
+	</game>
+	<game id="13600" source="ScreenScraper.fr">
+		<path>./Cannon Spike (USA).chd</path>
+		<name>Cannon Spike</name>
+		<desc>Originally an arcade game, this shooter was converted and is now found on the Dreamcast. Somewhat similar in style to Smash T.V. in gameplay, you do battle in ten levels, containing two to four areas each. 
+Players can choose from a variety of characters including Mega man (or Rockman) from the Mega man series, Knight Arthur from Ghost 'N' Goblins series, Charlie and Cammy, both from Street Fighter series and B. B. Hood from Darkstalkers as well as two original characters: Shiba and Simone. 
+The different characters use slightly different attacks but each share the setup of one regular ranged attack and one powerful ditto as well as one regular and one powerful mêlee attack.</desc>
+		<image>./media/images/Cannon Spike (USA).png</image>
+		<rating>0.8</rating>
+		<releasedate>20001115T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Bigben Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13748" source="ScreenScraper.fr">
+		<path>./Death Crimson OX (USA).chd</path>
+		<name>Death Crimson OX</name>
+		<desc>The Death Crimson OX shooter on Dreamcast, whose universe is only horror and science fiction, will invite you to play as Kô Yamami, accompanied by his assistant Yuri for the game for two. The evil Subliminers ransack the town of Saronica and capture Lily, the leader of the rebellion. Restore order and save Lily. This is the mission of our hero.</desc>
+		<image>./media/images/Death Crimson OX (USA).png</image>
+		<rating>0.55</rating>
+		<releasedate>20010805T000000</releasedate>
+		<developer>Ecole</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13545" source="ScreenScraper.fr">
+		<path>./Dynamite Cop! (USA).chd</path>
+		<name>Dynamite Cop</name>
+		<desc>Pirates have kidnapped the President's daughter and are holding her on a hijacked cruise ship. Now it's up to an elite police force to get them back, using whatever means necessary. The action takes place on both the cruise ship and the pirate's island hideaway. You play as one of three cops, in this beat-em up fighting game from Sega. Dynamite Cop features similar gameplay to Die Hard Arcade. As your character enters an area, you have to beat up everyone there. Once they are gone, you continue to the next area. To help you there are many weapons, such as guns, knives, pepper spray, chairs, and bread. Bread? Yes, you can use pretty much anything as a weapon.</desc>
+		<image>./media/images/Dynamite Cop! (USA).png</image>
+		<rating>0.75</rating>
+		<releasedate>19991103T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13689" source="ScreenScraper.fr">
+		<path>./Heavy Metal - Geomatrix (USA).chd</path>
+		<name>Heavy Metal : Geomatrix</name>
+		<desc>Based on the Heavy Metal world created by Kevin Eastman and Simon Bisley, this fighting title allows you to take control of a team of three fighters, ranging from a basic all-rounder, or a lightning fast female to a huge bulky mass of power. Of course, they are all a mix of human and humanoid, and depending on their strengths, have a range of different moves and styles. 
+ 
+The main aim of the game is to defeat each of the opposing 3-man teams ahead of you, and dominate cyberspace. 
+The game mixes a little of Street Fighter with a dash of Virtual On, allowing you to fight in close or use long range attacks all inside a 3D landscape.</desc>
+		<image>./media/images/Heavy Metal - Geomatrix (USA).png</image>
+		<rating>0.75</rating>
+		<releasedate>20010912T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Bigben Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13559" source="ScreenScraper.fr">
+		<path>./Ikaruga (Japan).chd</path>
+		<name>Ikaruga</name>
+		<desc>Vertical shoot-em-up ported from the Naomi Arcade version. Ikaruga is more or less a sequel to Radiant Silvergun by Treasure, on the Sega Saturn. 
+Based on a two-colors system, the player has to switch between the black &amp; white sides of his ship during gameplay. 
+The black side is immune to black enemy bullets which it consider as bonus, and dies on impact with a white enemy bullets. Your own black bullets damages white enemies twice as more as white bullets. And vice-versa for the white side. Those properties makes a balance between protecting yourself well and killing enemies fast. 
+This aspect, combined with specific enemy patterns and a combo system makes Ikaruga an original shoot-em-up with a dose of strategy.</desc>
+		<image>./media/images/Ikaruga (Japan).png</image>
+		<rating>0.8</rating>
+		<releasedate>20020905T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Treasure</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="13546" source="ScreenScraper.fr">
+		<path>./Marvel vs. Capcom 2 - New Age of Heroes (PAL).chd</path>
+		<name>Marvel vs. Capcom 2 : New Age of Heroes</name>
+		<desc>Marvel vs. Capcom 2: New Age of Heroes é a sequência do jogo de luta 2D Marvel vs Capcom: Clash of Super Heroes. 
+O jogo permite que você lute todos os três jogadores (em vez de dois, enquanto o terceiro é usado apenas para ataques especiais, no predecessor). 
+Existem agora até 56 lutadores para usar (a maioria você tem que desbloquear), incluindo novos personagens como Jill Valentine de Resident Evil e Tron Bonn de Mega Man Legends. 
+Outro novo recurso de jogo permite que seus companheiros de equipe entrem durante a batalha e lhe dêem um pouco de força na saúde. Isso ajuda a durar a distância no modo Sobrevivência, mas eles também podem ser atingidos por ataques vindos do inimigo.</desc>
+		<image>./media/images/Marvel vs. Capcom 2 - New Age of Heroes (PAL).png</image>
+		<video>./media/videos/Marvel vs. Capcom 2 - New Age of Heroes (PAL).mp4</video>
+		<marquee>./media/wheel/Marvel vs. Capcom 2 - New Age of Heroes (PAL).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20000716T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Virgin</publisher>
+		<genre>Luta</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220308T140949</lastplayed>
+		<lang>en</lang>
+	</game>
+	<game id="13520" source="ScreenScraper.fr">
+		<path>./Power Stone (USA).chd</path>
+		<name>Power Stone</name>
+		<desc>The creators of Street Fighter add a new dimension to 3D fighting. In Power Stone, 2 fighters take to multi-level arenas with Power Stones and other weapons lying around for use.
+
+Each game contains Power Stones. When you have enough stones (between three to five), your character transforms into an almost unbeatable warrior, with an all-new range of moves (although this does not last for long).</desc>
+		<image>./media/images/Power Stone (USA).png</image>
+		<rating>0.8</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13515" source="ScreenScraper.fr">
+		<path>./Shadow Man (USA).chd</path>
+		<name>Shadow Man</name>
+		<desc>You're the Shadow Man, a person who can switch between the world of the dead and of the living. In Shadow Man your mission is to prevent 5 serial killers from bringing the total armageddon. In the world of the living, you're mortal and have conventional weapons. When you die, you are transported to the world of the dead and you become Shadow Man once again. Which means you're not really mortal. In the world of the dead you can't use normal weapons, your gun shoots ghosts which kill the zombies and the other ugly creatures which live there. You also have different voodoo powers and weapons. And you're carrying a large inventory around.</desc>
+		<image>./media/images/Shadow Man (USA).png</image>
+		<rating>0.75</rating>
+		<releasedate>19991201T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action-Action / Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13680" source="ScreenScraper.fr">
+		<path>./Silent Scope (USA).chd</path>
+		<name>Silent Scope</name>
+		<desc>Silent Scope on Dreamcast is a shooting game in which you play as a sniper. Through the proposed missions, you must rescue the family of the President of the United States. Each level consists of a number of enemies to be defeated by aiming correctly through the scope of the rifle.</desc>
+		<image>./media/images/Silent Scope (USA).png</image>
+		<rating>0.8</rating>
+		<releasedate>20001023T000000</releasedate>
+		<developer>Konami Computer Entertainment Studios</developer>
+		<publisher>Konami</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13489" source="ScreenScraper.fr">
+		<path>./Sonic Adventure (USA) (En,Ja,Fr,De,Es).chd</path>
+		<name>Sonic Adventure</name>
+		<desc>Yet again Sonic and friends find themselves wrapped up in the schemes of Dr. Robotnik. This time he plans to exploit the power of Chaos, a malevolent being that feeds upon the power of the Chaos Emeralds. In their own ways five heroes will do what they can to save Station Square and, perhaps, the entire world.</desc>
+		<image>./media/images/Sonic Adventure (USA) (En,Ja,Fr,De,Es).png</image>
+		<rating>0.8</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220414T172949</lastplayed>
+		<lang>es,fr,de,en,jp</lang>
+		<region>eu</region>
+	</game>
+	<game id="13753" source="ScreenScraper.fr">
+		<path>./Triggerheart Exelica (Japan).chd</path>
+		<name>Trigger heart Exelica</name>
+		<desc>In the distant future humanity will develop intelligent weapons called Trigger Hearts. Despite their awesome offensive strengths, Trigger Hearts aesthetically closely resemble humans, and overtime even develop unique personalities. Of three existing Trigger Hearts one, named Faintear, has mysteriously vanished two years ago. 
+The story begins as the two remaining Trigger Hearts - Exelica and Crueltear (who took on the personality of Exelica's big sister) are summoned to quell a mysterious rebellion of military machines against their human creators.</desc>
+		<image>./media/images/Triggerheart Exelica (Japan).png</image>
+		<rating>0.9</rating>
+		<releasedate>20070222T000000</releasedate>
+		<developer>Warashi</developer>
+		<publisher>Warashi</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="13556" source="ScreenScraper.fr">
+		<path>./Virtua Tennis v1.001 (2000)(Sega)(NTSC)(US)[!].chd</path>
+		<name>Virtua Tennis</name>
+		<desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes... Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play. 
+ 
+Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners.  
+Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
+		<image>./media/images/Virtua Tennis v1.001 (2000)(Sega)(NTSC)(US)[!].png</image>
+		<rating>0.8</rating>
+		<releasedate>20000711T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports-Sports / Tennis</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220414T173239</lastplayed>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+</gameList>

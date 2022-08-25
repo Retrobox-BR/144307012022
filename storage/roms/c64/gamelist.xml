@@ -1,0 +1,1112 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <game id="109364" source="ScreenScraper.fr">
+    <path>./007 Car Chase (USA).D64</path>
+    <name>007 Car Chase</name>
+    <desc>Players control a car that must drive on the road along with other cars. To deal with them, the car is equipped with a smoke screen and weapons which players can use to kill them. From time to time, a helicopter flies overhead and will launch missiles and torpedoes at the player, but they can be destroyed with missiles which their car is also equipped with. If the player's car comes into contact with enemy fire or collides with other cars, the player loses a life.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Coplin Software</developer>
+    <publisher>Coplin Software</publisher>
+    <genre>Race, Driving-Race, Driving / Race</genre>
+    <players>1</players>
+    <image>./media/images/007 Car Chase (USA).png</image>
+  </game>
+  <game id="106813" source="ScreenScraper.fr">
+    <path>./10th Frame (USA).T64</path>
+    <name>10th Frame</name>
+    <desc>Get out that shirt, put on your bowling shows and get ready to roll with 10th FRAME! This simulation gives you the look of "real" bowling through outstanding graphics and a true perspective view. 
+With multiple levels of play, realistic pin action and automatic scoring, 10th FRAME is a bowling experience the whole family can enjoy.</desc>
+    <rating>0.85</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Bruce Carver</developer>
+    <publisher>Access Games</publisher>
+    <genre>Sports-Sports / Bowling</genre>
+    <players>1-8</players>
+    <image>./media/images/10th Frame (USA).png</image>
+  </game>
+  <game id="106814" source="ScreenScraper.fr">
+    <path>./180 (Europe).T64</path>
+    <name>180</name>
+    <desc>Now enjoy a game of Darts anytime on your home computer game system! Featuring 8 opponents, digitized speech, a 2-player option, live joystick control and full matchplay scoring. Superb playability with a great sense of humor. What more is there in life?</desc>
+    <rating>0.7</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Binary Design</developer>
+    <publisher>Mastertronic</publisher>
+    <genre>Sports-Sports / Darts</genre>
+    <players>1-2</players>
+    <image>./media/images/180 (Europe).png</image>
+  </game>
+  <game id="35861" source="ScreenScraper.fr">
+    <path>./1942 (Europe).D64</path>
+    <name>1942</name>
+    <desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
+    <rating>0.65</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Elite Systems</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot'em up / Vertical-Action-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/1942 (Europe).png</image>
+  </game>
+  <game id="36101" source="ScreenScraper.fr">
+    <path>./1943 - The Battle of Midway (USA).D64</path>
+    <name>1943 : The Battle of Midway</name>
+    <desc>1943: The Battle of Midway is a shoot'em up on Commodore 64 that follows 1942. You are plunged into the heart of the Second World War. This time it is a question of recreating the intense battle off the coast of the Midway Islands. Compared to its predecessor, 1943 displays a health bar that empties when you are hit, but can be recharged with some bonuses.</desc>
+    <rating>0.3</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Go!</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1-2</players>
+    <image>./media/images/1943 - The Battle of Midway (USA).png</image>
+  </game>
+  <game id="36057" source="ScreenScraper.fr">
+    <path>./1985 - The Day After (Europe).D64</path>
+    <name>1985 : The Day After</name>
+    <desc>1985 : The Day After est un jeu d'action sur Commodore 64. L'humanité peut enfin vivre en paix depuis que le système Big Brother a été démantelé. Dorénavant, votre but va être de retrouver de l'énergie connu sous le nom de "pods" que Big Brother a dissimulé. Vous devez voyager sous la surface du sol de quatre planètes différentes pour les retrouver.</desc>
+    <rating>0.75</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Severn Software</developer>
+    <publisher>Mastertronic</publisher>
+    <image>./media/images/1985 - The Day After (Europe).png</image>
+  </game>
+  <game id="109382" source="ScreenScraper.fr">
+    <path>./3-D Pinball - Pinball Power (Europe).D64</path>
+    <name>3D Pinball</name>
+    <desc>3D Pinball Power is a very realistic pinball simulation. The table is designed as an "oldtimer pinball", which is built up very simply. With 5 balls you try to play as long as possible and reach a high score. As extras there is a "bonus display" (above the flippers), the corresponding "bonus trap" and if "special" is lit an extra ball. Targets are a "Black Hole" (between the three bumpers), three "Revolver Lines" (above the bumpers), a "Hairpin" (in the middle of the table), three "Tombstone Targets" (right of the middle of the table) and six "Sidebar Lights" (left and right of the middle of the table).</desc>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Mastertronic</developer>
+    <publisher>Mastertronic</publisher>
+    <genre>Pinball</genre>
+    <image>./media/images/3-D Pinball - Pinball Power (Europe).png</image>
+  </game>
+  <game id="110436" source="ScreenScraper.fr">
+    <path>./3D Speed Duel (Europe).T64</path>
+    <name>3D Speed Duel</name>
+    <releasedate>19840101T000000</releasedate>
+    <publisher>dk'tronics</publisher>
+    <image>./media/images/3D Speed Duel (Europe).png</image>
+  </game>
+  <game id="109380" source="ScreenScraper.fr">
+    <path>./3D Tic Tac Toe (Netherlands).T64</path>
+    <name>3D Tic Tac Toe</name>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Radarsoft</publisher>
+    <image>./media/images/3D Tic Tac Toe (Netherlands).png</image>
+  </game>
+  <game id="109386" source="ScreenScraper.fr">
+    <path>./3D Time Trek (Europe).T64</path>
+    <name>3D Time Trek</name>
+    <desc>You are a survivor of the planet Corillian after space pirates launched a devastating raid. You now seek revenge on those responsible, to destroy them and their galactic tyranny. You are searching for them in your super powerful starship with computers and sensors to seek those murderous pirates. 
+ 
+You search the galaxy using a map. Once on part of your map you can send out a sensor. The results will tell you if there are aliens or planets out there. Finish searching that area, bring up your map and search elsewhere. Moving to another part puts you in warp speed. You can check on your battle computer, move energy into your shields and bring up any damage you have. 
+ 
+3D Time Trek is a 1st person perspective 3D space game. You look out of your cockpit into the dark depths of space. If you come across an alien, a crosshair appears allowing you to aim and fire on it. As well as viewing out your cockpit you can also see your energy levels, shield levels and your condition.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <publisher>Anirog</publisher>
+    <image>./media/images/3D Time Trek (Europe).png</image>
+  </game>
+  <game id="110438" source="ScreenScraper.fr">
+    <path>./3D Tunnel (Europe).T64</path>
+    <name>3D Tunnel</name>
+    <releasedate>19840101T000000</releasedate>
+    <image>./media/images/3D Tunnel (Europe).png</image>
+  </game>
+  <game id="110439" source="ScreenScraper.fr">
+    <path>./3D-Beee (Europe).T64</path>
+    <name>3D-Beee</name>
+    <releasedate>19840101T000000</releasedate>
+    <publisher>Cascade Games</publisher>
+    <image>./media/images/3D-Beee (Europe).png</image>
+  </game>
+  <game id="109387" source="ScreenScraper.fr">
+    <path>./4 Fathoms (USA).D64</path>
+    <name>4 Fathoms</name>
+    <releasedate />
+    <image>./media/images/4 Fathoms (USA).png</image>
+  </game>
+  <game id="109391" source="ScreenScraper.fr">
+    <path>./4 Soccer Simulators (Europe).T64</path>
+    <name>4 Soccer Simulators</name>
+    <releasedate>19890101T000000</releasedate>
+    <publisher>Codemasters</publisher>
+    <genre>Sports-Sports / Soccer</genre>
+    <image>./media/images/4 Soccer Simulators (Europe).png</image>
+  </game>
+  <game id="110441" source="ScreenScraper.fr">
+    <path>./4. Times Revlex (Germany).T64</path>
+    <name>4 Times Revlex</name>
+    <releasedate>19920101T000000</releasedate>
+    <publisher>Markt+Technik</publisher>
+    <image>./media/images/4. Times Revlex (Germany).png</image>
+  </game>
+  <game id="106825" source="ScreenScraper.fr">
+    <path>./4th &amp; Inches (USA).D64</path>
+    <name>4th &amp; Inches</name>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Accolade</publisher>
+    <image>./media/images/4th &amp; Inches (USA).png</image>
+  </game>
+  <game id="110442" source="ScreenScraper.fr">
+    <path>./4x4 Off-Road Racing (D81).d81</path>
+    <name>4x4 Off Road Racing</name>
+    <releasedate>19880101T000000</releasedate>
+    <image>./media/images/4x4 Off-Road Racing (D81).png</image>
+  </game>
+  <game id="110443" source="ScreenScraper.fr">
+    <path>./5-Pin Bowling (Europe).D64</path>
+    <name>5-Pin Bowling</name>
+    <releasedate>19840101T000000</releasedate>
+    <publisher>CDS Micro Systems</publisher>
+    <image>./media/images/5-Pin Bowling (Europe).png</image>
+  </game>
+  <game id="109389" source="ScreenScraper.fr">
+    <path>./5th Gear (Europe).D64</path>
+    <name>5th Gear</name>
+    <desc>In 5th gear, the player controls a white car that travels up (and then down) a tricky landscape filled with water, bumps, trees, and enemy vehicles. Cash is earned by completing levels, with an initial $10,000 available. These funds are spent at garages to buy extra fuel, repair the car's armour, and put add-ons for the car. These include a turbo-jump (allowing the car to get airborne unassisted, rather than relying on jumps) and waterproofing. The original Commodore 64 version was programmed by Jeroen Leijten, with music by Theo and Renier Hongens. It was largely inspired by previous arcade games Steer and Go and Spy Hunter.</desc>
+    <releasedate>19880101T000000</releasedate>
+    <publisher>Hewson</publisher>
+    <image>./media/images/5th Gear (Europe).png</image>
+  </game>
+  <game id="109398" source="ScreenScraper.fr">
+    <path>./64 Mastermind - A Game of Logic (Europe).T64</path>
+    <name>64 Mastermind - A Game of Logic</name>
+    <releasedate>19940101T000000</releasedate>
+    <publisher>Magic Disk</publisher>
+    <image>./media/images/64 Mastermind - A Game of Logic (Europe).png</image>
+  </game>
+  <game id="109397" source="ScreenScraper.fr">
+    <path>./64luff (USA).T64</path>
+    <name>64luff</name>
+    <releasedate />
+    <publisher>Grana Software</publisher>
+    <image>./media/images/64luff (USA).png</image>
+  </game>
+  <game id="36214" source="ScreenScraper.fr">
+    <path>./720 Degrees (USA).D64</path>
+    <name>720°</name>
+    <desc>You're a skateboarder in Skate City, one of the largest skateparks ever built. Ollie off of ramps, grind on rails, and swerve past pedestrians as you bust out tricks. Visit skate shops scattered around the park to upgrade your gear and improve your skills. Participate in competitions to earn medals and cash to use in the shops. But, if you don't get to a competition in time, the infamous "Skate Or Die" message appears, and then you have to hurry!</desc>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Atari</developer>
+    <publisher>Mindscape</publisher>
+    <genre>Sports / Skateboard-Sports</genre>
+    <image>./media/images/720 Degrees (USA).png</image>
+  </game>
+  <game id="109403" source="ScreenScraper.fr">
+    <path>./747 Flight Simulator (Europe).T64</path>
+    <name>747 Flight Simulator</name>
+    <releasedate>19850101T000000</releasedate>
+    <publisher>DACC</publisher>
+    <image>./media/images/747 Flight Simulator (Europe).png</image>
+  </game>
+  <game id="110445" source="ScreenScraper.fr">
+    <path>./9 to 5 Typing (USA).D64</path>
+    <name>9 To 5 Typing</name>
+    <releasedate />
+    <image>./media/images/9 to 5 Typing (USA).png</image>
+  </game>
+  <game id="126933" source="ScreenScraper.fr">
+    <path>./911 Tiger Shark (Europe).T64</path>
+    <name>911 Tiger Shark</name>
+    <releasedate>19850101T000000</releasedate>
+    <publisher>Elite Systems</publisher>
+    <image>./media/images/911 Tiger Shark (Europe).png</image>
+  </game>
+  <game id="35972" source="ScreenScraper.fr">
+    <path>./Aaargh! (Europe).T64</path>
+    <name>Aaaargh!</name>
+    <desc>What's that coming over the hill, is it a monster? Yes, as this Rampage-influenced arcade game sees you play either an ogre or a dragon. Both are searching an island for an egg which will give them super powers. 
+
+This is located inside a building, and to find the right one you must continuously smash them up, using either the ogre's horn or the dragon's tail. Humans must also be attacked as you see them, as their catapults weaken you. Food can be found to restore energy,
+
+Once you have located the egg, a one-on-one beat 'em up battle with your rival ensues - win five of these to finally win the game.</desc>
+    <rating>0.25</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Melbourne House</developer>
+    <publisher>Melbourne House</publisher>
+    <genre>Action-Fight</genre>
+    <players>1-2</players>
+    <image>./media/images/Aaargh! (Europe).png</image>
+  </game>
+  <game id="109450" source="ScreenScraper.fr">
+    <path>./Aardvark (Europe).T64</path>
+    <name>Aardvark</name>
+    <desc>Based on the arcade game Anteater, you are an anteater and you must bury your long snout in the anthill and collect the ant larvae to proceed to the next anthill. Eat ants that walk across the screen before they damage your snout resulting in the loss of one of your lives. Attack the queen ant to destroy all ants, and sneak up behind worms to eat them. When the sun goes down, a spider will appear and follow where the snout leads to you.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Bug-Byte Software</publisher>
+    <players>1</players>
+    <image>./media/images/Aardvark (Europe).png</image>
+  </game>
+  <game id="109448" source="ScreenScraper.fr">
+    <path>./A-Boulder 64 (Europe).D64</path>
+    <name>A-Boulder 64</name>
+    <desc>Adaptation du jeu Asteroîd sur C64. On dirige donc un vaisseau en forme de triangle qui doit détruire des astéroïdes que se subdivisent en 2 plus petites partie quand ils sont touchés. Le vaisseau tourne sur lui-même en orientant le joystick à gauche ou à droite et avance dans la direction vers laquelle il pointe en allant en avant.</desc>
+    <releasedate />
+    <publisher>Systems Editoriale</publisher>
+    <players>1</players>
+    <image>./media/images/A-Boulder 64 (Europe).png</image>
+  </game>
+  <game id="109455" source="ScreenScraper.fr">
+    <path>./Abrasco Golf (Europe).T64</path>
+    <name>Abrasco Golf</name>
+    <releasedate>19830101T000000</releasedate>
+    <publisher>Abrasco</publisher>
+    <image>./media/images/Abrasco Golf (Europe).png</image>
+  </game>
+  <game id="122192" source="ScreenScraper.fr">
+    <path>./ACE - Air Combat Emulator (Europe).D64</path>
+    <name>ACE : Air Combat Emulator</name>
+    <desc>The AIR COMBAT EMULATOR, packed with exciting features, is by far the fastest, most realistic flight simulator available. For the first time on a home computer, feel what it is really like to fly a high performance military jet and engage tanks, missiles, ships, helicopter gun-ships and two types of cunning intelligent enemy aircraft. 
+ 
+Featuring over 300 sprite images, ACE has the smoothest most detailed cockpit view of hills, trees and other ground objects ever achieved thanks to specially developed Dynamic Graphics Technique allowing sensational high speed solid 3D graphics. 
+ 
+In combat, your head will spin as you struggle with the help of advanced avionics including rear-view camera and radar, to stay alive long enough to do some damage to the enemy. 
+ 
+The unique two seat flying option (pilot, navigator/weapons man) and Synchro Speech which passes vital aircraft condition information to the flight crew without freezing the action combined with dynamic tactical map, take offs and landings, summer, winter and night-time flying and a remarkably realistic in-flight refuelling option makes ACE the ultimate AERIAL COMBAT EMULATOR.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Ian Martin</developer>
+    <publisher>Cascade Games</publisher>
+    <genre>Simulation</genre>
+    <players>1-2</players>
+    <image>./media/images/ACE - Air Combat Emulator (Europe).png</image>
+  </game>
+  <game id="181867" source="ScreenScraper.fr">
+    <path>./Ace II (Europe).D64</path>
+    <name>ACE 2</name>
+    <desc>A follow-up to ACE. Similar to its predecessor, ACE 2 is an oldie head-to-head air combat flight sim set in modern days of aviation. The game has a very strong arcade feel, as all the missions you fly are nondescript or generic. Your plane is also a generic, hypothetical modern fighter, and the goal is to fly different sorties to kill enemy aircraft. Very similar to ACE, except that you can now play a 2-player hotseat game, or solo competition against the computer, in split-screen mode.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Artronic</developer>
+    <publisher>Artronic</publisher>
+    <genre>Simulation</genre>
+    <players>1-2</players>
+    <image>./media/images/Ace II (Europe).png</image>
+  </game>
+  <game id="109457" source="ScreenScraper.fr">
+    <path>./Ace 2088 (Europe).D64</path>
+    <name>ACE 2088</name>
+    <releasedate>19880101T000000</releasedate>
+    <publisher>Cascade Games</publisher>
+    <image>./media/images/Ace 2088 (Europe).png</image>
+  </game>
+  <game id="35996" source="ScreenScraper.fr">
+    <path>./Ace of Aces.crt</path>
+    <name>Ace of Aces</name>
+    <desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber.
+Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
+    <rating>0.7</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>U.S. Gold</developer>
+    <publisher>Artech Studios</publisher>
+    <genre>Simulation-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Ace of Aces.png</image>
+  </game>
+  <game id="109461" source="ScreenScraper.fr">
+    <path>./Acidman (Germany).T64</path>
+    <name>Acidman</name>
+    <releasedate>19890101T000000</releasedate>
+    <publisher>Markt+Technik</publisher>
+    <image>./media/images/Acidman (Germany).png</image>
+  </game>
+  <game id="36104" source="ScreenScraper.fr">
+    <path>./AcroJet (USA).D64</path>
+    <name>Acro Jet - The Advanced Flight Simulator</name>
+    <desc>Acrojet contains ten acrobatic events which can be played by up to four players and at four different levels of difficulty.
+In all ten events you fly a BD5J Acrojet over a series of obstacles:
+
+1. In the Pylon Race you have to fly around pylons and land safely. 
+2. In the Slalom Race you have to fly a 'figure 8'.
+3. In the next event, the Ribbon Cut you have to break two ribbons.
+4. In the Inverted Ribbon Cut you perform the same stunt but flying the plane upside down. 
+5. In the Ribbon Roll there are two ribbons in a row and you have to fly under one
+
+and complete a full roll followed by flying under the second ribbon.
+6. In the Under Ribbon Race you perform a slalom by flying in sequence under three ribbons. 
+7. In the Under Ribbon Loop you fly under a ribbon followed by a loop and passing over the same ribbon upside down.
+8. In the Spot Landing event you have to fly up to 2,000 feet and land on the runway as close as possible to a marked spot.
+9. In the Flame-Out Landing event you perform the same stunt 
+but then without the engines running.
+10. The tenth and last event, the Cuban Eight, you have to make a half-loop over a ribbon, followed by a half-role, a half loop and flying under the first ribbon again. 
+
+Some game parameters can be set. You can decide how the weather conditions are going to be.
+An instrument panel at the bottom of the screen contains several read-outs, like a altitude meter, a compass, an artificial horizon and a vertical velocity meter.</desc>
+    <rating>0.6</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>U.S. Gold</developer>
+    <publisher>MicroProse</publisher>
+    <genre>Simulation</genre>
+    <players>1-4</players>
+    <image>./media/images/AcroJet (USA).png</image>
+  </game>
+  <game id="109467" source="ScreenScraper.fr">
+    <path>./Action-Ball (Germany).D64</path>
+    <name>Action Ball</name>
+    <releasedate>19890101T000000</releasedate>
+    <publisher>Magic Disk</publisher>
+    <image>./media/images/Action-Ball (Germany).png</image>
+  </game>
+  <game id="109373" source="ScreenScraper.fr">
+    <path>./Action Biker (Europe).D64</path>
+    <name>Action Biker</name>
+    <desc>The player controls the protagonist Clumsy Colin who rides a motorbike and has to navigate a landscape to extra equipment to improve the bike. Once all pieces are collected the player performs a final drag race. There is a time limit, and the player also has a limited number of lives reduced by crashing into background objects.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <publisher>Mastertronic</publisher>
+    <genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
+    <image>./media/images/Action Biker (Europe).png</image>
+  </game>
+  <game id="35906" source="ScreenScraper.fr">
+    <path>./Action Fighter (Europe).T64</path>
+    <name>Action Fighter</name>
+    <desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
+
+By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.
+
+There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.
+
+Picking up flags gives you bonus points with 10,000 points gaining you an extra life.</desc>
+    <rating>0.4</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Firebird</developer>
+    <publisher>SEGA</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./media/images/Action Fighter (Europe).png</image>
+  </game>
+  <game id="109464" source="ScreenScraper.fr">
+    <path>./Action Force (Europe).T64</path>
+    <name>Action Force</name>
+    <desc>COBRA have attacked the small island of Botsneda. While in the pursuing chaos the inhabitants left behind some top secret documents that if found by COBRA will cause a breach of security. Instead of an all out attack from the island protectors, they send in the only suitable vehicle for the terrain; an All Weather and Environment (AWE) buggy. Problem is this has nothing to defend itself with. 
+ 
+Enter stage left, Wild Bill in a Dragonfly Helicopter. His mission is to protect the AWE against enemy aircraft from destroying it. Also he must lift bridge parts and lower them down over gaps to stop the AWE from killing itself.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Virgin</publisher>
+    <players>1</players>
+    <image>./media/images/Action Force (Europe).png</image>
+  </game>
+  <game id="109466" source="ScreenScraper.fr">
+    <path>./Action Service (USA, Europe).D64</path>
+    <name>Action Service</name>
+    <releasedate>19890101T000000</releasedate>
+    <publisher>Cobra Soft</publisher>
+    <image>./media/images/Action Service (USA, Europe).png</image>
+  </game>
+  <game id="109469" source="ScreenScraper.fr">
+    <path>./Ad Infinitum.d64</path>
+    <name>Ad Infinitum</name>
+    <desc>AD Infinitum is a side view single screen shooter where you control a spacecraft that can move around the screen in various directions blasting waves of aliens over 256 levels.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Shaun Southern</publisher>
+    <image>./media/images/Ad Infinitum.png</image>
+  </game>
+  <game id="110451" source="ScreenScraper.fr">
+    <path>./Add Fast (USA).T64</path>
+    <name>Add Fast</name>
+    <releasedate />
+    <image>./media/images/Add Fast (USA).png</image>
+  </game>
+  <game id="109470" source="ScreenScraper.fr">
+    <path>./Addgar (Europe).D64</path>
+    <name>Addgar</name>
+    <releasedate>19940601T000000</releasedate>
+    <publisher>CP Verlag</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1</players>
+    <image>./media/images/Addgar (Europe).png</image>
+  </game>
+  <game id="109471" source="ScreenScraper.fr">
+    <path>./Addicta Ball (Europe).T64</path>
+    <name>Addicta Ball</name>
+    <desc>A great new 1 or 2 player arcade classic. Simple for all the familly to play with joystick or mouse but so deadly addictive you can't stop playing. 
+You need courage, lightning reflexes, tactical genius and strategic planning to beat the ball but you'll certainly enjoy finding all the hidden features along the way.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Alligata Software</publisher>
+    <genre>Action-Action / Breakout games</genre>
+    <players>1-2</players>
+    <image>./media/images/Addicta Ball (Europe).png</image>
+  </game>
+  <game id="110452" source="ScreenScraper.fr">
+    <path>./Addition Magician (USA).D64</path>
+    <name>Addition Magician</name>
+    <releasedate />
+    <image>./media/images/Addition Magician (USA).png</image>
+  </game>
+  <game id="109472" source="ScreenScraper.fr">
+    <path>./Adidas Championship Football (Europe).D64</path>
+    <name>ADIDAS Championship Football</name>
+    <releasedate>19900101T000000</releasedate>
+    <publisher>Ocean</publisher>
+    <image>./media/images/Adidas Championship Football (Europe).png</image>
+  </game>
+  <game id="110453" source="ScreenScraper.fr">
+    <path>./Adidas Championship Tie Break (Europe).D64</path>
+    <name>adidas Championship Tie Break</name>
+    <releasedate>19900101T000000</releasedate>
+    <publisher>Starbyte Software</publisher>
+    <image>./media/images/Adidas Championship Tie Break (Europe).png</image>
+  </game>
+  <game id="109473" source="ScreenScraper.fr">
+    <path>./Admiral Graf Spee (USA).T64</path>
+    <name>Admiral Graf Spee</name>
+    <releasedate>19820101T000000</releasedate>
+    <publisher>S.R. Mansfield</publisher>
+    <image>./media/images/Admiral Graf Spee (USA).png</image>
+  </game>
+  <game id="109476" source="ScreenScraper.fr">
+    <path>./Adult Poker (USA).D64</path>
+    <name>Adult Poker</name>
+    <releasedate />
+    <publisher>Keypunch Software</publisher>
+    <image>./media/images/Adult Poker (USA).png</image>
+  </game>
+  <game id="109477" source="ScreenScraper.fr">
+    <path>./Advance to Boardwalk (USA).D64</path>
+    <name>Advance to Boardwalk</name>
+    <releasedate>19900101T000000</releasedate>
+    <publisher>GameTek</publisher>
+    <image>./media/images/Advance to Boardwalk (USA).png</image>
+  </game>
+  <game id="36103" source="ScreenScraper.fr">
+    <path>./Advanced Pinball Simulator (Europe).D64</path>
+    <name>Advanced Pinball Simulator</name>
+    <desc>Part of Codemasters' original budget-price range,  this pinball game aimed to put fast &amp; furious action first.
+
+The table design features extra flippers on both sides, which are at the bases of sections of features. The best scores can be achieved by repeatedly bashing away at sections of blocks.
+
+The essential theme of the table is of magic and wizardry, with the targets to be lit including the word 'MAGIC' as well as a weather potion and a magic cottage. Trapdoors must be shot open to get their bonuses, then shot shut again to prevent the ball being lost in them. Extra balls are offered every 10,000 points.</desc>
+    <rating>0.35</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Codemasters</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Simulation-Pinball</genre>
+    <players>1-3</players>
+    <image>./media/images/Advanced Pinball Simulator (Europe).png</image>
+  </game>
+  <game id="109524" source="ScreenScraper.fr">
+    <path>./Adventure Creator (USA).T64</path>
+    <name>Adventure Creator</name>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Dale Disharoon, Inc.</developer>
+    <publisher>Spinnaker Software Corporation</publisher>
+    <genre>Adventure</genre>
+    <image>./media/images/Adventure Creator (USA).png</image>
+  </game>
+  <game id="109483" source="ScreenScraper.fr">
+    <path>./Adventure in Time and Space (Europe).T64</path>
+    <name>Adventure in Time and Space</name>
+    <releasedate>19890101T000000</releasedate>
+    <publisher>The Guild Adventure Software</publisher>
+    <image>./media/images/Adventure in Time and Space (Europe).png</image>
+  </game>
+  <game id="109484" source="ScreenScraper.fr">
+    <path>./Adventure Land (Europe).T64</path>
+    <name>Adventure Land</name>
+    <releasedate />
+    <publisher>The Guild Adventure Software</publisher>
+    <image>./media/images/Adventure Land (Europe).png</image>
+  </game>
+  <game id="109485" source="ScreenScraper.fr">
+    <path>./Adventure Master (USA).D64</path>
+    <name>Adventure Master</name>
+    <releasedate>19840101T000000</releasedate>
+    <publisher>CBS Software</publisher>
+    <image>./media/images/Adventure Master (USA).png</image>
+  </game>
+  <game id="109486" source="ScreenScraper.fr">
+    <path>./Adventure of the Year (USA).T64</path>
+    <name>Adventure of the Year</name>
+    <releasedate>19850101T000000</releasedate>
+    <publisher>Activision</publisher>
+    <image>./media/images/Adventure of the Year (USA).png</image>
+  </game>
+  <game id="109487" source="ScreenScraper.fr">
+    <path>./Adventure Quest (Europe).D64</path>
+    <name>Adventure Quest</name>
+    <desc>Jeu de rôle uniquement textuel.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Level 9 Computing</publisher>
+    <players>1</players>
+    <image>./media/images/Adventure Quest (Europe).png</image>
+  </game>
+  <game id="109488" source="ScreenScraper.fr">
+    <path>./Adventure Without a Name (Europe).T64</path>
+    <name>Adventure Without a Name</name>
+    <releasedate />
+    <publisher>The Guild Adventure Software</publisher>
+    <image>./media/images/Adventure Without a Name (Europe).png</image>
+  </game>
+  <game id="110454" source="ScreenScraper.fr">
+    <path>./Aerobics (USA).D64</path>
+    <name>Aerobics</name>
+    <releasedate />
+    <image>./media/images/Aerobics (USA).png</image>
+  </game>
+  <game id="109492" source="ScreenScraper.fr">
+    <path>./Africa Gardens (Europe).T64</path>
+    <name>Africa Gardens</name>
+    <releasedate>19830101T000000</releasedate>
+    <publisher>Gilsoft</publisher>
+    <image>./media/images/Africa Gardens (Europe).png</image>
+  </game>
+  <game id="109496" source="ScreenScraper.fr">
+    <path>./African Safari (Europe).T64</path>
+    <name>African Safari</name>
+    <desc>You play the role of Dr. Livingstone, who must explore a national park near the Zambezi River with the help of a monkey in his quest for the long lost Kenyan Diamond.</desc>
+    <releasedate>19850126T000000</releasedate>
+    <publisher>Interdisc</publisher>
+    <genre>Adventure-Adventure / Text</genre>
+    <players>1</players>
+    <image>./media/images/African Safari (Europe).png</image>
+  </game>
+  <game id="109497" source="ScreenScraper.fr">
+    <path>./After the Party (Europe).T64</path>
+    <name>After the Party</name>
+    <releasedate />
+    <publisher>The Guild Adventure Software</publisher>
+    <image>./media/images/After the Party (Europe).png</image>
+  </game>
+  <game id="36034" source="ScreenScraper.fr">
+    <path>./After the War.crt</path>
+    <name>After the War</name>
+    <desc>Year 2019, Manhattan. After a nuclear war.  
+
+Out of the ashes comes a hero, Jonathan Rogers, better known as "Jungle Rogers", the owner of the asphalt jungle. The only chance of survival is to reach the airdrop platform XV-238, located in the control base of the schizophrenic assassin professor McJerin, and to escape to outer colonies.
+
+There is no easy way to do this. The game is a side-scrolling shoot 'em up, with thugs coming at you constantly, and a few moves to use on them. You must cross the dangerous streets of Manhattan, which have become over-run by feral thieves. Later he awaits for the guardians of the scientific complex of McJerin.</desc>
+    <rating>0.35</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Dinamic Software</developer>
+    <publisher>Dinamic Software</publisher>
+    <genre>Action-Beat'em Up</genre>
+    <players>1</players>
+    <image>./media/images/After the War.png</image>
+  </game>
+  <game id="35965" source="ScreenScraper.fr">
+    <path>./Afterburner (USA).D64</path>
+    <name>Afterburner - US Version</name>
+    <desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.</desc>
+    <rating>0.85</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Mindscape</developer>
+    <publisher>SEGA</publisher>
+    <genre>Action-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Afterburner (USA).png</image>
+  </game>
+  <game id="109498" source="ScreenScraper.fr">
+    <path>./Aftermath (Alternative Software) (Europe).T64</path>
+    <name>Aftermath</name>
+    <desc>Aftermath is a clone of the arcade game Missile Command. The gameplay is very similar in which you must protect the six bases on the bottom of the screen by firing at the missiles heading towards them from your hub. You have a limited supply of ammunition to fire and if your hub is destroyed by a missile you can no longer fire until the level is complete should your bases survive. If all six bases are destroyed the game is over.</desc>
+    <releasedate>19880101T000000</releasedate>
+    <publisher>Alpha Omega</publisher>
+    <image>./media/images/Aftermath (Alternative Software) (Europe).png</image>
+  </game>
+  <game id="109501" source="ScreenScraper.fr">
+    <path>./Age of Adventure - The Return of Heracles (USA).D64</path>
+    <name>Age of Adventure - Return of Heracles</name>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Electronic Arts</publisher>
+    <image>./media/images/Age of Adventure - The Return of Heracles (USA).png</image>
+  </game>
+  <game id="109503" source="ScreenScraper.fr">
+    <path>./Agent USA (USA).T64</path>
+    <name>Agent USA</name>
+    <desc>A story that could happen anywhere: The eccentric inventor Elma Sniddle experiments with a new TV machine, as she gets the fatal idea to use one of the confidentially-looking crystals, which had rained down from a meteor shower in her garden, as an energy source. But as soon as she had built in the crystal, the machine awoke to (of course evil!) life and shot at her with concentrated beam of pure fuzz energy which turned her into a distorted copy of herself. 
+Unable to grab a clear thought, she staggered out of her flat, while the sinister television ran away towards the train station to take its heels. Only by a lucky coincidence she stumbled upon another crystal lying around in her garden and by this quickly changed back to normal. Then she promptly informed Helena Aldente from the CIB about the case and she put the special agent AGENT USA on the chase for the Fuzzbomb. 
+ 
+Agent USA is equipped with a VERY big hat and ten of the mysterious crystals and a CIB passport, which authorizes him to get handed out free tickets for the trains at all ticket booths in the whole country. But he has to hurry, as the Fuzzbomb transforms more and more honest and tax-paying people into mentally deranged Fuzzbodies and soon the whole nation will fall victim to the Fuzz. It would be the end of the world as we know it!</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Leonard Bertoni</developer>
+    <publisher>Scholastic</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/images/Agent USA (USA).png</image>
+  </game>
+  <game id="109505" source="ScreenScraper.fr">
+    <path>./Agent X II - The Mad Prof's Back (Europe).T64</path>
+    <name>Agent X II</name>
+    <desc>With Agent X having been a success in both critical and commercial terms, a sequel was inevitable. The Mad Professor's cunning plan this time is to infect everybody with acne, thus causing the economy to crumble (and not just the economy for Valentine's cards). As with the original, the game is split into distinct sections - as with the original these are each loaded one at a time. 
+ 
+The first section is a horizontally-scrolling shoot 'em up, where Agent X flies freely and must collect powerful weapons to be able to get through. This is followed by some platform action, which involves climbing a tower collecting code pieces along the way. The final section is a Breakout clone, pre-dating Arkanoid as the first game to give a plot behind basic brick-bashing, with the twist that a moving bat at the top of the screen fires the ball back towards you unpredictably.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Mastertronic</publisher>
+    <image>./media/images/Agent X II - The Mad Prof's Back (Europe).png</image>
+  </game>
+  <game id="109509" source="ScreenScraper.fr">
+    <path>./Aidon - The Apocalypse (Europe).D64</path>
+    <name>Aidon - The Apocalypse</name>
+    <releasedate>19890101T000000</releasedate>
+    <publisher>Haip Creations</publisher>
+    <image>./media/images/Aidon - The Apocalypse (Europe).png</image>
+  </game>
+  <game id="109511" source="ScreenScraper.fr">
+    <path>./Air Defender (USA).T64</path>
+    <name>Air Defender</name>
+    <releasedate>19880101T000000</releasedate>
+    <publisher>Brand Software</publisher>
+    <image>./media/images/Air Defender (USA).png</image>
+  </game>
+  <game id="109512" source="ScreenScraper.fr">
+    <path>./Air Rallye (USA).D64</path>
+    <name>Air Rally</name>
+    <releasedate>19840101T000000</releasedate>
+    <publisher>Hesware</publisher>
+    <genre>Race, Driving</genre>
+    <image>./media/images/Air Rallye (USA).png</image>
+  </game>
+  <game id="109513" source="ScreenScraper.fr">
+    <path>./Air Rescue I (USA).D64</path>
+    <name>Air Rescue I</name>
+    <releasedate />
+    <publisher>MicroProse</publisher>
+    <image>./media/images/Air Rescue I (USA).png</image>
+  </game>
+  <game id="109514" source="ScreenScraper.fr">
+    <path>./Air Support (USA).T64</path>
+    <name>Air Support</name>
+    <releasedate>19840101T000000</releasedate>
+    <publisher>Synapse Software</publisher>
+    <image>./media/images/Air Support (USA).png</image>
+  </game>
+  <game id="36024" source="ScreenScraper.fr">
+    <path>./Airborne Ranger.crt</path>
+    <name>Airborne Ranger</name>
+    <desc>In this action/simulation game by Microprose the player takes the role of an U.S. Army airborne ranger. These Airborne rangers are dropped behind enemy lines by parachute to perform all kinds of dangerous missions. Gameplay consists of 3 phases:
+Reading the mission briefing and outfitting 3 supply pods with machine gun ammo, time bombs, first-aid kits, grenades &amp; LAW rockets depending on this briefing.
+2. Flying over the mission map in a V-22 Osprey plane to drop your 3 supply pods and parachuting out of the plane yourself.
+3. Performing the actual missions and reaching the pick-up point before time runs out. There are 12 different missions which include capturing an enemy officer, blowing up an ammunition depot, photographing an experimental aircraft and liberating P.O.W.'s
+
+Missions take place in either an arctic, desert or temperate setting. Using the mission map the player must decide the route towards the mission objective. This might require them to crawl through trenches, run around minefields or take out enemy soldiers and bunkers. Airborne Ranger was one of the first games with some missions that required a stealthy approach (staying undetected until a certain time, taking out a guard and stealing an enemy uniform etc.).
+
+Airborne Ranger can be played in practice or veteran mode. In practice mode, gameplay is limited to a single mission, while in veteran mode, a series of missions or an entire campaign is played in order to earn medals &amp; promotions. All missions can be played on several difficulty levels.</desc>
+    <rating>0.7</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Scott Spanburg</developer>
+    <publisher>MicroProse</publisher>
+    <genre>Simulation</genre>
+    <players>1</players>
+    <image>./media/images/Airborne Ranger.png</image>
+  </game>
+  <game id="109515" source="ScreenScraper.fr">
+    <path>./Aircop 2000 (Europe).T64</path>
+    <name>Aircop 2000</name>
+    <releasedate>19900101T000000</releasedate>
+    <publisher>CP Verlag</publisher>
+    <image>./media/images/Aircop 2000 (Europe).png</image>
+  </game>
+  <game id="109517" source="ScreenScraper.fr">
+    <path>./Airliner (Europe).T64</path>
+    <name>Airliner</name>
+    <releasedate>19840101T000000</releasedate>
+    <publisher>Protek</publisher>
+    <image>./media/images/Airliner (Europe).png</image>
+  </game>
+  <game id="180764" source="ScreenScraper.fr">
+    <path>./Airwolf II (Europe).D64</path>
+    <name>Airwolf 2</name>
+    <desc>Shoot'em up horizontal inspiré de la série appelée Supercopter en France. Vous dirigez un hélicoptère et flinguez tout ce qui arrive devant vous. Piloter un hélicoptère fait drôle dans cet univers ou les ennemis sont très proches de ceux rencontrés dans Nemesis (Shoot spatial). On dirait que le sprite a été changé au dernier moment pour coller à la licence. Petite particularité, le scrolling horizontal va vers la gauche soit dans le sens inverse de tous les autre jeux.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Elite Systems</publisher>
+    <genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+    <players>1</players>
+    <image>./media/images/Airwolf II (Europe).png</image>
+  </game>
+  <game id="35855" source="ScreenScraper.fr">
+    <path>./Airwolf (Europe).T64</path>
+    <name>Airwolf</name>
+    <desc>The game of the TV show is viewed from the side and puts you in command of an attack helicopter. Your task is to rescue 5 scientists from an underground lair by destroying its layer of protection and then getting to the core.  Moving onto a screen at a time you must shoot out anything and everything in your path, including lots of regenerating static targets. Realistic gravity takes effect, so you can't simply hover in a set position.</desc>
+    <rating>0.6</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Elite Systems</developer>
+    <publisher>Elite Systems</publisher>
+    <genre>Action-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Airwolf (Europe).png</image>
+  </game>
+  <game id="109521" source="ScreenScraper.fr">
+    <path>./Aktiv (Europe).T64</path>
+    <name>Aktiv</name>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Wicked Software</publisher>
+    <image>./media/images/Aktiv (Europe).png</image>
+  </game>
+  <game id="109529" source="ScreenScraper.fr">
+    <path>./Ala (Europe).T64</path>
+    <name>Ala</name>
+    <releasedate>19880101T000000</releasedate>
+    <publisher>Mastertronic</publisher>
+    <image>./media/images/Ala (Europe).png</image>
+  </game>
+  <game id="109531" source="ScreenScraper.fr">
+    <path>./Alcazar - The Forgotten Fortress (USA).T64</path>
+    <name>Alcazar - The Forgotten Fortress</name>
+    <desc>The game starts on a world map, which contains 22 castles. The player's main goal is to move the character through the various castles to ultimately arrive at the main castle fortress on the right side of the map. Each castle has multiple rooms, traps and floors. The map and routes change every time a new game is started</desc>
+    <releasedate>19850101T000000</releasedate>
+    <publisher>Activision</publisher>
+    <image>./media/images/Alcazar - The Forgotten Fortress (USA).png</image>
+  </game>
+  <game id="109532" source="ScreenScraper.fr">
+    <path>./ALCON (USA).D64</path>
+    <name>Alcon</name>
+    <desc>Adaptation du jeu d'arcade Slap Fight. Ce jeu est donc un Shoot'em up vertical à options. Les options se sélectionnent après avoir ramassé les étoiles sur les restes fumants des ennemis. On peut ainsi augmenter sa vitesse, la puissance de son tir, en ajouter un latéral, utiliser un laser,  des missiles à tête chercheuse ou se protéger derrière un champs de force. Comme tous ces shoot, un fois mort on redémarre "à poil". Il faut donc s'efforcer de tout faire en une seule vie si l'on veut terminer le jeu. 
+Quant au nom Alcon... Pourquoi pas Slap fight?? Probablement parce que Ah l'con, il a changé le nom!!!</desc>
+    <releasedate>19870101T000000</releasedate>
+    <publisher>Taito</publisher>
+    <genre>Shoot'em Up-Shoot'em up / Vertical-Shoot'em up / Horizontal</genre>
+    <players>1</players>
+    <image>./media/images/ALCON (USA).png</image>
+  </game>
+  <game id="109535" source="ScreenScraper.fr">
+    <path>./Alf - The First Adventure (USA).D64</path>
+    <name>Alf - The First Adventure</name>
+    <desc>This was a budget release computer game based on the popular '80s television show of the same name. The player controls Alf, who has to run around the neighborhood collecting pizzas and avoiding cats and the man of the household.</desc>
+    <releasedate>19880101T000000</releasedate>
+    <publisher>Alien</publisher>
+    <players>1</players>
+    <image>./media/images/Alf - The First Adventure (USA).png</image>
+  </game>
+  <game id="109538" source="ScreenScraper.fr">
+    <path>./Algernon - An Introduction to Programming Logic (USA).D64</path>
+    <name>Algernon</name>
+    <releasedate />
+    <publisher>Pembroke Hill School</publisher>
+    <image>./media/images/Algernon - An Introduction to Programming Logic (USA).png</image>
+  </game>
+  <game id="109500" source="ScreenScraper.fr">
+    <path>./Age of Adventure - Ali Baba and the Forty Thieves (USA).D64</path>
+    <name>Alibaba and the Fourty Thieves</name>
+    <releasedate>19810101T000000</releasedate>
+    <publisher>Electronic Arts</publisher>
+    <image>./media/images/Age of Adventure - Ali Baba and the Forty Thieves (USA).png</image>
+  </game>
+  <game id="35883" source="ScreenScraper.fr">
+    <path>./Alien 3.crt</path>
+    <name>Alien 3</name>
+    <desc>Alien 3 is a video game based on the movie of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives. 
+ 
+The gameplay of the various Alien³ conversions varies from platform to platform. This version is a side-scrolling action game with large maze-like levels. In each level, you have to rescue all the trapped prisoners and then make your way to the exit, all while surviving multiple alien attacks.</desc>
+    <rating>0.75</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Probe Software</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Platform</genre>
+    <image>./media/images/Alien 3.png</image>
+  </game>
+  <game id="109544" source="ScreenScraper.fr">
+    <path>./Alien Attack (Wicked Software) (Europe).T64</path>
+    <name>Alien Attack</name>
+    <releasedate>19950101T000000</releasedate>
+    <publisher>NET Software Ltd.</publisher>
+    <image>./media/images/Alien Attack (Wicked Software) (Europe).png</image>
+  </game>
+  <game id="109569" source="ScreenScraper.fr">
+    <path>./Alien Panic (Bubble Bus) (Europe).T64</path>
+    <name>Alien Panic</name>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Bubble Bus Software</publisher>
+    <image>./media/images/Alien Panic (Keypunch Software) (USA).png</image>
+  </game>
+  <game id="109569" source="ScreenScraper.fr">
+    <path>./Alien Panic (Keypunch Software) (USA).T64</path>
+    <name>Alien Panic</name>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Bubble Bus Software</publisher>
+    <image>./media/images/Alien Panic (Keypunch Software) (USA).png</image>
+  </game>
+  <game id="109573" source="ScreenScraper.fr">
+    <path>./Alien Sidestep (USA).T64</path>
+    <name>Alien Sidestep</name>
+    <releasedate>19830101T000000</releasedate>
+    <publisher>Mr. Computer</publisher>
+    <image>./media/images/Alien Sidestep (USA).png</image>
+  </game>
+  <game id="35949" source="ScreenScraper.fr">
+    <path>./Alien Storm.crt</path>
+    <name>Alien Storm</name>
+    <desc>The aliens are invading Earth, and it's up to the "Alien Busters" to wipe them out and destroy their creator. The Busters consist of Karla, Gordon, and Scooter. Each one of them have their own weapons and special attacks.
+
+When you start the game, you can select any one of these characters to play as. There are six missions to complete (eight in the Genesis version) with several stages, and each mission has you blasting aliens all the way to the end, from the streets to the mother ship where you'll meet the mother of all aliens. Unfortunately, blasting these aliens will not be an easy task, as they get tougher in every mission, and are capable of hiding into objects such as plants, postboxes, trashcans, drums, and several others. Each mission has an objective such as rescuing people destroying an UFO.
+
+When you deal with a few aliens, flying heads will appear, which you can shoot to collect life or energy (by the way, life is important to you, since if yours get empty, you're dead). However, rather than using your ordinary weapons, you can use the special attacks that are enough to kill aliens you currently see. These types of attack vary depending on the character you choose at the start of the game. For instance, Gordon summons a U.S. Air Force Jet that drop bombs across the street, while Scooter is able to teleport out of his present location, and leave a series of bombs that will blow up aliens on sight, he will then re-appear. However, using your character's special attack uses up a lot of energy, and if you have little or no energy, you can't use it.
+
+At the end of some missions is an alien boss, which you must destroy in order to complete the mission. Also, at the end of every one, you have to enter buildings where you participate in a shooting gallery. The object is to kill aliens popping up from several locations with the building. 
+
+You can play Alien Storm by yourself, or with another person.</desc>
+    <rating>0.5</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>U.S. Gold</developer>
+    <publisher>SEGA</publisher>
+    <genre>Action-Beat'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Alien Storm.png</image>
+  </game>
+  <game id="35977" source="ScreenScraper.fr">
+    <path>./Alien Syndrome.crt</path>
+    <name>Alien Syndrome</name>
+    <desc>Alien Syndrome is a scrolling shooter arcade conversion.
+
+Your job is to run around and rescue all the captives and make it to the escape hatch before the time bomb explodes. Then face the mother alien at the end of the level.
+
+You can play as a single player or two people, taking turns. (Player 2 starts the game after Player 1 dies and vice versa.)</desc>
+    <rating>0.75</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>A.C.E.</developer>
+    <publisher>SEGA</publisher>
+    <genre>Shooter-Action-Shoot'em Up</genre>
+    <players>1-2</players>
+    <image>./media/images/Alien Syndrome.png</image>
+  </game>
+  <game id="115966" source="ScreenScraper.fr">
+    <path>./Alien (Europe).T64</path>
+    <name>Alien</name>
+    <desc>The game follows the movie, in that at the beginning of the game a crew member (not always, but often Kane) gives ?birth? to the alien. It's then up  to the rest of the crew the player controls to move around the three levels of the Nostromo using the air ducts, attempting to isolate the alien and destroy it. Or blow it out of the airlock of the Nostromo, or as in the movie set the self-destruct on the ship and get away in the escape pod.</desc>
+    <rating>0.45</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Concept Software</developer>
+    <publisher>Softgold</publisher>
+    <genre>Action-Strategy</genre>
+    <players>1</players>
+    <image>./media/images/Alien (SoftGold) (USA).png</image>
+  </game>
+  <game id="115966" source="ScreenScraper.fr">
+    <path>./Alien (SoftGold) (USA).D64</path>
+    <name>Alien</name>
+    <desc>The game follows the movie, in that at the beginning of the game a crew member (not always, but often Kane) gives ?birth? to the alien. It's then up  to the rest of the crew the player controls to move around the three levels of the Nostromo using the air ducts, attempting to isolate the alien and destroy it. Or blow it out of the airlock of the Nostromo, or as in the movie set the self-destruct on the ship and get away in the escape pod.</desc>
+    <rating>0.45</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Concept Software</developer>
+    <publisher>Softgold</publisher>
+    <genre>Action-Strategy</genre>
+    <players>1</players>
+    <image>./media/images/Alien (SoftGold) (USA).png</image>
+  </game>
+  <game id="109578" source="ScreenScraper.fr">
+    <path>./Aliens from Subterrania (Europe).T64</path>
+    <name>Aliens from Subterrania</name>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Ozisoft</publisher>
+    <image>./media/images/Aliens from Subterrania (Europe).png</image>
+  </game>
+  <game id="109577" source="ScreenScraper.fr">
+    <path>./Aliens.crt</path>
+    <name>Aliens</name>
+    <desc>Story: There are places in the Universe where you do not go on your own... but nightmares return and the only way to get rid of them is to return to LV-426 and face them. To re-experience the horror. To master the fear. And this time... to win. Here is your chance to live through the excitement and action of the film "Aliens" once more. Between the original landing of the Drop Ship to the end fight with the Alien Queen, the six different game sequences put the destiny of Newt and the colonial marines into your hands. . . . 
+ 
+Aliens - The Computer Game by Activision is the game for the movie. Seemingly, it was only developed for the US market, as there is another game with the same name in Europe. But this game differs significantly from the other concerning the game principle. The game talked about here was later offered by the same company in Europe with the addition "US Version". 
+ 
+The game has 6 levels. Almost every level can be assigned to a different genre. In Level 1 you need to fly through a course of rings, in Level 3 on the other hand you need to stop Aliens in Space Invaders style.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/images/Aliens.png</image>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./ALIENS.T64</path>
+    <name>ALIENS</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="110467" source="ScreenScraper.fr">
+    <path>./Alioth (USA).D64</path>
+    <name>Alioth</name>
+    <desc>Alioth is a sci-fi platform game set on the planet of the same name. After an unsuccessful scientific experiment, a robot &amp; operators are sent in to destroy everything. The robot is equipped with a gun, but some of the mutants have created a protective system against the bullets. 
+ 
+The amount of bullets is limited, but some of the killed mutants may leave an extra ammo. The player's task is to find out 10 parts of nuclear bomb and bring them to the start location in order to destroy the base.</desc>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Nostalgia Productions</developer>
+    <publisher>Eagleware International</publisher>
+    <genre>Platform-Platform / Shooter Scrolling</genre>
+    <players>1</players>
+    <image>./media/images/Alioth (USA).png</image>
+  </game>
+  <game id="109581" source="ScreenScraper.fr">
+    <path>./All Risks (Netherlands).T64</path>
+    <name>All Risks</name>
+    <releasedate>19860101T000000</releasedate>
+    <publisher>Radarsoft</publisher>
+    <image>./media/images/All Risks (Netherlands).png</image>
+  </game>
+  <game id="109582" source="ScreenScraper.fr">
+    <path>./All-American Basketball (Europe).T64</path>
+    <name>All-American Basketball</name>
+    <releasedate>19920101T000000</releasedate>
+    <publisher>Zeppelin Games</publisher>
+    <image>./media/images/All-American Basketball (Europe).png</image>
+  </game>
+  <game id="133274" source="ScreenScraper.fr">
+    <path>./Alley Cat (Europe).D64</path>
+    <name>Alley Cat</name>
+    <desc>You are Thomas the cat and you have a date with a lady friend and you must move across the local area to get to her using walls. The game is a side view flick-screen game and you must move across each screen from the left to the right avoiding obstacles like flying boots and bottles. There are also gaps with gates and these must be jumped over but on later screens obstacles appear from the gaps like dogs and brooms. If you touch an obstacle or fall through a gap then you lose one of nine lives and start on the left of the screen you are on. Reaching the end of each screen gives you a bonus based on how long it took you to complete the screen.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Solar Software</developer>
+    <publisher>Solar Software</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <image>./media/images/Alley Cat (Europe).png</image>
+  </game>
+  <game id="109584" source="ScreenScraper.fr">
+    <path>./Alley Oops (USA).T64</path>
+    <name>Alley Oops</name>
+    <releasedate>19830101T000000</releasedate>
+    <publisher>Artworx Software</publisher>
+    <image>./media/images/Alley Oops (USA).png</image>
+  </game>
+  <game id="109586" source="ScreenScraper.fr">
+    <path>./ALLEYKAT.D64</path>
+    <name>Alleykat</name>
+    <desc>Alleykat is a vertically-scrolling racer with elements of a shoot-em up game. 
+ 
+The player, a speeder pilot, strives to become the Alleykat Champion by competing in eight space stadiums scattered around the galaxy. Different races like demolition derbies, time-trials, endurance epics and others feature all kinds of obstacles like rocks, pillars, bridges and hard walls, and several types of enemies race along.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Graftgold</developer>
+    <publisher>Hewson</publisher>
+    <genre>Shoot'em Up-Shoot'em up / Vertical</genre>
+    <players>1-2</players>
+    <image>./media/images/ALLEYKAT.png</image>
+  </game>
+  <game id="109587" source="ScreenScraper.fr">
+    <path>./Alliance (Europe).T64</path>
+    <name>Alliance</name>
+    <releasedate>19890101T000000</releasedate>
+    <publisher>Hewson</publisher>
+    <image>./media/images/Alliance (Europe).png</image>
+  </game>
+  <game id="109585" source="ScreenScraper.fr">
+    <path>./Alloyrun (USA).T64</path>
+    <name>Alloyrun</name>
+    <releasedate>19880101T000000</releasedate>
+    <publisher>Starlight Software</publisher>
+    <image>./media/images/Alloyrun (USA).png</image>
+  </game>
+  <game id="109596" source="ScreenScraper.fr">
+    <path>./Alpha Omega Run (USA).D64</path>
+    <name>Alpha Omega Run</name>
+    <releasedate>19840101T000000</releasedate>
+    <publisher>Nanosec</publisher>
+    <image>./media/images/Alpha Omega Run (USA).png</image>
+  </game>
+  <game id="110471" source="ScreenScraper.fr">
+    <path>./Alphabet Zoo (USA).T64</path>
+    <name>Alphabet Zoo</name>
+    <releasedate />
+    <image>./media/images/Alphabet Zoo (USA).png</image>
+  </game>
+  <game id="109592" source="ScreenScraper.fr">
+    <path>./Alpine Tram Ride (USA).T64</path>
+    <name>Alpine Tram Ride</name>
+    <releasedate>19860101T000000</releasedate>
+    <image>./media/images/Alpine Tram Ride (USA).png</image>
+  </game>
+  <game id="109593" source="ScreenScraper.fr">
+    <path>./Altair 4 (Europe).T64</path>
+    <name>Altair 4</name>
+    <desc>Disaster has happened to you while flying your Strato-Cruiser in deep space. You have encountered an asteroid storm and your ship has taken a big hit damaging the ship forcing you to search for a planet or moon to land on. More problems have arisen as your computer has told you the nearest planet is Altair 4, a galactic penal planet. All planets and races over generations have been sending their dangerous criminals to the planet and isn't the place to be visiting. Once you have landed, your quest is to find parts for your ship, to repair and leave the planet while trying to stay alive. Altair 4 is a text adventure where the screen has text describing your location while you type in commands with the keyboard to interact with your surroundings.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Acme Software</developer>
+    <publisher>Voyager</publisher>
+    <genre>Adventure-Adventure / Text</genre>
+    <image>./media/images/Altair 4 (Europe).png</image>
+  </game>
+  <game id="36012" source="ScreenScraper.fr">
+    <path>./Alter Ego.d64</path>
+    <name>Alter Ego</name>
+    <desc>Alter Ego is a "life simulator" that presents you with a series of life experiences that take you from infancy through old age.  You can live out your own life, or the life of someone else, possibly someone you wish you could be.  You can live out fantasies without risk, relive your childhood, or maybe see the world from your kids'/parents'/spouse's eyes.
+
+The life situations you encounter have the ability to change or become eliminated based on previous decisions you make.  While the life you live is a fantasy, the actions you take have very real and thought-provoking responses.</desc>
+    <rating>0.75</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>Simulation</genre>
+    <players>1</players>
+    <image>./media/images/Alter Ego.png</image>
+  </game>
+  <game id="35838" source="ScreenScraper.fr">
+    <path>./Altered Beast (USA).D64</path>
+    <name>Altered Beast</name>
+    <desc>You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive. The Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.</desc>
+    <rating>1</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>Activision</publisher>
+    <genre>Action-Beat'em Up</genre>
+    <players>1-2</players>
+    <image>./media/images/Altered Beast (USA).png</image>
+  </game>
+  <game id="106824" source="ScreenScraper.fr">
+    <path>./3D Pool (Europe).T64</path>
+    <name>Maltese Joe Plays 3-D Pool</name>
+    <releasedate>19890101T000000</releasedate>
+    <publisher>Firebird</publisher>
+    <image>./media/images/3D Pool (Europe).png</image>
+  </game>
+  <game id="106817" source="ScreenScraper.fr">
+    <path>./$100,000 Pyramid, The (USA).D64</path>
+    <name>The $100,000 Pyramid</name>
+    <desc>This is an early adaptation of the popular TV game show The $100,000 Pyramid. 
+ 
+The objective is to reach the top of the pyramid by winning successive rounds. Each round consists of selecting a category from the pyramid. Each category consists of a list of words that share some common thread like "things that are red". One player then tries to give the other player clues to guess the word without saying the word itself. 
+ 
+There is also a single player mode that does not resemble the show very much where you have to type in single word clues.</desc>
+    <rating>0.45</rating>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Richard Hansen</developer>
+    <publisher>Box Office</publisher>
+    <genre>Quiz-Quiz / English</genre>
+    <players>1-4</players>
+    <image>./media/images/$100,000 Pyramid, The (USA).png</image>
+  </game>
+  <game id="109374" source="ScreenScraper.fr">
+    <path>./1991 World Cup Knockout, The (Europe).T64</path>
+    <name>The 1991 World Cup Knockout</name>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Eddie Thewlis</developer>
+    <publisher>ET Software</publisher>
+    <image>./media/images/1991 World Cup Knockout, The (Europe).png</image>
+  </game>
+  <game id="35944" source="ScreenScraper.fr">
+    <path>./Addams Family, The (Europe).D64</path>
+    <name>The Addams Family</name>
+    <desc>The Addams Family is a platformer based on the movie of the same name. The player takes the role of Gomez who searches for his missing family members. To find them he has to explore different parts of the mansion, e.g. the woods, while jumping a lot and avoiding enemies. In comparison to the other versions of the game this one is more puzzle-oriented, meaning the player has to find keys to access certain parts of the game world. Another big difference is that this version is not side-scrolling, the player is always sees the whole room and the game switches to another one if the player leaves the screen or enters a door.</desc>
+    <rating>0.4</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Action-Platform</genre>
+    <players>1</players>
+    <image>./media/images/Addams Family, The (Europe).png</image>
+  </game>
+  <game id="109489" source="ScreenScraper.fr">
+    <path>./Adventures of Barsak the Dwarf, The (Europe).T64</path>
+    <name>The Adventures of Barsak the Dwarf</name>
+    <releasedate />
+    <publisher>P. Napolitano &amp; V. Napolitano</publisher>
+    <image>./media/images/Adventures of Barsak the Dwarf, The (Europe).png</image>
+  </game>
+  <game id="36745" source="ScreenScraper.fr">
+    <path>./Adventures of Bond... Basildon Bond, The (Europe).T64</path>
+    <name>The Adventures of Bond... Basildon Bond</name>
+    <desc>The player controls Basildon Bond, whose task is to collect a series of codes within five hours, under orders from 'P', who had his codename changed to 'B' to confuse the KGB. To unlock these codes, Basildon must piece together several jokes, which are found in various rooms inside a television studio. Once Basildon has collected a joke, they must be entered in the main computer.
+
+Collecting the jokes is not an easy task for Basildon. For one thing, to use certain objects, some other object must be collected first. For another, moving TV cameras roam around in some rooms, and if Basildon comes into contact with any of these, he returns to the computer room and ten minutes of his time is lost. 
+
+However, to deal with the cameras, Basildon is equipped with ten Cooperblasters which can be used to summon Cooperman. Once Cooperman has been summoned, the player is free to navigate him toward the camera, and once Cooperman comes into contact with the camera, it is destroyed. If the player leaves and re-enters the room, the cameras return and the player has to summon Cooperman again, wasting precious Cooperblaster ammo. Cooperman can only be summoned ten times, and the player is unable to collect more ammo, so they need to use Cooperman wisely.
+
+One summon out of ten introduces the player to another character known as Blunderwoman, who does far more damage than Cooperman because whereas Cooperman just flies from one side of the screen to the other in a straight line unless the player interferes, Blunderwoman flies diagonally across the screen and back again without the player's involvement, killing any cameras that she does not kill the first time.
+
+The game ends when the five hours are over.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Probe Software</developer>
+    <publisher>Probe Software</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/images/Adventures of Bond... Basildon Bond, The (Europe).png</image>
+  </game>
+</gameList>

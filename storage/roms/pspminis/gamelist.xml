@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <game id="28676" source="ScreenScraper.fr">
+    <path>./Age Of Zombies (USA).cso</path>
+    <name>Age Of Zombies</name>
+    <desc>In the Age of Zombies, our hero Barry Steakfries employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs. Played as a top-down shooter and offering style and flair through humor, intense action and zombie blasting carnage, Age of Zombies puts Steakfries up against the zombie masses and says, "good luck!"</desc>
+    <rating>0.8</rating>
+    <releasedate>20100225T000000</releasedate>
+    <developer>Halfbrick</developer>
+    <publisher>Halfbrick</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Age Of Zombies (USA).png</image>
+  </game>
+  <game id="28919" source="ScreenScraper.fr">
+    <path>./Alien Zombie Death (USA).cso</path>
+    <name>Alien Zombie Death</name>
+    <desc>Somewhere far far away in a random solar system, a lone space man dies... horribly. Take control of said fateful space man as he battles to his end against the dreaded Alien Zombies! Using a standard laser gun and a few pickups along the way, make sure you take out as many of those Alien Zombie suckers before they take you down. Its that simple. It's Alien Zombie Death.</desc>
+    <rating>0.6</rating>
+    <releasedate>20100325T000000</releasedate>
+    <developer>PomPom Games</developer>
+    <publisher>PomPom Games</publisher>
+    <genre>Shooter</genre>
+    <players>1</players>
+    <image>./media/images/Alien Zombie Death (USA).png</image>
+  </game>
+  <game id="28005" source="ScreenScraper.fr">
+    <path>./Angry Birds (USA).cso</path>
+    <name>Angry Birds</name>
+    <desc>The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds' eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs' fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 63 levels requires logic, skill, and brute force to crush the enemy.</desc>
+    <rating>0.85</rating>
+    <releasedate>20110112T000000</releasedate>
+    <developer>Rovio Mobile</developer>
+    <publisher>Chillingo</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/images/Angry Birds (USA).png</image>
+  </game>
+  <game id="27876" source="ScreenScraper.fr">
+    <path>./Jetpack Joyride (USA).cso</path>
+    <name>Jetpack Joyride</name>
+    <desc>Join Barry, a struggling gramophone salesman, as he breaks into a secret laboratory and commandeers experimental jetpacks. Strap on a bullet-powered jetpack to dodge lasers, electric fields and all the missiles that come your way. Get a boost along the way with vehicles like the Lil' Stomper, Profit Bird and Crazy Freaking Teleporter. If you're lucky, you'll also find the Strong Arm Machine (SAM) – the ultimate vehicle of destruction and hi-fives.</desc>
+    <rating>0.8</rating>
+    <releasedate>20121121T000000</releasedate>
+    <developer>Beatshapers</developer>
+    <publisher>Beatshapers</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/images/Jetpack Joyride (USA).png</image>
+  </game>
+  <game id="28717" source="ScreenScraper.fr">
+    <path>./Monopoly (USA).cso</path>
+    <name>Monopoly</name>
+    <desc>Play with up to four players to see who will own the largest amount of real estate. 
+Build houses and hotels to make your property even more valuable and collect rent. 
+Unlock new, previously unknown Monopoly game boards.</desc>
+    <rating>0.65</rating>
+    <releasedate>20100415T000000</releasedate>
+    <developer>Electronic Arts</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Board game</genre>
+    <players>1-4</players>
+    <image>./media/images/Monopoly (USA).png</image>
+  </game>
+  <game id="28413" source="ScreenScraper.fr">
+    <path>./Sky Force (USA).cso</path>
+    <name>Sky Force</name>
+    <desc>Pick one of three ships and blast your way to victory in this ultimate classic arcade shooter! Sky Force brings you pure blasting action in 8 immersive levels filled with vicious enemies, big bosses, destructible objects and the good old Earth to save! Use various explosive weapons, useful power-ups, and unlockables such as heat-seeking missiles or the amazingly powerful laser attack! Sky Force is a breathtaking and action packed top-down scrolling shoot?em up which delivers fun and addictive gameplay that will keep you entertained for hours! Get this game now and stand up against the enemy - the Earth deserves its new hero!</desc>
+    <rating>0.65</rating>
+    <releasedate>20110516T000000</releasedate>
+    <developer>Infinite Dreams</developer>
+    <publisher>Infinite Dreams</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Sky Force (USA).png</image>
+  </game>
+  <game id="145207" source="ScreenScraper.fr">
+    <path>./Top Gun (USA).cso</path>
+    <name>Top Gun</name>
+    <desc>Top Gun is loosely based on the film of the same name. It is an action game in which the player controls an F-14 Tomcat fighter through four different missions.
+
+The action is seen from a first-person cockpit view. Depending on the mission, different kinds of targets must be destroyed. There are always enemy aircraft, but some missions include sea and ground targets as well. Two weapons are available: machine guns (with unlimited ammunition) and missiles. The player can choose from three types of missiles before a mission: the more powerful ones can only be carried in lower quantities.</desc>
+    <rating>0.65</rating>
+    <releasedate>20110602T000000</releasedate>
+    <developer>Paramount Digital Entertainment</developer>
+    <publisher>Paramount Digital Entertainment</publisher>
+    <genre>Shooter-Shooter / Plane, 3rd person</genre>
+    <players>1</players>
+    <image>./media/images/Top Gun (USA).png</image>
+  </game>
+  <game id="29408" source="ScreenScraper.fr">
+    <path>./Zombie Racers (USA).cso</path>
+    <name>Zombie Racers</name>
+    <desc>Take on the best Zombie Racers in this automotive zombie bloodfest. 
+ 
+â€¢Story Mode: race and kill zombies, use zombie kills to upgrade your car, come first to unlock the next track. 
+â€¢Free Roaming Mode: go anywhere, use weapons on zombies and each other, compete in three new game modes, Dusk To Dawn, 666 Zombies and Every Last Drop. 
+â€¢Unlock new cars and tracks. 
+â€¢10 cars, from pickups and monster 4x4s to drift cars and even a golf cart. 
+â€¢14 tracks, from a forest and a cornfield to an airport and shopping mall. 
+â€¢Punk soundtrack from Bankrupt.</desc>
+    <rating>0.5</rating>
+    <releasedate>20110607T000000</releasedate>
+    <developer>Big Head Games</developer>
+    <publisher>Big Head Games</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./media/images/Zombie Racers (USA).png</image>
+  </game>
+</gameList>

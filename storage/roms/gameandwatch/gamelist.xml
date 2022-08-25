@@ -1,11 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<provider>
-		<System>Game &amp; Watch</System>
-		<software>Skraper</software>
-		<database>ScreenScraper.fr</database>
-		<web>http://www.screenscraper.fr</web>
-	</provider>
 	<game id="88060" source="ScreenScraper.fr">
 		<path>./Escape.mgw</path>
 		<name>Escape</name>
@@ -527,8 +521,6 @@
 		<publisher>Coleco Industries, Inc.</publisher>
 		<players>1</players>
 		<playcount>1</playcount>
-		<lastplayed>20220503T100304</lastplayed>
-		<gametime>157</gametime>
 		<lang>en</lang>
 	</game>
 	<game id="0" source="ScreenScraper.fr">
@@ -677,8 +669,6 @@
 		<publisher>Nintendo</publisher>
 		<players>1</players>
 		<playcount>1</playcount>
-		<lastplayed>20220503T104353</lastplayed>
-		<gametime>164</gametime>
 		<lang>en</lang>
 	</game>
 	<game id="0" source="ScreenScraper.fr">
@@ -695,8 +685,6 @@
 		<genre>Ação</genre>
 		<players>1</players>
 		<playcount>4</playcount>
-		<lastplayed>20220503T120941</lastplayed>
-		<gametime>1862</gametime>
 		<lang>en</lang>
 	</game>
 	<game id="88058" source="ScreenScraper.fr">
@@ -757,8 +745,6 @@
 		<genre>Ação</genre>
 		<players>1</players>
 		<playcount>3</playcount>
-		<lastplayed>20220503T121713</lastplayed>
-		<gametime>155</gametime>
 		<lang>en</lang>
 	</game>
 	<game id="0" source="ScreenScraper.fr">
@@ -775,8 +761,6 @@
 		<genre>Ação</genre>
 		<players>1</players>
 		<playcount>3</playcount>
-		<lastplayed>20220503T121713</lastplayed>
-		<gametime>155</gametime>
 		<lang>en</lang>
 	</game>
 </gameList>

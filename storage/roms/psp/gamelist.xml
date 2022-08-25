@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="27893" source="ScreenScraper.fr">
+		<path>./Dragon Ball Z Shin Budokai (USA).PBP</path>
+		<name>Dragon Ball Z : Shin Budokai</name>
+		<desc>The game's story mode is based on the events of the movie Dragon Ball Z: Fusion Reborn. The choices the player makes in the story determine how the story evolves. 
+ 
+Another mode is the Arcade mode, a single-player mode that lets you brawl against the CPU in order to fight and gain the Dragon Balls. Next is the Z trial mode, which consists of two different types of play: survival, where you fight against CPU-controlled opponents for as long as you can, and time attack, where you see how fast you can make it through a predetermined set of opponents. 
+ 
+Finally, there?s the Profile Card mode in which the players will have their in-game character profile cards that lists their name and power level. The player can design their own card and customize them with the items from the game's item store.</desc>
+		<rating>0.85</rating>
+		<releasedate>20060519T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./media/images/Dragon Ball Z Shin Budokai (USA).png</image>
+	</game>
+	<game id="28596" source="ScreenScraper.fr">
+		<path>./Frogger Helmet Chaos (USA).PBP</path>
+		<name>Frogger : Helmet Chaos</name>
+		<desc>Frogger returns in an all-new platform game, Frogger Helmet Havoc. In the amphibious hero's latest adventure, Frogger must stop an evil force that threatens his home, Firefly Swamp, and the nearby kingdom of Bunnington Hollow. To stop Dr. Wani and his destructive mining efforts, you must help Frogger hop and dodge his way to the mastermind's lair. Frogger has unique abilities that allow him to climb walls, double-jump, tongue-grab, and more.</desc>
+		<rating>0.75</rating>
+		<releasedate>20060217T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<image>./media/images/Frogger Helmet Chaos (USA).png</image>
+	</game>
+	<game id="27873" source="ScreenScraper.fr">
+		<path>./Castlevania - Dracula X Chronicles (USA).PBP</path>
+		<name>Castlevania : The Dracula X Chronicles</name>
+		<desc>Ambientada em 1792, a história seguirá as aventuras de Richter Belmont em sua luta contra Drácula. Ele tentará, com a ajuda de Maria, salvar sua namorada, Annette, das garras dos príncipes dos vampiros. Longas horas de jogos esperam por você e a possibilidade de alternar entre os dois heróis permitirá que você melhore seu desempenho. 2 jogos em 1, especialmente desenvolvidos para o PSP. Mais de uma dúzia de níveis para navegar por novos ambientes. Novo design de personagens 3D, versão do Castlevania Rondo of Blood, especialmente adaptado para o PSP. Jogabilidade alternada com a possibilidade de jogar com os dois personagens. Bônus para desbloquear, a versão original no PC Engine, o episódio 'Symphony of The Night' lançado no PS1 há dez anos.</desc>
+		<image>./media/images/Castlevania - Dracula X Chronicles (USA).png</image>
+		<video>./media/videos/Castlevania - Dracula X Chronicles (USA).mp4</video>
+		<thumbnail>./media/wheel/Castlevania - Dracula X Chronicles (USA).png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20071023T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Plataforma</genre>
+		<players>1</players>
+	</game>
+	<game id="27958" source="ScreenScraper.fr">
+		<path>./Need for Speed - Most Wanted - 5-1-0 (USA).PBP</path>
+		<name>Need for Speed : Most Wanted 5-1-0</name>
+		<desc>Need for Speed: Most Wanted (commonly abbreviated to as NFS: MW or just Most Wanted) is a racing video game developed by EA Black Box and published by Electronic Arts. It is the ninth installment in the Need for Speed series. The game features street racing-oriented game play, with certain customization options from the Need for Speed: Underground series. The game is succeeded by Need for Speed: Carbon, which serves as a sequel to Most Wanted. 
+ 
+Most Wanted has been released for Nintendo DS, Microsoft Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance and is the first Need for Speed game released for the seventh generation console, the Xbox 360, as one of the system's launch titles. Another version of Most Wanted, titled Need for Speed: Most Wanted 5-1-0 has been released for the PlayStation Portable. In May 2012, the PlayStation 2 version was released on the online virtual market, PlayStation Store, for the PlayStation 3. On June 1, 2012, a reboot of the game, also called Need for Speed: Most Wanted, was announced by the British developing team Criterion Games and was released on October 30, 2012. 
+ 
+Need for Speed: Most Wanted received positive reviews and was a commercial success; it sold 16 million copies worldwide, making it the best-selling title in the series</desc>
+		<image>./media/images/Need for Speed - Most Wanted - 5-1-0 (USA).png</image>
+		<rating>0.8</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game id="28200" source="ScreenScraper.fr">
+		<path>./Metal Slug XX (USA).PBP</path>
+		<name>Metal Slug XX</name>
+		<desc>Metal Slug XX é um novo jogo dessa longa série de shooters. É uma versão revisada de Metal Slug 7. Os "Peregrine Falcons", Marco, Eri, Clark, Tarma, Fio e Ralf, estão mais uma vez correndo e atirando em níveis coloridos e desenhados à mão, lançando granadas, dirigindo veículos e destruindo inimigos. 
+ 
+O jogo inclui várias opções para um jogador, permitindo ao jogador retornar às missões já concluídas, enquanto completam vários objetivos; Uma lista de prisioneiros de guerra que mostra quantos prisioneiros de guerra foram resgatados em cada nível, por exemplo. Os jogadores também podem cooperar em Ad-Hoc enquanto acabam com hordas de inimigos com muito humor e usando armas familiares em sete níveis distintos que verão nossos heróis atravessar desertos, montanhas, cavernas e poços de lava para finalmente acabar com seu inimigo de longa data. 
+ 
+Esta versão revisada inclui conteúdo adicional, incluindo co-op multiplayer e conteúdo para download, bem como a personagem Leona Heidern (The King of Fighters).</desc>
+		<image>./media/images/Metal Slug XX (USA).png</image>
+		<video>./media/videos/Metal Slug XX (USA).mp4</video>
+		<thumbnail>./media/wheel/Metal Slug XX (USA).png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20100223T000000</releasedate>
+		<developer>DHM Interactive</developer>
+		<publisher>SNK</publisher>
+		<genre>Tiro-Tiro / Run and Gun-Ação-Briga de rua</genre>
+		<players>2</players>
+	</game>
+</gameList>

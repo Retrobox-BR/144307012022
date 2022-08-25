@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <game id="4731" source="ScreenScraper.fr">
+    <path>./3-D Tetris (USA).zip</path>
+    <name>3D Tetris</name>
+    <desc>3D Tetris é um jogo 3D Tetris na Virtual Boy com 3 modos. A primeira contém cinco camadas de blocos de Tetris. Cada vez que você completar uma camada de blocos de cair, desaparecer e você será recompensado com pontos. Na segunda, você colocar os blocos em torno do centro de um poço, com o objectivo de torná-los desaparecer. No terceiro modo, uma forma serão publicadas antes do início da partida. Você terá de reproduzir essa forma perfeitamente.</desc>
+    <rating>0.55</rating>
+    <releasedate>19960322T000000</releasedate>
+    <developer>T&amp;E Soft</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/3-D Tetris (USA).png</image>
+    <marquee>./media/marquees/3-D Tetris (USA).png</marquee>
+    <video>./media/videos/3-D Tetris (USA).mp4</video>
+  </game>
+  <game id="44479" source="ScreenScraper.fr">
+    <path>./Bound High (Unknown) (Proto).zip</path>
+    <name>Bound High</name>
+    <desc>Bound High mergulha os jogadores em vários níveis de desafio do jogo 3D.</desc>
+    <rating>0.6</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Japan System Supply</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Variados</genre>
+    <players>1</players>
+    <image>./media/images/Bound High (Unknown) (Proto).png</image>
+    <marquee>./media/marquees/Bound High (Unknown) (Proto).png</marquee>
+    <video>./media/videos/Bound High (Unknown) (Proto).mp4</video>
+  </game>
+  <game id="4740" source="ScreenScraper.fr">
+    <path>./Galactic Pinball (Japan, USA).zip</path>
+    <name>Galactic Pinball</name>
+    <desc>Galactic Pinball é um jogo de vídeo pinball lançado em 1995 no Virtual Boy. Além das pontuações mais altas, você pode escolher entre quatro mesas de pinball. Estes são nomeados Estrangeiro, UFO, Colónia e cósmica.</desc>
+    <rating>0.8</rating>
+    <releasedate>19950814T000000</releasedate>
+    <developer>Intelligent Systems</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Pinball</genre>
+    <players>1</players>
+    <image>./media/images/Space Pinball (Unknown) (Proto).png</image>
+    <marquee>./media/marquees/Space Pinball (Unknown) (Proto).png</marquee>
+    <video>./media/videos/Space Pinball (Unknown) (Proto).mp4</video>
+  </game>
+  <game id="4740" source="ScreenScraper.fr">
+    <path>./Space Pinball (Unknown) (Proto).zip</path>
+    <name>Galactic Pinball (Proto)</name>
+    <desc>Galactic Pinball é um jogo de vídeo pinball lançado em 1995 no Virtual Boy. Além das pontuações mais altas, você pode escolher entre quatro mesas de pinball. Estes são nomeados Estrangeiro, UFO, Colónia e cósmica.</desc>
+    <rating>0.8</rating>
+    <releasedate>19950814T000000</releasedate>
+    <developer>Intelligent Systems</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Pinball</genre>
+    <players>1</players>
+    <image>./media/images/Space Pinball (Unknown) (Proto).png</image>
+    <marquee>./media/marquees/Space Pinball (Unknown) (Proto).png</marquee>
+    <video>./media/videos/Space Pinball (Unknown) (Proto).mp4</video>
+  </game>
+  <game id="4741" source="ScreenScraper.fr">
+    <path>./Golf (USA).zip</path>
+    <name>Golf</name>
+    <desc>Golf é um jogo de vídeo de golfe lançado em 1995 no Virtual Boy. Golf vem em uma perspectiva 3D e contém dois modos de "torneio" e "jogo do urso", bem como 18 buracos durante o curso.</desc>
+    <rating>0.85</rating>
+    <releasedate>19951101T000000</releasedate>
+    <developer>Technical Engineering Support</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Esporte</genre>
+    <players>1</players>
+    <image>./media/images/T&amp;E Virtual Golf (Japan).png</image>
+    <marquee>./media/marquees/T&amp;E Virtual Golf (Japan).png</marquee>
+    <video>./media/videos/T&amp;E Virtual Golf (Japan).mp4</video>
+  </game>
+  <game id="4741" source="ScreenScraper.fr">
+    <path>./T&amp;E Virtual Golf (Japan).zip</path>
+    <name>T&amp;E Virtual Golf</name>
+    <desc>Golf é um jogo de vídeo de golfe lançado em 1995 no Virtual Boy. Golf vem em uma perspectiva 3D e contém dois modos de "torneio" e "jogo do urso", bem como 18 buracos durante o curso.</desc>
+    <rating>0.85</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Technical Engineering Support</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Esporte</genre>
+    <players>1</players>
+    <image>./media/images/T&amp;E Virtual Golf (Japan).png</image>
+    <marquee>./media/marquees/T&amp;E Virtual Golf (Japan).png</marquee>
+    <video>./media/videos/T&amp;E Virtual Golf (Japan).mp4</video>
+  </game>
+  <game id="4732" source="ScreenScraper.fr">
+    <path>./Innsmouth no Yakata (Japan).zip</path>
+    <name>Insmouse No Yakata</name>
+    <desc>Innsmouth no Yakata é um shooter vídeo game lançado em 1995 no Virtual Boy. O objetivo é encontrar a saída de um labirinto de corredores com portas sólidas monstros em um determinado período de tempo. Para defesa contra monstros, o nosso herói está armado com uma arma.</desc>
+    <rating>0.5</rating>
+    <releasedate>19951013T000000</releasedate>
+    <developer>Betop</developer>
+    <publisher>I'Max</publisher>
+    <genre>Tiro com acessórios</genre>
+    <players>1</players>
+    <image>./media/images/Innsmouth no Yakata (Japan).png</image>
+    <marquee>./media/marquees/Innsmouth no Yakata (Japan).png</marquee>
+    <video>./media/videos/Innsmouth no Yakata (Japan).mp4</video>
+  </game>
+  <game id="4730" source="ScreenScraper.fr">
+    <path>./Jack Bros. (USA).zip</path>
+    <name>Jack Bros</name>
+    <desc>Jack Bros., é um jogo de aventura lançado em 1995 no Virtual Boy. Uma vez por ano, no Dia das Bruxas, a porta entre o nosso país e as fadas abre. Todos fadas deve retornar ao Fairieland 23:00, caso contrário, eles serão banidos para sempre. Você deve escolher uma das três Jack Bros. como seu personagem. Cada um tem seus próprios atributos e armas e ataques especiais.</desc>
+    <rating>0.8</rating>
+    <releasedate>19951030T000000</releasedate>
+    <developer>Atlus</developer>
+    <publisher>Atlus</publisher>
+    <genre>Aventura</genre>
+    <players>1</players>
+    <image>./media/images/Jack Bros. (USA).png</image>
+    <marquee>./media/marquees/Jack Bros. (USA).png</marquee>
+    <video>./media/videos/Jack Bros. (USA).mp4</video>
+  </game>
+  <game id="4725" source="ScreenScraper.fr">
+    <path>./Mario Clash (Japan, USA).zip</path>
+    <name>Mario Clash</name>
+    <desc>Mario Clash é um jogo de plataformas de fora na Virtual Boy. O jogador encarna Mario. The Clash Torre da casa foi invadida por monstros. Este é Mario confiada a tarefa de evacuação. Mas a torre é de difícil acesso e Mario é forçado a lutar em grandes salas consistem em plataformas de comprimento, e na tubulação.</desc>
+    <rating>0.6</rating>
+    <releasedate>19950928T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Plataforma</genre>
+    <players>1</players>
+    <image>./media/images/Mario Clash (Japan, USA).png</image>
+    <marquee>./media/marquees/Mario Clash (Japan, USA).png</marquee>
+    <video>./media/videos/Mario Clash (Japan, USA).mp4</video>
+  </game>
+  <game id="4727" source="ScreenScraper.fr">
+    <path>./Mario's Tennis (Japan, USA).zip</path>
+    <name>Mario's Tennis</name>
+    <desc>Tênis de Mario é um jogo lançado em 1995 no Virtual Boy. Sete personagens do universo Mario estão presentes: Mario, Luigi, Toad, Peach, Koopa, Yoshi e Donkey Kong Jr. jogar apenas em um tubo de curta rodeado por uma paisagem.</desc>
+    <rating>0</rating>
+    <releasedate>19950721T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Esporte / Tênis-Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Mario's Tennis (Japan, USA).png</image>
+    <marquee>./media/marquees/Mario's Tennis (Japan, USA).png</marquee>
+    <video>./media/videos/Mario's Tennis (Japan, USA).mp4</video>
+  </game>
+  <game id="4737" source="ScreenScraper.fr">
+    <path>./Nester's Funky Bowling (USA).zip</path>
+    <name>Nester's Funky Bowling</name>
+    <desc>Do Nester Funky do Bowling é um jogo de boliche lançado em 1996 no Virtual Boy. Funky do Bowling Nester é uma simulação de bowling clássico. Você pode escolher o modo de jogo Bowl: se você quiser jogar para os pontos, a fim de se inscrever na lista pontuação elevada, prático: se você quiser apenas praticar uma vez, e o último desafio: se você quer jogar com tarefas predefinidas.</desc>
+    <rating>0</rating>
+    <releasedate>19960226T000000</releasedate>
+    <developer>Saffire Corporation</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Nester's Funky Bowling (USA).png</image>
+    <marquee>./media/marquees/Nester's Funky Bowling (USA).png</marquee>
+    <video>./media/videos/Nester's Funky Bowling (USA).mp4</video>
+  </game>
+  <game id="44480" source="ScreenScraper.fr">
+    <path>./Niko-chan Battle (Japan) (Proto).zip</path>
+    <name>NikoChan Battle</name>
+    <desc>Em Faceball o jogador se move em torno de uma arena em forma de labirinto com bolas flutuantes com rostos rostos felizes, seu objetivo é eliminá-las.</desc>
+    <rating>0.4</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Bullet Proof Software</developer>
+    <publisher>Bullet Proof Software</publisher>
+    <genre>Tiro-Tiro / Tiro em 1ª pessoa</genre>
+    <players>1</players>
+    <image>./media/images/Niko-chan Battle (Japan) (Proto).png</image>
+    <marquee>./media/marquees/Niko-chan Battle (Japan) (Proto).png</marquee>
+    <video>./media/videos/Niko-chan Battle (Japan) (Proto).mp4</video>
+  </game>
+  <game id="4734" source="ScreenScraper.fr">
+    <path>./Red Alarm (USA).zip</path>
+    <name>Red Alarm</name>
+    <desc>Red Alarm é um jogo estilo shooter do tipo ferroviário lançado em 1995 no Virtual Boy. A devastadora guerra mundial devastou a terra por 70 anos a partir do final do século 20. Durante os últimos estágios da guerra, um sistema de combate automatizado chamado "KAOS" (Killer Automate Operacional System) foi desenvolvido.</desc>
+    <rating>0.7</rating>
+    <releasedate>19950721T000000</releasedate>
+    <developer>Technical Engineering Support</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Simulação</genre>
+    <players>1</players>
+    <image>./media/images/Red Alarm (USA).png</image>
+    <marquee>./media/marquees/Red Alarm (USA).png</marquee>
+    <video>./media/videos/Red Alarm (USA).mp4</video>
+  </game>
+  <game id="4735" source="ScreenScraper.fr">
+    <path>./SD Gundam - Dimension War (Japan) (T).zip</path>
+    <name>SD Gundam - Dimension War</name>
+    <desc>SD Gundam: Dimension War é um jogo de estratégia baseado em turnos para Virtual Boy. É uma adaptação para vídeo game da série do arcade baseado no anime Gundam Mobile Suit incluindo Super Deformed Gundam.</desc>
+    <rating>0</rating>
+    <releasedate>19951222T000000</releasedate>
+    <developer>Bandai</developer>
+    <publisher>Bandai</publisher>
+    <genre>Estratégia</genre>
+    <players>1</players>
+    <image>./media/images/SD Gundam - Dimension War (Japan) (T).png</image>
+    <marquee>./media/marquees/SD Gundam - Dimension War (Japan) (T).png</marquee>
+    <video>./media/videos/SD Gundam - Dimension War (Japan) (T).mp4</video>
+  </game>
+  <game id="4728" source="ScreenScraper.fr">
+    <path>./Space Invaders - Virtual Collection (Japan).zip</path>
+    <name>Space Invaders - Virtual Collection</name>
+    <desc>Space Invaders é um jogo desenvolvido pela empresa japonesa Taito, lançado em 1995 para Virtual Boy. O princípio é destruir ondas de Aliens com um canhão laser movendo-se horizontalmente na tela.</desc>
+    <rating>0</rating>
+    <releasedate>19951201T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Space Invaders - Virtual Collection (Japan).png</image>
+    <marquee>./media/marquees/Space Invaders - Virtual Collection (Japan).png</marquee>
+    <video>./media/videos/Space Invaders - Virtual Collection (Japan).mp4</video>
+  </game>
+  <game id="4742" source="ScreenScraper.fr">
+    <path>./Space Squash (Japan) (T).zip</path>
+    <name>Space Squash</name>
+    <desc>Space Squash é um jogo de esportes lançado em 1995 para o Virtual Boy. Space Squash é uma espécie de Pong tridimensional. O jogador controla um robô que pode mover-se para cima, baixo, esquerda e direita para interceptar uma bola que se move em direção a ele.</desc>
+    <rating>0</rating>
+    <releasedate>19950909T000000</releasedate>
+    <developer>Tomcat System</developer>
+    <publisher>Coconuts Japan</publisher>
+    <genre>Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Space Squash (Japan) (T).png</image>
+    <marquee>./media/marquees/Space Squash (Japan) (T).png</marquee>
+    <video>./media/videos/Space Squash (Japan) (T).mp4</video>
+  </game>
+  <game id="4744" source="ScreenScraper.fr">
+    <path>./Teleroboxer (Japan, USA).zip</path>
+    <name>Teleroboxer</name>
+    <desc>Teleroboxer se passa no século 22. Os seres humanos desenvolveram um novo tipo de robô chamado Telerobotnics que permite imitar perfeitamente os movimentos de um ser humano. O propósito desses robôs era permitir que os humanos realizassem trabalho em condições normalmente insuportáveis. O Dr. Edward Maki Jr. criou uma maneira de aumentar o interesse de telerobotnics criando um torneio que coloca dois desses robôs em um esporte intitulado teleroboxing. Após o seu design, o teleroboxing tornou-se muito popular em todo o mundo, cada um pensando ser o melhor. Isso levou à criação de um torneio mundial de teleroboxing.</desc>
+    <rating>0.7</rating>
+    <releasedate>19950721T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Teleroboxer (Japan, USA).png</image>
+    <marquee>./media/marquees/Teleroboxer (Japan, USA).png</marquee>
+    <video>./media/videos/Teleroboxer (Japan, USA).mp4</video>
+  </game>
+  <game id="4738" source="ScreenScraper.fr">
+    <path>./Panic Bomber (USA).zip</path>
+    <name>Panic Bomber</name>
+    <desc>Panic Bomber é um jogo desenvolvido pela Hudson Soft, lançado em 1995 para Virtual Boy. Bomberman chegou a uma ilha misteriosa no propósito específico de capturar o lendário "Golden Bomberman Statue" ... Mas para chegar lá, são necessários 3 medalhas. Infelizmente, o chefe assumiu as medalhas e para recuperar, temos de lutar contra eles e seus capangas.</desc>
+    <rating>0</rating>
+    <releasedate>19951201T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Panic Bomber (USA).png</image>
+    <marquee>./media/marquees/Panic Bomber (USA).png</marquee>
+    <video>./media/videos/Panic Bomber (USA).mp4</video>
+  </game>
+  <game id="4738" source="ScreenScraper.fr">
+    <path>./Tobidase! Panibon (Japan).zip</path>
+    <name>Tobidase! Panibon</name>
+    <desc>Panic Bomber é um jogo desenvolvido pela Hudson Soft, lançado em 1995 para Virtual Boy. Bomberman chegou a uma ilha misteriosa no propósito específico de capturar o lendário "Golden Bomberman Statue" ... Mas para chegar lá, são necessários 3 medalhas. Infelizmente, o chefe assumiu as medalhas e para recuperar, temos de lutar contra eles e seus capangas.</desc>
+    <rating>0</rating>
+    <releasedate>19950721T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Panic Bomber (USA).png</image>
+    <marquee>./media/marquees/Panic Bomber (USA).png</marquee>
+    <video>./media/videos/Panic Bomber (USA).mp4</video>
+  </game>
+  <game id="4736" source="ScreenScraper.fr">
+    <path>./Vertical Force (USA).zip</path>
+    <name>Vertical Force</name>
+    <desc>Uma batalha entre humanidade e máquinas começou! O ano é 210 SE (idade espacial). A humanidade prosperou no universo. Mas algo deu errado e o computador do detentor de Odin (uma colônia de terra) foi reprogramado espontaneamente. Em vez de servir o homem e enviar minerais para a Terra, parece que sua nova missão é derrubar a humanidade.</desc>
+    <rating>0</rating>
+    <releasedate>19950812T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Vertical Force (USA).png</image>
+    <marquee>./media/marquees/Vertical Force (USA).png</marquee>
+    <video>./media/videos/Vertical Force (USA).mp4</video>
+  </game>
+  <game id="3726" source="ScreenScraper.fr">
+    <path>./Virtual Bowling (Japan).zip</path>
+    <name>Virtual Bowling</name>
+    <desc>Virtual Bowling é um jogo de boliche lançado em 1995 para o Virtual Boy. Existem três modos de jogo: "padrão", "Torneio" e "treinamento".</desc>
+    <rating>0</rating>
+    <releasedate>19951222T000000</releasedate>
+    <developer>Athena</developer>
+    <publisher>Athena</publisher>
+    <genre>Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Virtual Bowling (Japan).png</image>
+    <marquee>./media/marquees/Virtual Bowling (Japan).png</marquee>
+    <video>./media/videos/Virtual Bowling (Japan).mp4</video>
+  </game>
+  <game id="4726" source="ScreenScraper.fr">
+    <path>./Virtual Boy Wario Land (Japan, USA).zip</path>
+    <name>Virtual Boy Wario Land</name>
+    <desc>Virtual Boy Wario Land é um jogo lançado em 1995 para o Virtual Boy. Wario está de férias na floresta tropical da Awazônia. Repentinamente ele percebe criaturas estranhas em uma caverna secreta. Decidindo segui-los, Wario então cai em uma sala onde é acumulado um tesouro fabuloso. Ele tenta roubá-lo, mas antes de sair da sala, o chão cai.</desc>
+    <rating>0.9</rating>
+    <releasedate>19951201T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Plataforma</genre>
+    <players>1</players>
+    <image>./media/images/Virtual Boy Wario Land (Japan, USA).png</image>
+    <marquee>./media/marquees/Virtual Boy Wario Land (Japan, USA).png</marquee>
+    <video>./media/videos/Virtual Boy Wario Land (Japan, USA).mp4</video>
+  </game>
+  <game id="3727" source="ScreenScraper.fr">
+    <path>./Virtual Fishing (Japan) (T).zip</path>
+    <name>Virtual Fishing</name>
+    <desc>A Virtual Fishing é um jogo de pesca lançado em 1995. O jogo foi desenvolvido pela Pack-In-Video no Japão. A THQ cancelou sua liberação no território estadunidense após as vendas medíocres no Virtual Boy.</desc>
+    <rating>0</rating>
+    <releasedate>19951006T000000</releasedate>
+    <developer>Locomotive Corporation</developer>
+    <publisher>Pack In Video</publisher>
+    <genre>Variados</genre>
+    <players>1</players>
+    <image>./media/images/Virtual Fishing (Japan) (T).png</image>
+    <marquee>./media/marquees/Virtual Fishing (Japan) (T).png</marquee>
+    <video>./media/videos/Virtual Fishing (Japan) (T).mp4</video>
+  </game>
+  <game id="4739" source="ScreenScraper.fr">
+    <path>./Virtual Lab (Japan).zip</path>
+    <name>Virtual Lab</name>
+    <desc>Laboratório Virtual é um jogo lançado em 1995 no Virtual Boy. O jogo é uma mistura entre Tetris e Pipe Dream. Moedas caem do topo da tela, e deve ser disposto de modo a formar tubos totalmente fechado.</desc>
+    <rating>0.25</rating>
+    <releasedate>19951208T000000</releasedate>
+    <developer>Nacoty</developer>
+    <publisher>J-Wing</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Virtual Lab (Japan).png</image>
+    <marquee>./media/marquees/Virtual Lab (Japan).png</marquee>
+    <video>./media/videos/Virtual Lab (Japan).mp4</video>
+  </game>
+  <game id="4743" source="ScreenScraper.fr">
+    <path>./Virtual League Baseball (USA).zip</path>
+    <name>Virtual League Baseball</name>
+    <desc>Virtual League Baseball é um jogo de baseball lançado em 1995 no Virtual Boy. Há três modos de jogo: amistoso, All Star Game e campeonato.</desc>
+    <rating>0</rating>
+    <releasedate>19950911T000000</releasedate>
+    <developer>Kemco</developer>
+    <publisher>Kemco</publisher>
+    <genre>Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Virtual League Baseball (USA).png</image>
+    <marquee>./media/marquees/Virtual League Baseball (USA).png</marquee>
+    <video>./media/videos/Virtual League Baseball (USA).mp4</video>
+  </game>
+  <game id="4743" source="ScreenScraper.fr">
+    <path>./Virtual Pro Yakyuu '95 (Japan).zip</path>
+    <name>Virtual League Baseball</name>
+    <desc>Virtual League Baseball é um jogo de baseball lançado em 1995 no Virtual Boy. Há três modos de jogo: amistoso, All Star Game e campeonato.</desc>
+    <rating>0</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Kemco</developer>
+    <publisher>Kemco</publisher>
+    <genre>Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Virtual League Baseball (USA).png</image>
+    <marquee>./media/marquees/Virtual League Baseball (USA).png</marquee>
+    <video>./media/videos/Virtual League Baseball (USA).mp4</video>
+  </game>
+  <game id="4733" source="ScreenScraper.fr">
+    <path>./V-Tetris (Japan).zip</path>
+    <name>V-Tetris</name>
+    <desc>O V-Tetris é um jogo Tetris exclusivo para japonês para o Virtual Boy. Não confundir com o título 3D Tetris, pois são jogos completamente diferentes. O V-Tetris, ao contrário do 3D Tetris, é basicamente o mesmo que os jogos originais de Tetris, sendo a única diferença o modo de quebra-cabeça cilíndrico em que os blocos podem ser colocados em uma espiral 3-D.</desc>
+    <rating>0.6</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Locomotive Corporation</developer>
+    <publisher>Bullet Proof Software</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/V-Tetris (Japan).png</image>
+    <marquee>./media/marquees/V-Tetris (Japan).png</marquee>
+    <video>./media/videos/V-Tetris (Japan).mp4</video>
+  </game>
+  <game id="4729" source="ScreenScraper.fr">
+    <path>./Waterworld (USA).zip</path>
+    <name>Waterworld</name>
+    <desc>Waterworld é um jogo de ação lançado em 1995, baseado no filme Waterworld. No futuro próximo, o eixo polar da terra mudou e transformou a Terra em um oceano infinito. Aqueles que sobreviveram estão agora procurando o continente. No jogo você move o personagem em torno de um mundo tridimensional, disparando em inimigos chamados Smokers.</desc>
+    <rating>1</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Waterworld (USA).png</image>
+    <marquee>./media/marquees/Waterworld (USA).png</marquee>
+    <video>./media/videos/Waterworld (USA).mp4</video>
+  </game>
+</gameList>

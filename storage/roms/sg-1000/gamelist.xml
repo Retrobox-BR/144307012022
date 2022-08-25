@@ -1,0 +1,1077 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <game id="65728" source="ScreenScraper.fr">
+    <path>./007 James Bond (Japan) (v2.7) (Othello Multivision).zip</path>
+    <name>007 James Bond</name>
+    <desc>Em 007 James Bond você controla James Bond em seu veículo multiuso. Este veículo pode viajar tanto na terra quanto no mar, pode pular sobre o perigo ou atirar em inimigos em diferentes fases. Cada fase de rolagem horizontal no jogo é vagamente baseada em um filme diferente de James Bond. As fases incluídas são Diamonds Are Forever (Os Diamantes São Eternos), The Spy Who Loved Me (O Espião Que Me Amava), Moonraker (Contra o Foguete da Morte) e For Your Eyes Only (Somente para Seus Olhos). Cada fase tem uma variedade de inimigos tentando destruí-lo, e um objetivo único que deve ser realizado para continuar (por exemplo, você pode ter que pousar em uma plataforma de petróleo oculto para parar Seraffino, ou encontrar o laboratório submarino de Stromberg e destruí-lo). Se você conseguir completar todas as missões, você ganha o jogo! Boa sorte, senhor Bond.</desc>
+    <rating>0</rating>
+    <releasedate>19830630T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>1</players>
+    <image>./media/images/007 James Bond (Japan) (v2.7) (Othello Multivision).png</image>
+    <marquee>./media/marquees/007 James Bond (Japan) (v2.7) (Othello Multivision).png</marquee>
+    <video>./media/videos/007 James Bond (Japan) (v2.7) (Othello Multivision).mp4</video>
+  </game>
+  <game id="65692" source="ScreenScraper.fr">
+    <path>./Bank Panic (Japan).zip</path>
+    <name>Bank Panic</name>
+    <desc>Como pistoleiro, é seu trabalho proteger um banco de bandidos, tomando cuidado para não atirar em clientes inocentes. O banco tem 12 portas em frente a 12 caixas, com apenas três portas visíveis de cada vez. Os tiros são feitos simplesmente apertando um dos três botões para atirar na porta esquerda, do meio ou direita. O jogador pode mover seu ponto de vista para a esquerda e para a direita para revelar novas portas. As pessoas só aparecem atrás das portas que estão atualmente visíveis na tela, exceto pelos raros bandidos que aparecerão para roubar um depósito em dinheiro de um caixa que o jogador não está vendo Indicadores no topo da tela mostram quanto tempo levará até que alguém apareça em uma porta.    Se um bandido aparecer atrás de uma porta, você tem apenas alguns segundos para atirar nele antes que ele atire em você. Se você atirar nele cedo demais (ou seja, antes que ele aponte a arma pra você), será considerado injusto e dá muito pouca pontuação, mas se você for tarde demais, ele atirará em você e você perderá uma de suas três vidas. Às vezes um bandido enfia dinamite em uma das portas. Você deve então atirar na dinamite para se livrar dela. Se você demorar muito, a bomba explode (mesmo que esteja fora da tela) e você perde uma vida.    Se tiver sorte, um cliente aparecerá atrás da porta e depositará um saco de moedas de ouro. Se você atirar em alguma dessas pessoas por acidente, você também perderá uma vida. Às vezes, um bandido subitamente toma o cliente como refém e o coloca na porta.    Em outras ocasiões, um cowboy aparece com uma pilha de chapéus. Atirar em todos os chapéus antes que a porta se feche concede um depósito em dinheiro e um grande bônus. Outros estarão amarrados com corda. Se você atirar na corda, há mais dinheiro para você, porque você não receberá apenas um saco de moedas de ouro, mas também receberá três sacos de moedas de ouro.    Há mais de dez rodadas no Bank Panic, e cada uma termina quando uma pessoa por trás de todas as 12 portas conseguiu lhe dar um saco de moedas de ouro. As rodadas ficam mais difíceis quanto mais você fica. Por exemplo, em rodadas posteriores, alguns bandidos bloquearão seu tiro e você terá que atirar duas vezes. Além disso, independentemente da sua rodada, há um limite de tempo.</desc>
+    <rating>0.9</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sanritsu Denki Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Bank Panic (Japan).png</image>
+    <marquee>./media/marquees/Bank Panic (Japan).png</marquee>
+    <video>./media/videos/Bank Panic (Japan).mp4</video>
+  </game>
+  <game id="65694" source="ScreenScraper.fr">
+    <path>./Bomb Jack (Japan).zip</path>
+    <name>Bomb Jack</name>
+    <desc>Em Bomb Jack, o jogador controla Jack, que deve coletar todas as bombas para completar a rodada atual e ir para a próxima. Parece fácil, né? Errado! Tornando difícil a tarefa de Jack estão numerosos inimigos, como pássaros, múmias, tartarugas e orbes.    Em cada rodada, coletar um número de bombas resulta no aparecimento de uma moeda de bônus e coletar essa moeda fará com que a pontuação do jogador aumente de 2 a 4 vezes. Não mais frequentemente, a "bola de poder" aparece, e quando você coleta, poderá derrotar todos os inimigos de uma vez e ter mais tempo para coletar todas as bombas. Há também a moeda "E", que dá a Jack uma vida adicional, mas raramente esta moeda aparece.    Quanto mais você progride no jogo, mais difícil se torna, à medida que os inimigos viajam mais rapidamente para chegar até você.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Tehkan Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>2</players>
+    <image>./media/images/Bomb Jack (Japan).png</image>
+    <marquee>./media/marquees/Bomb Jack (Japan).png</marquee>
+    <video>./media/videos/Bomb Jack (Japan).mp4</video>
+  </game>
+  <game id="65695" source="ScreenScraper.fr">
+    <path>./Borderline (Japan, Europe).zip</path>
+    <name>Borderline</name>
+    <desc>Borderline é um shooter arcade de visão suspensa que coloca o jogador no controle de um jipe em uma zona de guerra. O jipe é equipado com uma arma que tem munição ilimitada. Cada rodada consiste em quatro fases; depois que o jogador completar todas elas, o jogo prossegue para a próxima rodada, com maior dificuldade.    A primeira fase é um shooter de rolagem vertical: o jogador pode mover o jipe em todas as direções, atirando em inimigos que tentam destruí-lo por colisão; O objetivo é simplesmente sobreviver. As outras fases compartilham um conceito de jogabilidade diferente: o jogador tem que navegar pelo jipe em direção às refinarias inimigas e destruí-las. Tanques inimigos vão aparecer indefinidamente, tentando parar o jipe. Partes da fase estão cobertas por arbustos, e o jipe precisa passar por elas antes de avançar. Na terceira fase, os foguetes podem ser apanhados para pontuação bônus. Na quarta e última fase, a única refinaria é bem protegida e atira mísseis no jipe.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Borderline (Japan, Europe).png</image>
+    <marquee>./media/marquees/Borderline (Japan, Europe).png</marquee>
+    <video>./media/videos/Borderline (Japan, Europe).mp4</video>
+  </game>
+  <game id="65710" source="ScreenScraper.fr">
+    <path>./C_So! (Japan).zip</path>
+    <name>C_So!</name>
+    <desc>C_So! é um jogo de plataforma no qual você controla um garoto que tem que coletar itens como flores, maçãs e cerejas, enquanto ele está sendo perseguido por monstros hostis.    Os monstros devem ser esmagados ou arremessados contra o teto usando um espeto de mão. Cada fase também contém gangorras e portas. As gangorras tornam possível saltar de plataforma em plataforma e as portas tornam possível escapar dos monstros saindo por uma porta e aparecendo na outra.    Antes que você possa continuar para a próxima fase, todos os itens devem ter sido coletados e todos os monstros mortos.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/C_So! (Japan).png</image>
+    <marquee>./media/marquees/C_So! (Japan).png</marquee>
+    <video>./media/videos/C_So! (Japan).mp4</video>
+  </game>
+  <game id="65697" source="ScreenScraper.fr">
+    <path>./Chack'n Pop (Japan) (T).zip</path>
+    <name>Chack'n Pop</name>
+    <desc>Chack'n Pop é considerado um antecessor de Bubble Bobble. É um jogo de plataforma onde uma criatura amarela arredondada, chamada Chack'n, deve lutar contra Monstas e Mightas para recuperar corações que foram roubados durante um encontro romântico com a Srta. Chack'n.    Os próprios Monstas nascem de ovos pendurados no teto e os Mightas empurram uma pedra que é usada como o cronômetro do jogo. Os ovos de Monsta têm três fases: se é azul, é completamente inofensivo, se estiver amarelo, irá aparecer dentro de 10 segundos e se um ovo ficar vermelho, ele irá aparecer quase imediatamente.    Chack'n usa bombas para explodir os Monstas e seus ovos e ele também os usa para liberar os corações capturados de suas gaiolas. Quando o coração é liberado, ele voa para cima e destrói o bloco separador e revela a saída para a fase.    Curiosamente esta versão do SG-1000 inclui cenas extras e uma fase de treinamento não visto na versão arcade.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>2</players>
+    <image>./media/images/Chack'n Pop (Japan) (T).png</image>
+    <marquee>./media/marquees/Chack'n Pop (Japan) (T).png</marquee>
+    <video>./media/videos/Chack'n Pop (Japan) (T).mp4</video>
+  </game>
+  <game id="65770" source="ScreenScraper.fr">
+    <path>./Challenge Derby (Japan) (vB) (Othello Multivision).zip</path>
+    <name>Challenge Derby</name>
+    <desc>Challenge Derby é um jogo de corrida de cavalos para o SG-1000</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Corrida com Cavalos-Esporte com animais-Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Challenge Derby (Japan) (vB) (Othello Multivision).png</image>
+    <marquee>./media/marquees/Challenge Derby (Japan) (vB) (Othello Multivision).png</marquee>
+    <video>./media/videos/Challenge Derby (Japan) (vB) (Othello Multivision).mp4</video>
+  </game>
+  <game id="65698" source="ScreenScraper.fr">
+    <path>./Champion Baseball (Japan) (40kB).zip</path>
+    <name>Champion Baseball</name>
+    <desc>Você escolhe uma equipe de uma seleção de equipes norte-americanas, em seguida, joga bola contra o computador, arremessando ou rebatendo. A tela consiste em todo o campo de basebol e uma visão lateral do arremesso/rebatida. Possui divertidos slides da base e "animação" da torcida.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Alpha Denshi Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte / Baseball-Esporte</genre>
+    <players>2</players>
+    <image>./media/images/Champion Baseball (Japan) (40kB).png</image>
+    <marquee>./media/marquees/Champion Baseball (Japan) (40kB).png</marquee>
+    <video>./media/videos/Champion Baseball (Japan) (40kB).mp4</video>
+  </game>
+  <game id="65699" source="ScreenScraper.fr">
+    <path>./Champion Billiards (Japan).zip</path>
+    <name>Champion Billiards</name>
+    <desc>Nesta versão de bilhar, você progride para a próxima fase afundando todas as outras bolas com uma bola vermelha. As mesas de bilhar são como campos de mini golfe. Se você abrir a bola amarela, às vezes um pássaro amarelo "Flicky" é libertado (Sega lançou Flicky em 1984).</desc>
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte / Sinuca-Esporte</genre>
+    <players>1-2</players>
+    <image>./media/images/Champion Billiards (Japan).png</image>
+    <marquee>./media/marquees/Champion Billiards (Japan).png</marquee>
+    <video>./media/videos/Champion Billiards (Japan).mp4</video>
+  </game>
+  <game id="65700" source="ScreenScraper.fr">
+    <path>./Champion Boxing (Japan).zip</path>
+    <name>Champion Boxing</name>
+    <desc>Um simples jogo de campeonato de boxe da Sega. Você pode selecionar vários socos durante uma luta de boxe: direto, cruzado ou uppercut. Não fique encurralado e se for atingido, levante sua defesa ou recue. Os jogos podem ser jogados em cinco níveis diferentes de dificuldade. No jogo há um árbitro, que conta quando seu oponente ou você estiver no chão. Champion Boxing também é notório por ser o primeiro jogo codificado por Yu Suzuki em seu primeiro ano na Sega.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte / Boxe-Esporte</genre>
+    <players>2</players>
+    <image>./media/images/Champion Boxing (Japan).png</image>
+    <marquee>./media/marquees/Champion Boxing (Japan).png</marquee>
+    <video>./media/videos/Champion Boxing (Japan).mp4</video>
+  </game>
+  <game id="65701" source="ScreenScraper.fr">
+    <path>./Champion Golf (Japan).zip</path>
+    <name>Champion Golf</name>
+    <desc>Você tem uma visão aérea de cada buraco de golfe, incluindo um zoom do green. Uma barra ao longo do topo mostra uma animação grosseira do golfista e variáveis necessárias como vento, tipo de taco, par, tacadas, distância do buraco etc.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Logitec</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte / Golfe-Esporte</genre>
+    <players>2</players>
+    <image>./media/images/Champion Golf (Japan).png</image>
+    <marquee>./media/marquees/Champion Golf (Japan).png</marquee>
+    <video>./media/videos/Champion Golf (Japan).mp4</video>
+  </game>
+  <game id="65702" source="ScreenScraper.fr">
+    <path>./Champion Ice Hockey (Japan).zip</path>
+    <name>Champion Ice Hockey</name>
+    <desc>Um jogo básico de hóquei no gelo básico de visão aérea na série de esportes Sega's Champion. Você pode jogar uma partida de hóquei no gelo em três níveis de dificuldade: amador, semi-profissional e profissional. Um árbitro está presente no início e durante o jogo sujo. Uma partida leva 20 minutos, esta duração não pode ser alterada.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte / Hóquei-Esporte</genre>
+    <players>2</players>
+    <image>./media/images/Champion Ice Hockey (Japan).png</image>
+    <marquee>./media/marquees/Champion Ice Hockey (Japan).png</marquee>
+    <video>./media/videos/Champion Ice Hockey (Japan).mp4</video>
+  </game>
+  <game id="65703" source="ScreenScraper.fr">
+    <path>./Champion Kendou (Japan).zip</path>
+    <name>Champion Kendou</name>
+    <desc>Um jogo de esportes de kendo - o kendo é um duelo com espadas de madeira. Você pode jogar contra o computador ou um amigo.    No modo 1 existem cinco rodadas, e você ganha uma rodada golpeando seu oponente na cabeça ou desarmando-o duas vezes. No modo 2, não há rodadas e cada praticante de kendo tem um medidor de vida. O vencedor será aquele que esgotar o medidor de vida do seu oponente. Nos dois modos, há um limite de tempo em cada rodada.</desc>
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte</genre>
+    <players>2</players>
+    <image>./media/images/Champion Kendou (Japan).png</image>
+    <marquee>./media/marquees/Champion Kendou (Japan).png</marquee>
+    <video>./media/videos/Champion Kendou (Japan).mp4</video>
+  </game>
+  <game id="65704" source="ScreenScraper.fr">
+    <path>./Champion Pro Wrestling (Japan).zip</path>
+    <name>Champion Pro Wrestling</name>
+    <desc>Um simples jogo de luta livre profissional da Sega na série de esportes Champion. Você sempre começa no rank C e tem que lutar para chegar ao rank B e A. Para jogar por um rank, você terá que lutar três partidas. Vencer duas das três partidas o leva a um nível mais alto. Durante uma partida, vários golpes podem ser selecionados: corte, chute, bate estaca, voadora. O árbitro faz uma contagem regressiva quando seu oponente ou você vai pro chão.</desc>
+    <rating>0</rating>
+    <releasedate>19850201T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte / Luta Livre-Esporte</genre>
+    <players>2</players>
+    <image>./media/images/Champion Pro Wrestling (Japan).png</image>
+    <marquee>./media/marquees/Champion Pro Wrestling (Japan).png</marquee>
+    <video>./media/videos/Champion Pro Wrestling (Japan).mp4</video>
+  </game>
+  <game id="65705" source="ScreenScraper.fr">
+    <path>./Champion Soccer (Japan).zip</path>
+    <name>Champion Soccer</name>
+    <desc>Jogo de futebol simplista da série de esportes Sega's Champion. Você pode jogar em três níveis de dificuldade. Não há árbitro nem modo de torneio. A duração da partida não pode ser definida, uma partida leva dez minutos.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte / Futebol-Esporte</genre>
+    <players>2</players>
+    <image>./media/images/Champion Soccer (Japan).png</image>
+    <marquee>./media/marquees/Champion Soccer (Japan).png</marquee>
+    <video>./media/videos/Champion Soccer (Japan).mp4</video>
+  </game>
+  <game id="65706" source="ScreenScraper.fr">
+    <path>./Champion Tennis (Japan).zip</path>
+    <name>Champion Tennis</name>
+    <desc>Jogo de tênis para ser jogado contra o computador ou um amigo. O primeiro jogador a ganhar seis jogos ganha o set. O jogador A é uma silhueta azul, enquanto o jogador B é carmesim. A melodia tocada no início da partida é a de "Windy" da The Association (1967).</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte / Tênis-Esporte</genre>
+    <players>1-2</players>
+    <image>./media/images/Champion Tennis (Japan).png</image>
+    <marquee>./media/marquees/Champion Tennis (Japan).png</marquee>
+    <video>./media/videos/Champion Tennis (Japan).mp4</video>
+  </game>
+  <game id="65707" source="ScreenScraper.fr">
+    <path>./Championship Lode Runner (Japan).zip</path>
+    <name>Championship Lode Runner</name>
+    <desc>Uma sequência para o original Lode Runner, com jogabilidade idêntica. Este pacote continha 50 das fases mais desafiadoras já projetadas e era destinado apenas a jogadores experientes. Ele não incluía o editor de fases, você tinha que passar pelas fases em ordem, mas uma opção de salvar o jogo era fornecida (embora você perdesse uma vida toda vez que restaurasse).</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Championship Lode Runner (Japan).png</image>
+    <marquee>./media/marquees/Championship Lode Runner (Japan).png</marquee>
+    <video>./media/videos/Championship Lode Runner (Japan).mp4</video>
+  </game>
+  <game id="65708" source="ScreenScraper.fr">
+    <path>./Choplifter (Japan).zip</path>
+    <name>Choplifter</name>
+    <desc>Choplifter! é um jogo de ação/arcade de rolagem lateral que coloca você no comando de um helicóptero de ataque. Sua missão: Vá atrás das linhas inimigas e resgate até 16 reféns por fase. Tenha cuidado, porque tanques e aviões inimigos tentarão impedir você - e eles não vão parar de atirar enquanto você estiver resgatando esses reféns!    Originalmente lançado para computadores domésticos Apple II, Choplifter! mais tarde foi portado para os arcades e um número de consoles de videogame. Muitas imitações e homenagens se seguiriam.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Choplifter (Japan).png</image>
+    <marquee>./media/marquees/Choplifter (Japan).png</marquee>
+    <video>./media/videos/Choplifter (Japan).mp4</video>
+  </game>
+  <game id="65709" source="ScreenScraper.fr">
+    <path>./Congo Bongo (Japan) (Rev 1) (40kB).zip</path>
+    <name>Congo Bongo</name>
+    <desc>Congo Bongo é um jogo de plataforma de arcade similar em muitos aspectos ao Donkey Kong, mas com uma perspectiva isométrica. O jogador assume o controle de um caçador de safári que está procurando por um macaco chamado Bongo, determinado a puni-lo por incendiar a tenda do caçador. O jogo consiste em quatro fases de uma tela, cada uma com um objetivo de pular em plataformas e chegar ao topo. Vários animais tentarão impedir o protagonista: por exemplo, na primeira fase um grande gorila lança cocos nele. O herói não tem habilidades ofensivas e deve pular ou evitar ataques inimigos. As fases podem conter obstáculos ou pontos perigosos que matariam o personagem principal.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Congo Bongo (Japan) (Rev 1) (40kB).png</image>
+    <marquee>./media/marquees/Congo Bongo (Japan) (Rev 1) (40kB).png</marquee>
+    <video>./media/videos/Congo Bongo (Japan) (Rev 1) (40kB).mp4</video>
+  </game>
+  <game id="65711" source="ScreenScraper.fr">
+    <path>./Dokidoki Penguin Land (Japan).zip</path>
+    <name>Dokidoki Penguin Land</name>
+    <desc>Em Penguin Land, você deve controlar um pinguim tentando levar o seu ovo até o fundo da fase, enquanto atravessa o gelo para chegar lá. Blocos especiais podem facilitar as coisas, enquanto os ursos polares e as rochas que caem quase certamente o atrasarão.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1-2</players>
+    <image>./media/images/Dokidoki Penguin Land (Japan).png</image>
+    <marquee>./media/marquees/Dokidoki Penguin Land (Japan).png</marquee>
+    <video>./media/videos/Dokidoki Penguin Land (Japan).mp4</video>
+  </game>
+  <game id="65712" source="ScreenScraper.fr">
+    <path>./Dragon Wang (Japan).zip</path>
+    <name>Dragon Wang</name>
+    <desc>Um jogo de plataforma de artes marciais. Como o artista marcial "Dragon Wang", você chuta e pula pelo seu caminho contra bandidos de artes marciais para resgatar sua garota.    Você deve coletar chaves derrotando chefes de meio de fase para abrir as portas e progredir pela fase.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>2</players>
+    <image>./media/images/Dragon Wang (Japan).png</image>
+    <marquee>./media/marquees/Dragon Wang (Japan).png</marquee>
+    <video>./media/videos/Dragon Wang (Japan).mp4</video>
+  </game>
+  <game id="65713" source="ScreenScraper.fr">
+    <path>./Drol (Japan).zip</path>
+    <name>Drol</name>
+    <desc>Drol é um jogo de plataforma onde você controla um robô bonitinho que pode voar e atirar. Seu objetivo é resgatar crianças que estão vagando em cada fase. As fases consistem em filas de plataformas, com lacunas que podem ser saltadas para subir ou descer um nível vertical. As criaturas para evitar e atirar variam de alienígenas, cobras, águias, ímãs e machados voando pelo ar (nunca descobrimos quem está jogando esses machados!).    Como Defender, Drol incorpora um "radar" na parte superior da tela, para que você possa encontrar as crianças e esquivar-se de vilões.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Drol (Japan).png</image>
+    <marquee>./media/marquees/Drol (Japan).png</marquee>
+    <video>./media/videos/Drol (Japan).mp4</video>
+  </game>
+  <game id="65714" source="ScreenScraper.fr">
+    <path>./Elevator Action (Japan).zip</path>
+    <name>Elevator Action</name>
+    <desc>Você é o agente 17 (codinome: "Otto"). Sua missão é coletar todos os documentos secretos de um prédio de segurança e fugir no carro de fuga, localizado no térreo do prédio.    Espiões inimigos estão espalhados pelo prédio de 30 andares e eles têm apenas uma missão: executar o Agente 17 a todo custo. Existem várias maneiras pelas quais o Agente 17 pode matá-los: Atirando neles com sua arma; Saltando sobre eles; Derrubando a lâmpada do teto em um deles enquanto esta no elevador; Os esmagando com o elevador.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Elevator Action (Japan).png</image>
+    <marquee>./media/marquees/Elevator Action (Japan).png</marquee>
+    <video>./media/videos/Elevator Action (Japan).mp4</video>
+  </game>
+  <game id="65715" source="ScreenScraper.fr">
+    <path>./Exerion (Japan, Europe).zip</path>
+    <name>Exerion</name>
+    <desc>O FIGHTER EX entrou e saiu atacando os monstruosos grupos inimigos nos 6 misteriosos mundos DIMENSIONAIS diferentes.nnO inimigo está constantemente em busca do FIGHTER EX.nnO míssil do Fighter ataca o inimigo caindo como chuva de granizo. Esteja atento!!nnO "Dual Beam" permite que você atire no inimigo, e o "Single Beam" para atacá-lo de forma rápida e continua.nnVeja como você é bem sucedido em lutar contra o inimigo através dos 6 perigosos mundos!</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Jaleco</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Exerion (Japan, Europe).png</image>
+    <marquee>./media/marquees/Exerion (Japan, Europe).png</marquee>
+    <video>./media/videos/Exerion (Japan, Europe).mp4</video>
+  </game>
+  <game id="65716" source="ScreenScraper.fr">
+    <path>./Flicky (Japan) (Rev 1).zip</path>
+    <name>Flicky</name>
+    <desc>Um gaio-azul fêmea, chamado Flicky, deve pegar seus filhotes e levá-los em segurança de volta ao seu ninho, enquanto eles são perseguidos por dois gatos. Os gatos fazem seus filhotes fugir e tentam comê-la! Cada fase oferece cerca de uma dúzia de objetos, como regadores, martelos e copos, para jogar e derrubar os gatos. A próxima fase começa quando todos os filhotes retornam para casa em segurança.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Flicky (Japan) (Rev 1).png</image>
+    <marquee>./media/marquees/Flicky (Japan) (Rev 1).png</marquee>
+    <video>./media/videos/Flicky (Japan) (Rev 1).mp4</video>
+  </game>
+  <game id="65718" source="ScreenScraper.fr">
+    <path>./Girl's Garden (Japan).zip</path>
+    <name>Girl's Garden</name>
+    <desc>A pequena e simples garota do campo, Papri, tem um problema: seu namorado Minto parece mostrar sinais de interesse para outra garotinha, Cocco. Papri tem que ganhar seu amor de volta! A única maneira de conseguir isso é colecionar buquês de flores, apresentando-os a Minto como um sinal de seus sentimentos e, gradualmente, fazendo-o esquecer a outra garota.nnnnGirl's Garden é a estréia de Yuji Naka (um dos pais do Sonic) e um precursor dos jogos com mecânicas de jogo de namoro. Papri tem que se mover através de uma área, coletando flores no caminho. Depois de coletar dez flores, Papri pode entrar na casa do namorado, completando uma rodada e avançando para a próxima, com o mesmo objetivo, mas aumentando a dificuldade. As flores devem ser colhidas em plena floração; pegá-las cedo demais não terá efeito, enquanto a coleta de flores murchas fará com que Papri perca metade de seu buquê.nnnnA saúde de Papri é chamada de "amor" no jogo e é representada pelos corações. Ela perde o coração se cair na água ou se um urso se aproximar demais dela. Ursos estão vagando pela área e podem se distrair temporariamente deixando cair potes de mel no chão. As abelhas agem como aliadas e fornecerão à Papri itens de mel e bônus que aumentam a pontuação.</desc>
+    <rating>0</rating>
+    <releasedate>19841201T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Girl's Garden (Japan).png</image>
+    <marquee>./media/marquees/Girl's Garden (Japan).png</marquee>
+    <video>./media/videos/Girl's Garden (Japan).mp4</video>
+  </game>
+  <game id="65719" source="ScreenScraper.fr">
+    <path>./Golgo 13 (Japan).zip</path>
+    <name>Golgo 13</name>
+    <desc>Golgo 13 é um shoot-'em-up baseado no mangá de mesmo nome, colocando o jogador no controle de seu personagem principal, o assassino Duke Togo. Nesta adaptação, no entanto, o objetivo do protagonista é, ao contrário, resgatar pessoas. A tela rola horizontalmente, exibindo Duke em um carro que está se movendo ao longo da estrada, tentando acompanhar um trem em movimento na parte superior da tela. O jogador pode mover o carro para a esquerda e para a direita, alinhando-o com os vagões do trem.nnnnO objetivo é atirar nas janelas do trem, deixando as pessoas presas no lado de dentro fugirem. O jogador controla uma mira, movendo-a em todas as direções, e aperta o botão de tiro para atirar. Entre o personagem controlado pelo jogador e o trem há outra pista com um trem de carga interminável; os vagões altos deste trem não só bloquearão o caminho da mira, mas também refletirão as balas em Duke, o ferindo. Nas fases finais, os caminhões aparecerão na estrada e os helicópteros dispararão mísseis contra Duke.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Golgo 13 (Japan).png</image>
+    <marquee>./media/marquees/Golgo 13 (Japan).png</marquee>
+    <video>./media/videos/Golgo 13 (Japan).mp4</video>
+  </game>
+  <game id="65720" source="ScreenScraper.fr">
+    <path>./GP World (Japan) (Rev 1).zip</path>
+    <name>GP World</name>
+    <desc>GP World tem uma premissa simples: o jogador deve correr contra o relógio e oponentes de Fórmula 1 controlados pelo computador em uma série de corridas. Ao longo do caminho, o jogador ganhará pontos para aprimorar vários aspectos de sua máquina, incluindo aceleração, velocidade máxima e manuseio. O jogo também inclui um editor de pistas, que permite aos jogadores criar seus próprios circuitos.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Corrida, Pilotagem</genre>
+    <players>1</players>
+    <image>./media/images/GP World (Japan) (Rev 1).png</image>
+    <marquee>./media/marquees/GP World (Japan) (Rev 1).png</marquee>
+    <video>./media/videos/GP World (Japan) (Rev 1).mp4</video>
+  </game>
+  <game id="65721" source="ScreenScraper.fr">
+    <path>./Gulkave (Japan).zip</path>
+    <name>Gulkave</name>
+    <desc>Desviando um pouco da moda usual de shoot 'em up de rolagem vertical da Compile, Gulkave é um shoot 'em up horizontal bastante ortodoxo. Voando através ou dentro de uma paisagem de rolagem parallax, sua espaçonave deve, sozinha, destruir oito fortalezas. No seu caminho, estão naves inimigas que tentam atirar em você ou esmagá-lo, bem como alguns asteroides que são lançados. Para cada golpe que você levar, sua nave não será destruída. Em vez disso, você tem uma barra de energia (barreira) que diminui gradualmente até que você finalmente perde uma nave. No final de cada fase, os pontos de bônus são dados de acordo com sua barreira restante. Perder uma nave significa que você também perde todas os seus aprimoramentos de armas. Como de costume de um shooter desta fabricante, os power-ups vêm na forma de vagens numeradas que são liberadas de blocos no estilo Zanac. Aprimoramentos diferentes proporcionam maiores contagens de tiros, mais balas simultâneas ou ondas de energia maiores. Em determinados intervalos de pontuação, você recebe naves de bônus.nnnnO jogo foi lançado tanto para o MSX quanto para o console SG-1000 da Sega, com a de SG-1000 tendo duas fases a menos.</desc>
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Gulkave (Japan).png</image>
+    <marquee>./media/marquees/Gulkave (Japan).png</marquee>
+    <video>./media/videos/Gulkave (Japan).mp4</video>
+  </game>
+  <game id="65722" source="ScreenScraper.fr">
+    <path>./Guzzler (Japan) (Othello Multivision).zip</path>
+    <name>Guzzler</name>
+    <desc>Guzzler é um jogo de arcade desenvolvido pela Tehkan.nnEle foi portado para o SG-1000 pela Tsukuda Original e recebeu a marca da Othello Multivision. Até hoje, a versão SG-1000 é a única porta inicial do Guzzler.nnVocê joga como um personagem que precisa absorver água para apagar incêndios espalhados pelo labirinto. O fogo também gera inimigos baseados em fogo que podem ser derrotados de maneira similar. Você só pode armazenar até três tiros de uma só vez. Comparado com outros jogos SG-1000, o Guzzler mostra alguns valores de produção muito baixos. Ele empurra você para o jogo sem aviso (o que pode resultar em mortes baratas) e tem um recurso de pausa quebrado, que embora pareça funcionar, irá interromper o jogo após alguns segundos. Existem apenas três mapas e muito menos inimigos do que na versão arcade e também é um jogo muito mais barulhento, já que o SG-1000 omite um rangido agudo toda vez que você dá um passo.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Guzzler (Japan) (Othello Multivision).png</image>
+    <marquee>./media/marquees/Guzzler (Japan) (Othello Multivision).png</marquee>
+    <video>./media/videos/Guzzler (Japan) (Othello Multivision).mp4</video>
+  </game>
+  <game id="65723" source="ScreenScraper.fr">
+    <path>./H.E.R.O. (Japan).zip</path>
+    <name>H.E.R.O.</name>
+    <desc>Há problemas nas minas! A atividade vulcânica prendeu vários mineiros e é seu trabalho salvá-los. Como Roderick Hero, você precisa atravessar a perigosa mina evitando as criaturas e lava perigosas, e descobrir onde estão os mineiros antes de ficar sem energia. Para ajudar na sua missão, Roderick Hero tem vários tipos de equipamentos úteis. Um pacote de propulsão permitirá que você flutue e voe em volta da mina e (esperançosamente) evite os muitos perigos dentro dela. Seu capacete possui um raio microlaser de curto alcance que pode ser usado para destruir os morcegos, as aranhas, as cobras e outras criaturas que você encontrará nas minas. De tempos em tempos, seu caminho através da mina pode ser bloqueado por paredes de pedra ou lava. Você começa cada missão com seis bananas de dinamite que podem ser usadas ??para destruir esses obstáculos (tenha cuidado para não explodir a si mesmo!). Se você ficar sem dinamite, seu feixe de laser também pode ser usado para destruir as paredes, embora isso leve mais tempo e gaste mais energia. À medida que as fases progridem, os poços de minas se tornarão mais longos e mais labirínticos, as criaturas bloquearão com mais frequência o caminho, e aparecerão paredes e piscinas de lava que são perigosas ao toque.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1-2</players>
+    <image>./media/images/H.E.R.O. (Japan).png</image>
+    <marquee>./media/marquees/H.E.R.O. (Japan).png</marquee>
+    <video>./media/videos/H.E.R.O. (Japan).mp4</video>
+  </game>
+  <game id="65724" source="ScreenScraper.fr">
+    <path>./Hang-On II (Japan).zip</path>
+    <name>Hang-On II</name>
+    <desc>Hang-On II é uma sequela para o SG-1000 do aclamado pela crítica Hang-On.nnnnApesar do nome, o jogo serve como sequência direta da versão Mark III do Hang-On, e é virtualmente idêntico ao jogo. A única diferença é a queda de gráficos e a adição de músicas da versão arcade. Enquanto isso, Super Hang-On é a sequela direta do jogo arcade.nnnnEle é compatível com o controle de guidão BH-400 e seria o único jogo de SG-1000 projetado para ele (embora o periférico seja compatível com o Sega Master System e o Sega Mega Drive).</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Corrida, Pilotagem</genre>
+    <players>1</players>
+    <image>./media/images/Hang-On II (Japan).png</image>
+    <marquee>./media/marquees/Hang-On II (Japan).png</marquee>
+    <video>./media/videos/Hang-On II (Japan).mp4</video>
+  </game>
+  <game id="65725" source="ScreenScraper.fr">
+    <path>./Home Mahjong (Japan) (Rev 1).zip</path>
+    <name>Home Mahjong</name>
+    <desc>Home Mahjong é um jogo de mahjong para o SG-1000. O jogo era vendido com uma tela de plástico que prendia na TV para esconder as pedras dos outros jogadores no modo de jogo para 2 jogadores.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Jogo de tabuleiro Asiático-Mahjong-Quebra-cabeças</genre>
+    <players>2</players>
+    <image>./media/images/Home Mahjong (Japan) (Rev 1).png</image>
+    <marquee>./media/marquees/Home Mahjong (Japan) (Rev 1).png</marquee>
+    <video>./media/videos/Home Mahjong (Japan) (Rev 1).mp4</video>
+  </game>
+  <game id="65726" source="ScreenScraper.fr">
+    <path>./Hustle Chumy (Japan).zip</path>
+    <name>Hustle Chumy</name>
+    <desc>Hustle Chumy é um jogo de SG-1000 desenvolvido pela Compile e lançado em 1984. No jogo, os jogadores controlam um camundongo chamado Chumy, que precisa coletar maçãs (e outros alimentos) em um esgoto, evitando outras criaturas. Enquanto Chumy come mais comida, sua velocidade diminui, mas suas bolas de fogo recebem um alcance maior. As fases têm layouts variados. Existem vários tipos de inimigos no jogo, a maioria dos quais pode ser derrotada com bolas de fogo.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Hustle Chumy (Japan).png</image>
+    <marquee>./media/marquees/Hustle Chumy (Japan).png</marquee>
+    <video>./media/videos/Hustle Chumy (Japan).mp4</video>
+  </game>
+  <game id="65727" source="ScreenScraper.fr">
+    <path>./Hyper Sports (Japan).zip</path>
+    <name>Hyper Sports</name>
+    <desc>Hyper Sports é um jogo de esportes desenvolvido pela Konami e lançado para o SG-1000 em 1985 (após um lançamento de 1984 no MSX). O jogo faz o jogador competir através de vários eventos olímpicos.nnApesar de estrear no arcade com sete eventos (como o Hyper Olympic '84 no Japão), o Hyper Sports no MSX está apenas tangencialmente relacionado ao jogo original, tirando seis dos eventos e inventando três novos, levando a um total combinado de quatro: Salto Ornamental (Diving), Trampolim Acrobático (Long Horse), Trampolim (Trampoline), Barra Fixa (Horizontal Bar).nnO port de SG-1000 deriva desta versão do jogo - todas as outras conversões caseiras do Hyper Sports tentam imitar a versão de arcade na íntegra. Os proprietários de MSX, no entanto, receberiam os eventos perdidos nas formas de Hyper Sports 2 (1984) e Hyper Sports 3 (1985), nenhum dos quais foram oficialmente lançados em um console da Sega.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Sega</publisher>
+    <genre>Esporte</genre>
+    <players>2</players>
+    <image>./media/images/Hyper Sports (Japan).png</image>
+    <marquee>./media/marquees/Hyper Sports (Japan).png</marquee>
+    <video>./media/videos/Hyper Sports (Japan).mp4</video>
+  </game>
+  <game id="65729" source="ScreenScraper.fr">
+    <path>./Lode Runner (Japan, Europe).zip</path>
+    <name>Lode Runner</name>
+    <desc>O Império Bungeling roubou uma grande quantidade de ouro de seus legítimos proprietários, e sua missão é se infiltrar em seu tesouro e recapturá-lo. Isto implica progredir através de 50 telas de plataformas, escadas e cordas.nnnnO Império enviou guardas robóticos para protegerem o ouro, e o contato com qualquer um deles lhe custará uma vida. Seu método de fugir deles é cavar um buraco em sua linha de movimento, fazendo com que eles caiam brevemente, permitindo que você se mova pela abertura com segurança. Uma vez que todo o ouro for coletado, uma escada que lhe permite passar para a próxima tela é adicionada. A conclusão dessas telas geralmente requer planejamento e precisão.nnnnEste foi um dos primeiros jogos a incluir um editor de fases, permitindo a criação de novos designs de fase sem habilidade de programação.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Lode Runner (Japan, Europe).png</image>
+    <marquee>./media/marquees/Lode Runner (Japan, Europe).png</marquee>
+    <video>./media/videos/Lode Runner (Japan, Europe).mp4</video>
+  </game>
+  <game id="65732" source="ScreenScraper.fr">
+    <path>./Monaco GP (Japan) (Rev 2).zip</path>
+    <name>Monaco GP</name>
+    <desc>Jogo de corrida estilo Fórmula Um, com visão top-down e rolagem vertical com cor, lançado pela primeira vez para o arcade em 1979. Poucos jogos antes disso tinham planos de fundo de rolagem coloridos (Super Speed Race da Taito é um). Tem efeitos sonoros notáveis, por exemplo, a fanfarra para iniciar a corrida, motores, colisões, etc. A pista tem um efeito visual de estreitamento/alargamento.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Corrida, Pilotagem</genre>
+    <players>1</players>
+    <image>./media/images/Monaco GP (Japan) (Rev 2).png</image>
+    <marquee>./media/marquees/Monaco GP (Japan) (Rev 2).png</marquee>
+    <video>./media/videos/Monaco GP (Japan) (Rev 2).mp4</video>
+  </game>
+  <game id="65734" source="ScreenScraper.fr">
+    <path>./Ninja Princess (Japan) (T).zip</path>
+    <name>Ninja Princess</name>
+    <desc>Ninja Princess é um shooter de ação. Você joga como uma kunoichi enquanto enfrenta hordas de inimigos em sua missão de recapturar territórios e recuperar o castelo que foi capturado e ocupado pelas forças inimigas. Kunais e shurikens são suas armas enquanto você atira pelo território ocupado pelos inimigos. Entrar em contato com qualquer inimigo ou qualquer uma de suas armas de projétil lançadas é igual a morte instantânea. Ao contrário do arcade original, o port de SG-1000 contêm apenas 13 fases em vez de 16.</desc>
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Ninja Princess (Japan) (T).png</image>
+    <marquee>./media/marquees/Ninja Princess (Japan) (T).png</marquee>
+    <video>./media/videos/Ninja Princess (Japan) (T).mp4</video>
+  </game>
+  <game id="65735" source="ScreenScraper.fr">
+    <path>./N-Sub (Japan) (40kB).zip</path>
+    <name>N-Sub</name>
+    <desc>N-Sub coloca o jogador no controle de um submarino no Mar Azul Cobalto. A ação ocorre em uma tela; o submarino controlado por jogador pode se mover em todas as direções e deve se defender contra uma investida de navios e submarinos inimigos disparando torpedos contra eles. Torpedos podem ser disparados verticalmente (que é a única maneira de acertar navios) e horizontalmente (para lidar com submarinos inimigos), ativados por dois botões diferentes. Apertar o botão permite disparar rajadas curtas de três torpedos cada. Uma rodada termina depois que uma frota inimiga de doze navios e um destróier completaram uma quantidade fixa de voltas. Rodadas subsequentes aumentam a dificuldade ao tornar os navios inimigos mais agressivos.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Tiro</genre>
+    <players>1-2</players>
+    <image>./media/images/N-Sub (Japan) (40kB).png</image>
+    <marquee>./media/marquees/N-Sub (Japan) (40kB).png</marquee>
+    <video>./media/videos/N-Sub (Japan) (40kB).mp4</video>
+  </game>
+  <game id="65779" source="ScreenScraper.fr">
+    <path>./Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).zip</path>
+    <name>Okamoto Ayako no Match Play Golf</name>
+    <desc>Okamoto Ayako no Match Play Golf é um jogo de golfe para o Othello Multivision, lançado pela Tsukuda Original com a jogadora de golfe profissional japonês Ayako Okamoto. Também é compatível com o Sega SG-1000. O jogo é conhecido por apresentar controles confusos e não intuitivos e uma IA injusta. É um jogo para 2 jogadores e você pode jogar como jogador feminino ou masculino. A visão principal é uma visão de terceira pessoa por trás e na barra lateral é um mapa de cima para baixo do campo. Fora isso, as estatísticas usuais como par e distância do buraco se aplicam.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Esporte / Golfe-Esporte</genre>
+    <players>1</players>
+    <image>./media/images/Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).png</image>
+    <marquee>./media/marquees/Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).png</marquee>
+    <video>./media/videos/Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).mp4</video>
+  </game>
+  <game id="65737" source="ScreenScraper.fr">
+    <path>./Orguss (Japan, Europe).zip</path>
+    <name>Orguss</name>
+    <desc>Orguss é um shoot-em-up de rolagem horizontal baseado na série de anime Super Dimension Century Orguss. Os habitantes de Terram construíram uma arma terrível que pode destruir o espaço-tempo. O personagem do jogador, pilotando a nave Orguss, tem 2:30 minutos para chegar até a arma e desativá-la. Isso é feito voando na forma nativa da nave ou transformando-se no poderoso mecha Orgroid. O mecha dispara repetidamente se o jogador apertar o botão de fogo, enquanto a arma da nave tem que ser disparada separadamente para cada tiro. No entanto, quando o protagonista está em forma de mecha, a tela rola mais devagar, evitando que o jogador chegue à arma a tempo. Inimigos incluem naves hostis e torres estacionárias no chão. Não há power-ups de qualquer tipo, e a única fase do jogo se repete após a conclusão com maior dificuldade.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>1</players>
+    <image>./media/images/Orguss (Japan, Europe).png</image>
+    <marquee>./media/marquees/Orguss (Japan, Europe).png</marquee>
+    <video>./media/videos/Orguss (Japan, Europe).mp4</video>
+  </game>
+  <game id="65738" source="ScreenScraper.fr">
+    <path>./Othello (Japan).zip</path>
+    <name>Othello</name>
+    <desc>Esta versão do popular jogo de tabuleiro (também conhecido como Reversi) foi construída pela primeira vez no Othello Multivision da Tsukuda Original. Foi reprogramado e relançado em forma de cartucho para o SG-1000. O jogo envolve colocar discos da sua cor em uma placa de grade e tentar transformar os discos do seu oponente em sua própria cor.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Sega</publisher>
+    <genre>Jogo de tabuleiro Asiático-Quebra-cabeças</genre>
+    <players>2</players>
+    <image>./media/images/Othello (Japan).png</image>
+    <marquee>./media/marquees/Othello (Japan).png</marquee>
+    <video>./media/videos/Othello (Japan).mp4</video>
+  </game>
+  <game id="65739" source="ScreenScraper.fr">
+    <path>./Pacar (Japan) (40kB).zip</path>
+    <name>Pacar</name>
+    <desc>O jogo joga como uma combinação dos jogos da Namco Rally X e Pac-Man e um sequência do jogo Head-On de 1979 da Sega.    Como o carro verde Pacar, você consome pontos como o Pac-Man e evita carros vermelhos e azuis em vez de fantasmas. Também como o Pac-Man, você coleta "pontos de poder" para invencibilidade e progresso através das fases.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Pacar (Japan) (40kB).png</image>
+    <marquee>./media/marquees/Pacar (Japan) (40kB).png</marquee>
+    <video>./media/videos/Pacar (Japan) (40kB).mp4</video>
+  </game>
+  <game id="65741" source="ScreenScraper.fr">
+    <path>./Pachinko II (Japan).zip</path>
+    <name>Pachinko II</name>
+    <desc>Pachinko II é a continuação do Pachinko, e foi lançado para o SG-1000 em 1984. Este foi lançado como um substituto para o Pachinko, um jogo bugado e recolhido do SG-1000. É outra versão de video game do mecânico jogo arcade de pinball do Japão com visuais aprimorados e mais duas mesas.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Cassino-Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Pachinko II (Japan).png</image>
+    <marquee>./media/marquees/Pachinko II (Japan).png</marquee>
+    <video>./media/videos/Pachinko II (Japan).mp4</video>
+  </game>
+  <game id="65740" source="ScreenScraper.fr">
+    <path>./Pachinko (Japan).zip</path>
+    <name>Pachinko</name>
+    <desc>Uma versão de video game do Pachinko, um mecânico jogo arcade de pinball do Japão. Este jogo em particular é realmente muito raro, pois foi recolhido devido a um bug. Foi substituído pelo Pachinko II.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Cassino-Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Pachinko (Japan).png</image>
+    <marquee>./media/marquees/Pachinko (Japan).png</marquee>
+    <video>./media/videos/Pachinko (Japan).mp4</video>
+  </game>
+  <game id="140812" source="ScreenScraper.fr">
+    <path>./Pippols (Taiwan).zip</path>
+    <name>Pippols</name>
+    <desc>Pippols é um jogo de ação da Konami. A versão para MSX do jogo foi trazida sem licença para o SG-1000 em Taiwan. Requer que o adaptador de RAM de 8kB seja executado. Você é Pippols, um menino corajoso, que está procurando a Santa Jóia para trazer de volta a luz para o mundo. Cuidado com como as fadas das trevas vai tentar pará-lo em sua jornada através dos vários países do mundo da Magia.</desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Konami</developer>
+    <publisher>Jumbo Team</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Pippols (Taiwan).png</image>
+    <marquee>./media/marquees/Pippols (Taiwan).png</marquee>
+    <video>./media/videos/Pippols (Taiwan).mp4</video>
+  </game>
+  <game id="65742" source="ScreenScraper.fr">
+    <path>./Pitfall II - The Lost Caverns (Japan) (Rev 1).zip</path>
+    <name>Pitfall II : The Lost Caverns</name>
+    <desc>Pitfall II: The Lost Caverns é a sequela de Pitfall e foi lançado para uma variedade de sistemas em meados da década de 1980, incluindo o SG-1000 em 1985. Ele também foi portado para o hardware de arcade Sega System 1 da Sega. A jogabilidade é semelhante ao jogo original, mas as fases são mais parecidas com labirintos.    A versão de Pitfall II da Sega foi ajustada de forma significativa a partir de suas contrapartes ocidentais lançadas para o Atari 2600, ColecoVision etc. A jogabilidade é basicamente a mesma, mas há muitas adições. Estas incluem um sistema de vidas, carrinhos de minas, balões e um Demônio chefe final. As especificações aumentadas do hardware do System 1 significam que a versão arcade é muito mais detalhada e permite ao jogador ver mais do labirinto ao mesmo tempo. A versão de SG-1000 é inspirada diretamente no jogo de arcade, e embora não possa igualar o mesmo nível de qualidade gráfica, é sem dúvida o melhor port caseiro do jogo.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Sega</publisher>
+    <genre>Plataforma</genre>
+    <players>1-2</players>
+    <image>./media/images/Pitfall II - The Lost Caverns (Japan) (Rev 1).png</image>
+    <marquee>./media/marquees/Pitfall II - The Lost Caverns (Japan) (Rev 1).png</marquee>
+    <video>./media/videos/Pitfall II - The Lost Caverns (Japan) (Rev 1).mp4</video>
+  </game>
+  <game id="65743" source="ScreenScraper.fr">
+    <path>./Pop Flamer (Japan, Europe).zip</path>
+    <name>Pop Flamer</name>
+    <desc>Pop Flamer é um jogo arcade desenvolvido pela Jaleco em 1982, e foi trazido para o SG-1000 em 1983 pela Sega. No jogo, o jogador controla um camundongo armado com um lança-chamas que deve estourar balões enquanto evita inimigos.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Jaleco</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>2</players>
+    <image>./media/images/Pop Flamer (Japan, Europe).png</image>
+    <marquee>./media/marquees/Pop Flamer (Japan, Europe).png</marquee>
+    <video>./media/videos/Pop Flamer (Japan, Europe).mp4</video>
+  </game>
+  <game id="65744" source="ScreenScraper.fr">
+    <path>./Q-bert (Japan) (Othello Multivision).zip</path>
+    <name>Q*bert</name>
+    <desc>Q*bert é um jogo arcade da Gottlieb. Ele foi portado para o SG-1000 pela Tsukuda Original, que o comercializou para o seu console Othello Multivision.    O objetivo do jogo é transformar todos os cubos na tela em uma cor desejada movendo Q*bert sobre eles. Q*bert só pode se mover em diagonais, e o jogador precisa ter cuidado para não mandar Q*bert para fora da borda ou fazê-lo colidir com inimigos/obstáculos. Ocasionalmente plataformas cilíndricas aparecem na borda da tela, que quando saltadas, levam Q*bert para o topo.    O port de SG-1000 é uma versão muito básica do jogo e está faltando muitos elementos vistos na versão arcade. Também é muito mais difícil, pois o port envia mais inimigos nas primeiras fases.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Q-bert (Japan) (Othello Multivision).png</image>
+    <marquee>./media/marquees/Q-bert (Japan) (Othello Multivision).png</marquee>
+    <video>./media/videos/Q-bert (Japan) (Othello Multivision).mp4</video>
+  </game>
+  <game id="65745" source="ScreenScraper.fr">
+    <path>./Rock n' Bolt (Japan).zip</path>
+    <name>Rock n' Bolt</name>
+    <desc>Rock n 'Bolt é um jogo de quebra-cabeça desenvolvido pela Activision, lançado para vários computadores e consoles domésticos, incluindo o SG-1000 em 1985. Ele segue Louie, o construtor que deve derrubar plataformas móveis em seu local correto dentro de um limite de tempo definido.    O port de SG-1000 é, indiscutivelmente, uma escolha melhor do que suas contrapartes de Commodore 64, MSX e ColecoVision. Isto porque é capaz de dar ao jogo uma trilha sonora sem sacrificar a qualidade dos gráficos. Infelizmente a versão de SG-1000 só foi lançada no Japão.    Curiosamente, a capa do Rock n 'Bolt mostra o que parece ser uma versão anterior do jogo, ostentando peças verdes em um fundo azul (ao invés de azul sobre preto) e um Louie mais ocidental.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Sega</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1-2</players>
+    <image>./media/images/Rock n' Bolt (Japan).png</image>
+    <marquee>./media/marquees/Rock n' Bolt (Japan).png</marquee>
+    <video>./media/videos/Rock n' Bolt (Japan).mp4</video>
+  </game>
+  <game id="65747" source="ScreenScraper.fr">
+    <path>./Safari Hunting (Japan).zip</path>
+    <name>Safari Hunting</name>
+    <desc>Safari Hunting, conhecido originalmente como Tranquilizer Gun, envolve uma cena de floresta em forma de labirinto com caminhos tranquilos e selva intransponível. Você pode se aventurar na selva a pé para caçar os animais e também pode atirar de seu caminhão em qualquer animal que se aventure nas quatro bordas ao redor da área de lazer onde seu caminhão viaja. Sua tarefa é tranquilizar diferentes animais (cobras, gorilas, leões e elefantes). Quanto maior o animal, maior o número de flechas tranquilizantes necessárias para abater o animal. Assim que você tranquilizar um animal, um temporizador começará a contagem regressiva e você terá que arrastar lentamente o animal de volta ao seu caminhão antes que o cronômetro atinja zero ou o animal desperte e mate você. Não apenas você precisa considerar o cronômetro de contagem regressiva para um animal tranquilo, mas também precisa observar o medidor de combustível dos caminhões, que é basicamente um contador de tempo para o jogo, já que aparentemente você deixa seu caminhão correndo enquanto caminha pela floresta.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Safari Hunting (Japan).png</image>
+    <marquee>./media/marquees/Safari Hunting (Japan).png</marquee>
+    <video>./media/videos/Safari Hunting (Japan).mp4</video>
+  </game>
+  <game id="65748" source="ScreenScraper.fr">
+    <path>./Safari Race (Japan).zip</path>
+    <name>Safari Race</name>
+    <desc>Safari Race é um jogo de corrida para o SG-1000, desenvolvido e publicado pela Sega em 1984. O jogador deve dirigir através de várias "seções", evitando a vida selvagem e outros carros, certificando-se de não ficar sem combustível.    O jogo é notável por usar carros licenciados, potencialmente o primeiro videogame a fazê-lo. O jogador controla um Lancia Stratos HF, e de acordo com a arte da caixa, alguns dos carros rivais são Audi Quattros. A música de fundo parece ser derivada de "Baby Elephant Walk" de Henry Mancini (1961). O Lancia Stratos receberia maior reconhecimento de videogame no Sega Rally Championship, da Sega.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Corrida, Pilotagem</genre>
+    <players>1</players>
+    <image>./media/images/Safari Race (Japan).png</image>
+    <marquee>./media/marquees/Safari Race (Japan).png</marquee>
+    <video>./media/videos/Safari Race (Japan).mp4</video>
+  </game>
+  <game id="65780" source="ScreenScraper.fr">
+    <path>./San-nin Mahjong (Japan).zip</path>
+    <name>San-nin Mahjong</name>
+    <desc>Sannin Mahjong é um jogo de mahjong para o SG-1000. Às vezes também é conhecido como 3-nin Mahjong, significando mahjong para três jogadores. Este número de jogadores não é possível em nenhuma das versões do jogo da própria Sega, Mahjong e Home Mahjong.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Jogo de tabuleiro Asiático-Mahjong</genre>
+    <players>1-3</players>
+    <image>./media/images/San-nin Mahjong (Japan).png</image>
+    <marquee>./media/marquees/San-nin Mahjong (Japan).png</marquee>
+    <video>./media/videos/San-nin Mahjong (Japan).mp4</video>
+  </game>
+  <game id="65749" source="ScreenScraper.fr">
+    <path>./Sega Flipper (Japan) (40kB).zip</path>
+    <name>Sega Flipper</name>
+    <desc>Sega Flipper é um jogo de pinball lançado para o SG-1000 em 1983. Na Nova Zelândia é conhecido como Video Flipper.    Foi um dos primeiros video games de pinball a ser lançado, sendo lançado um ano antes das tentativas da Jaleco e Nintendo, mas quatro anos depois do Video Pinball da Atari. Ao contrário do vídeo Pinball, no entanto, Sega Flipper faz uso de cores.    É uma simulação de pinball padrão, exceto pelo bumper em movimento. Para um ou dois jogadores. Tem quatro flippers (dois grandes, dois pequenos). Se obtém pontos de bônus de "drop targets" e "kicker holes" e bolas de bônus para altas pontuações.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Sega Flipper (Japan) (40kB).png</image>
+    <marquee>./media/marquees/Sega Flipper (Japan) (40kB).png</marquee>
+    <video>./media/videos/Sega Flipper (Japan) (40kB).mp4</video>
+  </game>
+  <game id="65730" source="ScreenScraper.fr">
+    <path>./Mahjong (Japan).zip</path>
+    <name>Sega Mahjong</name>
+    <desc>Mahjong ou Sega Mahjong é um jogo de mahjong para o SG-1000. Este é o primeiro jogo de mahjong lançado para o SG-1000, desenvolvido e publicado pela Sega em 1983. Ao contrário dos jogos de mahjong posteriores lançados para o sistema, este jogo é apenas para um jogador.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Jogo de tabuleiro Asiático-Mahjong-Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Mahjong (Japan).png</image>
+    <marquee>./media/marquees/Mahjong (Japan).png</marquee>
+    <video>./media/videos/Mahjong (Japan).mp4</video>
+  </game>
+  <game id="65717" source="ScreenScraper.fr">
+    <path>./Sega-Galaga (Japan) (40kB).zip</path>
+    <name>Sega-Galaga</name>
+    <desc>Sega-Galaga é o port de SG-1000 do Galaga, e é estranhamente o único port a receber uma mudança de nome.    O jogador pilota uma nave e deve destruir todos os inimigos na tela, similar ao Space Invaders e ao Galaxian. No entanto, os inimigos em Galaga têm o poder de roubar sua nave para usar como reforços (o que significa que o jogador perde uma vida). No entanto, se você for capaz de destruir o inimigo que capturou sua nave, você poderá pilotar ambas as naves de uma vez, dobrando seu poder de fogo às custas de ser um alvo maior.    Embora o Sega-Galaga seja essencialmente o mesmo jogo do arcade original, as limitações do SG-1000 significam que os gráficos e o som não são tão avançados. Também as "fases desafiadoras" foram omitidas, o que significa que cada fase é idêntica a última.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1-2</players>
+    <image>./media/images/Sega-Galaga (Japan) (40kB).png</image>
+    <marquee>./media/marquees/Sega-Galaga (Japan) (40kB).png</marquee>
+    <video>./media/videos/Sega-Galaga (Japan) (40kB).mp4</video>
+  </game>
+  <game id="65750" source="ScreenScraper.fr">
+    <path>./Serizawa Hachidan no Tsumeshougi (Japan).zip</path>
+    <name>Serizawa Hachidan no Tsumeshougi</name>
+    <desc>Serizawa Hachidan no Tsume Shougi é um jogo arcade de 1982 da Sega. Posteriormente foi portado para o SG-1000. É um jogo de tabuleiro japonês shogi (também conhecido como "xadrez japonês"). Você move suas peças amarelas em torno de um tabuleiro usando um cursor, enquanto o seu oponente move suas peças azuis. Assim como o xadrez, o objetivo do jogo é capturar o rei do seu oponente. Apesar de sua existência ter sido confirmada, a versão arcade é extremamente rara e mal documentada.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Jogo casual-Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Serizawa Hachidan no Tsumeshougi (Japan).png</image>
+    <marquee>./media/marquees/Serizawa Hachidan no Tsumeshougi (Japan).png</marquee>
+    <video>./media/videos/Serizawa Hachidan no Tsumeshougi (Japan).mp4</video>
+  </game>
+  <game id="65751" source="ScreenScraper.fr">
+    <path>./Shinnyushain Tooru Kun (Japan).zip</path>
+    <name>Shinnyushain Tooru Kun</name>
+    <desc>Shinnyuushain Tooru-Kun é um jogo para o SG-1000. Foi originalmente um jogo arcade da Konami conhecido como Mikie fora do Japão.    Uma versão não licenciada foi lançada para o Sega Master System na Coréia do Sul.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>2</players>
+    <image>./media/images/Shinnyushain Tooru Kun (Japan).png</image>
+    <marquee>./media/marquees/Shinnyushain Tooru Kun (Japan).png</marquee>
+    <video>./media/videos/Shinnyushain Tooru Kun (Japan).mp4</video>
+  </game>
+  <game id="65752" source="ScreenScraper.fr">
+    <path>./Sindbad Mystery (Japan, Europe).zip</path>
+    <name>Sindbad Mystery</name>
+    <desc>Sindbad, um menino aventureiro, foi para a ilha do tesouro. Ele quer encontrar o tesouro com sucesso através das pistas no mapa do tesouro, abrindo os painéis ?. Para desafiá-lo, os monstros estão aqui e ali, descansando nas rotas labirínticas da ilha. Junte sua coragem, role a pedra para a frente e destrua os monstros. Depois de encontrar com sucesso o tesouro, vamos continuar com a próxima aventura em outra ilha do tesouro!</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Sindbad Mystery (Japan, Europe).png</image>
+    <marquee>./media/marquees/Sindbad Mystery (Japan, Europe).png</marquee>
+    <video>./media/videos/Sindbad Mystery (Japan, Europe).mp4</video>
+  </game>
+  <game id="65754" source="ScreenScraper.fr">
+    <path>./Soukoban (Japan).zip</path>
+    <name>Soukoban</name>
+    <desc>Sokoban é um jogo de quebra-cabeça desenvolvido pela Thinking Rabbit. A Sega o portou para o SG-1000 em 1985. Nenhuma versão saiu do Japão.    Sokoban é a base para o Shove It! ... The Warehouse Game, lançado para o Sega Mega Drive.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Thinking Rabbit</developer>
+    <publisher>Sega</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1</players>
+    <image>./media/images/Soukoban (Japan).png</image>
+    <marquee>./media/marquees/Soukoban (Japan).png</marquee>
+    <video>./media/videos/Soukoban (Japan).mp4</video>
+  </game>
+  <game id="65783" source="ScreenScraper.fr">
+    <path>./Space Armor (Japan) (v2.0) (Newer) (Othello Multivision).zip</path>
+    <name>Space Armor</name>
+    <desc>Space Armor é um jogo de shoot-'em-up de 1984 desenvolvido e publicado pela Tsukuda Original. Foi construído com o Othello Multivision em mente, mas como todos os jogos do Multivision, também é compatível com o SG-1000. Space Armor não foi lançado fora do Japão.    Como Guzzler, o jogo mostra alguns valores de produção muito ruins. Os gráficos são muito simples e sem inspiração, a música (que é barulhenta e irritante) para e reinicia toda vez que você atira e o jogo demonstra ser chato.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Space Armor (Japan) (v2.0) (Newer) (Othello Multivision).png</image>
+    <marquee>./media/marquees/Space Armor (Japan) (v2.0) (Newer) (Othello Multivision).png</marquee>
+    <video>./media/videos/Space Armor (Japan) (v2.0) (Newer) (Othello Multivision).mp4</video>
+  </game>
+  <game id="65755" source="ScreenScraper.fr">
+    <path>./Space Invaders (Japan).zip</path>
+    <name>Space Invaders</name>
+    <desc>Space Invaders é um jogo arcade de 1979 desenvolvido pela Taito. O jogador controla uma arma que pode se mover para a esquerda ou para a direita e precisa destruir ondas de alienígenas (ou "invasores") antes de chegar ao solo. Space Invaders foi trazido para uma variedade de consoles e computadores domésticos de video game, incluindo o SG-1000 em 1985.    Surpreendentemente, o port de SG-1000 do jogo foi um dos mais precisos do seu tempo, superando as versões de NES e MSX, que eram os principais concorrentes do console. Apesar de adicionar mais cor (a versão arcade era simplesmente em preto e branco, com sobreposições translúcidas para imitar cores), a versão de SG-1000 retém todos os gráficos originais, enquanto outros ports (especialmente para sistemas Atari) redesenharam os invasores devido a várias restrições gráficas. A versão do SG-1000 não parece ter sido lançada fora do Japão.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Space Invaders (Japan).png</image>
+    <marquee>./media/marquees/Space Invaders (Japan).png</marquee>
+    <video>./media/videos/Space Invaders (Japan).mp4</video>
+  </game>
+  <game id="65784" source="ScreenScraper.fr">
+    <path>./Space Mountain (Japan) (Othello Multivision).zip</path>
+    <name>Space Mountain</name>
+    <desc>Space Mountain é um jogo de SG-1000 desenvolvido e publicado pela Tsukuda Original com a Othello Multivision em mente. É um jogo de tiro em terceira pessoa muito primitivo, muito inspirado em Star Wars no qual o jogador precisa derrubar naves inimigas antes de se infiltrar em uma base.</desc>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Space Mountain (Japan) (Othello Multivision).png</image>
+    <marquee>./media/marquees/Space Mountain (Japan) (Othello Multivision).png</marquee>
+    <video>./media/videos/Space Mountain (Japan) (Othello Multivision).mp4</video>
+  </game>
+  <game id="65757" source="ScreenScraper.fr">
+    <path>./Space Slalom (Japan).zip</path>
+    <name>Space Slalom</name>
+    <desc>Space Slalom é um video game desenvolvido pela Orca e publicado pela Sega para o SG-1000 em 1983.    Embora a primeira vista pareça ser um shoot-'em-up vertical com temática espacial, não há realmente nenhum tiro envolvido. O jogador controla um ônibus espacial e deve navegar através de um percurso definido por estrelas coloridas, semelhantes aos slaloms de esqui. O jogador também deve evitar obstáculos, e será premiado com pontos extras, dependendo de sua velocidade ao longo do percurso.    Com apenas 8kB, o jogo é um dos menores jogos do SG-1000 e foi vendido apenas no Japão.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Orca</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação-Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Space Slalom (Japan).png</image>
+    <marquee>./media/marquees/Space Slalom (Japan).png</marquee>
+    <video>./media/videos/Space Slalom (Japan).mp4</video>
+  </game>
+  <game id="65758" source="ScreenScraper.fr">
+    <path>./Star Force (Japan).zip</path>
+    <name>Star Force</name>
+    <desc>Star Force é um shoot-'em-up vertical de arcade de 1984 desenvolvido pela Tehkan (agora Tecmo), que mais tarde foi trazido para o SG-1000 em 1985.    A versão de SG-1000 do jogo foi lançada no cartucho e no Sega Card.    Você é um piloto de espaçonave atirando em naves inimigas e alvos terrestres. Pegue os símbolos de letras especiais para bônus e power-ups adicionais. Fases ou áreas são nomeados pelo alfabeto grego e o chefe final no fim de cada área deve ser derrotado antes que você possa continuar para a próxima área.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Tiro</genre>
+    <players>1</players>
+    <image>./media/images/Star Force (Japan).png</image>
+    <marquee>./media/marquees/Star Force (Japan).png</marquee>
+    <video>./media/videos/Star Force (Japan).mp4</video>
+  </game>
+  <game id="65759" source="ScreenScraper.fr">
+    <path>./Star Jacker (Japan, Europe) (Rev 2).zip</path>
+    <name>Star Jacker</name>
+    <desc>Star Jacker é um shoot 'em up de rolagem vertical onde o jogador controla um Esquadrão Universal cuja tarefa é atacar várias colônias espaciais inimigas enquanto evita ou destrói as forças inimigas dos OVNIs antes de retornar para a nave-mãe Star Jacker. A principal diferença em relação aos outros shoot 'em up é que o jogador aqui controla três naves espaciais ao mesmo tempo. Enquanto a nave da frente se move, as outras seguem sua trilha. Isso significa que o jogador pode disparar três tiros de uma vez, mas também significa que os projéteis inimigos são mais difíceis de evitar, já que as naves ocupam mais espaço. No entanto, se atingido o tamanho do esquadrão irá diminuir. O jogador tem dois meios de ataque: um tiro regular para derrubar OVNIs e um ataque bomba para derrubar alvos terrestres.    Se uma pontuação alta for atingida, um alvo misterioso aparecerá. Ao destruí-lo, o esquadrão se teleportará para a nave-mãe. O jogador receberá uma nave extra e o jogo continuará. O jogo continua até que todas as naves no esquadrão tenham sido perdidas.    A versão de SG-1000 se difere porque o jogador começa com quatro naves e não três.</desc>
+    <rating>0</rating>
+    <releasedate>19830715T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Star Jacker (Japan, Europe) (Rev 2).png</image>
+    <marquee>./media/marquees/Star Jacker (Japan, Europe) (Rev 2).png</marquee>
+    <video>./media/videos/Star Jacker (Japan, Europe) (Rev 2).mp4</video>
+  </game>
+  <game id="140813" source="ScreenScraper.fr">
+    <path>./Star Soldier (Taiwan).zip</path>
+    <name>Star Soldier</name>
+    <desc>Star Soldier é um shoot-'em-up de rolagem vertical da Hudson Soft. A versão para MSX do jogo foi trazida sem licença para o SG-1000 em Taiwan. Requer o adaptador de RAM de 8kB para rodar. O jogador pilota a nave "Caesar", viajando através de estações espaciais ocupadas por poderosos supercomputadores conhecidos como "Starbrains", que ameaçam o império galáctico.</desc>
+    <rating>0</rating>
+    <releasedate />
+    <developer>Hudson</developer>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/images/Star Soldier (Taiwan).png</image>
+    <marquee>./media/marquees/Star Soldier (Taiwan).png</marquee>
+    <video>./media/videos/Star Soldier (Taiwan).mp4</video>
+  </game>
+  <game id="65761" source="ScreenScraper.fr">
+    <path>./Super Tank (Japan).zip</path>
+    <name>Super Tank</name>
+    <desc>Super Tank é um jogo de shoot-'em-up para o SG-1000. O jogador dirige um tanque e é encarregado de atirar e destruir as unidades e estruturas inimigas. Você move seu tanque ao longo de desertos, campos, estradas e pavimentos, atirando em oponentes aéreos e terrestres. Existem chefões no fim da fase, isto é, bases com torres armadas.</desc>
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Tiro</genre>
+    <players>2</players>
+    <image>./media/images/Super Tank (Japan).png</image>
+    <marquee>./media/marquees/Super Tank (Japan).png</marquee>
+    <video>./media/videos/Super Tank (Japan).mp4</video>
+  </game>
+  <game id="65762" source="ScreenScraper.fr">
+    <path>./Terebi Oekaki (Japan).zip</path>
+    <name>Terebi Oekaki</name>
+    <desc>Terebi Oekaki é o jogo empacotado com o Sega Graphic Board para o SG-1000. É um simples programa de pintura. Este foi o primeiro jogo a apresentar o uso de controles por toque. Foi necessário o uso do tablet Sega Graphic Board, junto com uma caneta stylus que veio com ele.</desc>
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Terebi Oekaki (Japan).png</image>
+    <marquee>./media/marquees/Terebi Oekaki (Japan).png</marquee>
+  </game>
+  <game id="65693" source="ScreenScraper.fr">
+    <path>./Black Onyx, The (Japan) (T).zip</path>
+    <name>The Black Onyx</name>
+    <desc>Há rumores de que o lendário Black Onyx, um artefato que garante a eterna juventude e felicidade para aqueles que puderem encontrá-lo, fica dentro da Torre Negra, perto da cidade de Utsuro. Você monta um grupo de bravos aventureiros e se aventura na torre, derrotando monstros em seu caminho para o grande tesouro.    The Black Onyx é um dos primeiros jogos tradicionais de RPG feitos por uma empresa japonesa. É semelhante no jogo aos primeiros jogos Wizardry e Ultima com matar monstros e explorar masmorras, com imagens escuras e realistas. O jogador cria um grupo (de até cinco membros) e explora uma masmorra em forma de labirinto 3D, lutando contra inimigos aleatórios no caminho. Os heróis também se encontram com aventureiros que podem ser convencidos a participar do grupo. A mecânica de combate é baseada em turnos.</desc>
+    <rating>0</rating>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Bullet Proof Software</developer>
+    <publisher>Sega</publisher>
+    <genre>Jogos de RPG</genre>
+    <players>1</players>
+    <image>./media/images/Black Onyx, The (Japan) (T).png</image>
+    <marquee>./media/marquees/Black Onyx, The (Japan) (T).png</marquee>
+    <video>./media/videos/Black Onyx, The (Japan) (T).mp4</video>
+  </game>
+  <game id="65764" source="ScreenScraper.fr">
+    <path>./Castle, The (Japan).zip</path>
+    <name>The Castle</name>
+    <desc>No jogo de quebra-cabeça e plataforma The Castle, o jogador controla um príncipe que tem que salvar a princesa. Para encontrar sua princesa, ele deve explorar o castelo, que tem cem salas diferentes. Cada sala é um próprio quebra-cabeça, pois o príncipe deve evitar os cavaleiros inimigos, tiroleses gordos, objetos perigosos e usar itens para chegar à próxima porta. Em cada sala o príncipe tem que recolher chaves e itens, como anéis, barras de ouro e garrafas. As garrafas darão ao príncipe uma vida adicional. As chaves podem ter cores diferentes e só abrem portas com a cor da chave correspondente.</desc>
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>ASCII Corporation</developer>
+    <publisher>Sega</publisher>
+    <genre>Ação</genre>
+    <players>1</players>
+    <image>./media/images/Castle, The (Japan).png</image>
+    <marquee>./media/marquees/Castle, The (Japan).png</marquee>
+    <video>./media/videos/Castle, The (Japan).mp4</video>
+  </game>
+  <game id="129673" source="ScreenScraper.fr">
+    <path>./Uranai Angel Cutie (Japan) (SC-3000).zip</path>
+    <name>Uranai Angel Cutie</name>
+    <rating>0</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Jogo casual</genre>
+    <players>1</players>
+    <image>./media/images/Uranai Angel Cutie (Japan) (SC-3000).png</image>
+    <marquee>./media/marquees/Uranai Angel Cutie (Japan) (SC-3000).png</marquee>
+  </game>
+  <game id="65765" source="ScreenScraper.fr">
+    <path>./Wonder Boy (Japan) (Rev 1).zip</path>
+    <name>Wonder Boy</name>
+    <desc>Wonder Boy inicia uma longa e perigosa jornada em busca do Rei, que sequestrou sua namorada, Tina. O Rei vive em um lugar distante, habitado por criaturas monstruosas e cheio de muitas surpresas. No caminho, nosso herói tem que coletar comida para aumentar sua energia. A missão final de Wonder Boy é resgatar Tina e provar a todos que o verdadeiro amor sempre triunfa.</desc>
+    <rating>0</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Plataforma-Ação</genre>
+    <players>1-2</players>
+    <image>./media/images/Wonder Boy (Japan) (Rev 1).png</image>
+    <marquee>./media/marquees/Wonder Boy (Japan) (Rev 1).png</marquee>
+    <video>./media/videos/Wonder Boy (Japan) (Rev 1).mp4</video>
+  </game>
+  <game id="65766" source="ScreenScraper.fr">
+    <path>./Yamato (Japan, Europe).zip</path>
+    <name>Yamato</name>
+    <desc>Evite o ataque inimigo com torpedos e mísseis. Atire nos mísseis. Tenha cuidado, YAMATO vai explodir se for atingido. Mire no inimigo e dispare as armas. Ataque os aviões inimigos usando seus ataques rápidos. YAMATO pode sobreviver a esta feroz batalha?</desc>
+    <rating>0</rating>
+    <releasedate>19830301T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>1</players>
+    <image>./media/images/Yamato (Japan, Europe).png</image>
+    <marquee>./media/marquees/Yamato (Japan, Europe).png</marquee>
+    <video>./media/videos/Yamato (Japan, Europe).mp4</video>
+  </game>
+  <game id="65767" source="ScreenScraper.fr">
+    <path>./Zaxxon (Japan).zip</path>
+    <name>Zaxxon</name>
+    <desc>O sistema de defesa Zaxxon deve ser destruído neste shoot 'em up em visão isométrica. O jogo tem três fases, primeiro levando você através da Cidade Asteróide, que é fortemente protegida por aeronaves, armas e mísseis. Muitas barreiras estão alarmadas, deixando-o com espaço limitado para progredir, e o fogo deve ser constantemente esquivado.nnnnA segunda fase é um tiro espacial contra hordas de aeronaves inimigas - aquelas que você não conseguiu destruir na primeira parte da tarefa. Complete isso e você chegará à batalha final com Zaxxon, o jogo repete com maior dificuldade se você conseguir sobreviver pela primeira vez.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>1</players>
+    <image>./media/images/Zaxxon (Japan).png</image>
+    <marquee>./media/marquees/Zaxxon (Japan).png</marquee>
+    <video>./media/videos/Zaxxon (Japan).mp4</video>
+  </game>
+  <game id="65768" source="ScreenScraper.fr">
+    <path>./Zippy Race (Japan).zip</path>
+    <name>Zippy Race</name>
+    <desc>Zippy Race é um jogo de corrida de visão aérea desenvolvido pela Irem e lançado inicialmente nos fliperamas em 1983. Posteriormente foi portado para as plataformas caseiras, incluindo o SG-1000 no mesmo ano. Alguns ports norte-americanos do jogo são chamados de Motorace USA, embora nenhum dos jogos do SG-1000 tenham sido lançados oficialmente naquela região.nnnnO jogo faz com que o jogador controle uma moto, evitando carros e obstáculos, garantindo ao mesmo tempo que não fique sem combustível. O jogador viaja através dos Estados Unidos da América, daí o título localizado de Motorace USA.</desc>
+    <rating>0</rating>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Corrida, Pilotagem</genre>
+    <players>1</players>
+    <image>./media/images/Zippy Race (Japan).png</image>
+    <marquee>./media/marquees/Zippy Race (Japan).png</marquee>
+    <video>./media/videos/Zippy Race (Japan).mp4</video>
+  </game>
+  <game id="65769" source="ScreenScraper.fr">
+    <path>./Zoom 909 (Japan).zip</path>
+    <name>Zoom 909</name>
+    <desc>Zoom 909 é um jogo arcade desenvolvido pela Sega para hardware de arcade VCO Object. Foi lançado mundialmente em 1982, no entanto, depois de obter uma licença para Buck Rogers, as versões ocidentais do jogo ficaram conhecidas como Buck Rogers: Planet of Zoom. Tanto o Zoom 909 quanto o Buck Rogers: Planet of Zoom são basicamente o mesmo jogo, com algumas pequenas diferenças gráficas.nnnnEmbora a maioria dos ports caseiros do jogo sejam baseados no Planet of Zoom, o Zoom 909 foi trazido para o MSX japonês em 1983 e para o SG-1000 em 1985. Essas versões tomam mais liberdades com a fórmula, introduzindo uma fase de visão aérea como fase 3.</desc>
+    <rating>0</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Tiro</genre>
+    <players>1</players>
+    <image>./media/images/Zoom 909 (Japan).png</image>
+    <marquee>./media/marquees/Zoom 909 (Japan).png</marquee>
+    <video>./media/videos/Zoom 909 (Japan).mp4</video>
+  </game>
+</gameList>

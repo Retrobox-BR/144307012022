@@ -9105,7 +9105,8 @@ SpongeBob's final assignment is to locate items needed to fix the broken TV at S
 	<game>
 		<path>./Project - Horned Owl (USA).chd</path>
 		<name>Project : Horned Owl</name>
-		<desc>Based on a popular Japanese anime series called Policenauts, this on-rails first-person shooter gives gamers a glimpse of the future in amazing detail and visual acuity. The character artist from the popular anime Ghost in a Shell created the models for this game, so you can expect some well-drawn and highly detailed characters throughout the game.Putting you behind the controls of a giant mech, it's your duty to blast the evil forces that threaten the peaceful city that you serve. A tracking camera guides you through the 3D environments, as enemies pop up from behind every conceivable hiding place. The gun is accurate and easily calibrated, meaning you; ll be blasting enemies with pinpoint precision.</desc>
+		<desc>Based on a popular Japanese anime series called Policenauts, this on-rails first-person shooter gives gamers a glimpse of the future in amazing detail and visual acuity. The character artist from the popular anime Ghost in a Shell created the models for this game, so you can expect some well-drawn and highly detailed characters throughout the game.
+			Putting you behind the controls of a giant mech, it's your duty to blast the evil forces that threaten the peaceful city that you serve. A tracking camera guides you through the 3D environments, as enemies pop up from behind every conceivable hiding place. The gun is accurate and easily calibrated, meaning you ll be blasting enemies with pinpoint precision.</desc>
 		<image>./media/images/Project - Horned Owl (USA)-image.png</image>
 		<video>./videos/Project - Horned Owl (USA)-video.mp4</video>
 		<marquee>./images/Project - Horned Owl (USA)-marquee.png</marquee>
@@ -9631,23 +9632,6 @@ The "not-right" folks at Singletrac are at it again with Rogue Trip: Vacation 20
 		<genre>Quebra-cabeças</genre>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game>
-		<path>./Ninja - Shadow of Darkness.chd</path>
-		<name>Ninja : Shadow of Darkness</name>
-		<desc>In NINJA: Shadow of Darkness, players assume the role of Kurosawa, a young but powerful ninja. Unlike many ninjas before him, he is able to summon powers of the arcane; magical spells that do great damage to those cast upon. And he'll need it - the world has been cast into utter darkness in which monsters and creatures from the beyond roam.
-
-There are four different worlds broken into 11 distinctive levels - Kurosawa will travel throughout cemeteries, rocky mountain terrain, coastal areas, deep and dark forests, etc. The goal in each is to survive, which is often easier said than done. As alluded to earlier, monsters (such as goblins) are out for your blood - even fellow ninjas who've turned to the dark side will meet you with resistance.</desc>
-		<image>./media/images/Ninja - Shadow of Darkness-image.png</image>
-		<video>./videos/Ninja - Shadow of Darkness-video.mp4</video>
-		<marquee>./images/Ninja - Shadow of Darkness-marquee.png</marquee>
-		<thumbnail>./images/Ninja - Shadow of Darkness-thumb.png</thumbnail>
-		<rating>0.65</rating>
-		<releasedate>19980930T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Eidos Interactive</publisher>
-		<genre>Aventura</genre>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./XS Junior League Soccer (USA).chd</path>
@@ -16304,5 +16288,30 @@ Execute manobras autênticas como "zerinhos", cavalos de pau, cavalos de pau rev
 		<genre>Corrida, Pilotagem</genre>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Nanotek Warrior.PBP</path>
+		<name>Nanotek Warrior</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ninja - Shadow of Darkness.chd</path>
+		<name>Ninja : Shadow of Darkness</name>
+		<desc>In NINJA: Shadow of Darkness, players assume the role of Kurosawa, a young but powerful ninja. Unlike many ninjas before him, he is able to summon powers of the arcane; magical spells that do great damage to those cast upon. And he'll need it - the world has been cast into utter darkness in which monsters and creatures from the beyond roam.
+
+There are four different worlds broken into 11 distinctive levels - Kurosawa will travel throughout cemeteries, rocky mountain terrain, coastal areas, deep and dark forests, etc. The goal in each is to survive, which is often easier said than done. As alluded to earlier, monsters (such as goblins) are out for your blood - even fellow ninjas who've turned to the dark side will meet you with resistance.</desc>
+		<image>./media/images/Ninja - Shadow of Darkness-image.png</image>
+		<video>./videos/Ninja - Shadow of Darkness-video.mp4</video>
+		<marquee>./images/Ninja - Shadow of Darkness-marquee.png</marquee>
+		<thumbnail>./images/Ninja - Shadow of Darkness-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19980930T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Aventura</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220810T134822</lastplayed>
+		<gametime>4575</gametime>
+		<lang>en</lang>
 	</game>
 </gameList>
